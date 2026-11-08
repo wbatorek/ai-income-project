@@ -47,7 +47,7 @@ Our system automates all three, plus the step before them: **finding the right n
 
 - [x] Episode 1: the opportunity. Notes and workbook in `course/`
 - [ ] Episode 2: develop. Deep analysis of product types and how buyers decide (high-effort agent)
-- [ ] Research: how to build a self-running multi-agent system with operator approval
+- [x] Research: how to build a self-running multi-agent system with operator approval
       ([`research/self-running-ai-system.md`](research/self-running-ai-system.md))
 - [ ] Design the niche-finding mechanism and product-planning agent ([`system/`](system/))
 - [ ] Episode 3: distribute and deliver. Full demo

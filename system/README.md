@@ -4,7 +4,7 @@ A multi-agent system that **finds niches, plans, creates, distributes and sells 
 mostly by itself, with the **operator approving key decisions**.
 
 > Status: draft. To be refined with
-> [research/self-running-ai-system.md](../research/self-running-ai-system.md) (in progress) and the
+> [research/self-running-ai-system.md](../research/self-running-ai-system.md) (done, 8 Nov) and the
 > Episode 2 analysis of product types and how buyers decide (course/sessions/02-develop.md).
 
 ## Agents
