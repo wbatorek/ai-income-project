@@ -9,6 +9,7 @@ hand-picked success stories. Anything we act on should be checked in [`../resear
 ## Contents
 - `sessions/`: notes from each session (summary, key ideas, quotes, tasks)
   - [01-the-opportunity.md](sessions/01-the-opportunity.md)
+  - [02a-vip-choosing-products.md](sessions/02a-vip-choosing-products.md): five unlocks, product promise, draft scoring model
 - `workbooks/`: filled-in workbooks (Episode 1 password: `INTEREST`)
 
 ## Frameworks taught
