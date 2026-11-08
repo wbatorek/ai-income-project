@@ -30,6 +30,7 @@ We keep the source of every piece of knowledge clear:
 | [`course/`](course/) | Session notes, workbooks, frameworks taught in the course | **AI Income Challenge** (Iman Gadzhi, Nov 2026) |
 | [`research/`](research/) | Market, niche, tool and platform research | **Our own research** |
 | [`system/`](system/) | Architecture and design of our AI system | Our design, using both sources |
+| [`tax/`](tax/) | Tax and legal setup (Noventa Tech LLC, residency, VAT and sales tax) | Our notes, to confirm with an adviser |
 | [`products/`](products/) | One folder per product: idea, validation, assets, launch, results | Our work |
 
 When a document in `system/` or `products/` relies on something, it links to where it came from,
