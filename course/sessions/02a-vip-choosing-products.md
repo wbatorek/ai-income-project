@@ -3,6 +3,27 @@
 Recording: https://notes.wisprflow.ai/shared/c-EKprVrrKPfOkL-1qRXkE4xd6sA2bp9Mqu_v-BFnt4
 (Wispr Flow meeting `b96c936a-2bc5-491a-9902-b855051e3121`, ~57 min, transcript ~68k characters, read in full.)
 
+**Verdict: ≈ 74% valuable** (about 42 of 57 min are LESSON + EXAMPLE). The rest is motivation 13%, pitch 7% ("the AI does
+it for you"), logistics 6% and proof <1%. A dense teaching session: 00:08–00:52 is almost all method.
+
+## Segment map
+Full labelled transcript (22 segments, times ±3 min): [`../transcripts/02a-vip.md`](../transcripts/02a-vip.md)
+
+| Thailand time (≈) | What | Label |
+|---|---|---|
+| 00:00–00:08 | Welcome, CMO intro, giveaway winners, "you don't need to understand, the AI does it", Day 1 recap | LOGISTICS / PITCH / MOTIVATION |
+| **00:08–00:16** | **Definition (developed + delivered digitally), recipe-not-cake economics, four formats, start simple** | **LESSON** (seg 5–7) |
+| **00:16–00:19** | **Format examples: WoW ebook, Ultimate Budget Tracker ($7k/mo), drawing course; 37 × $250 niche math** | **EXAMPLE** (seg 8) |
+| **00:19–00:33** | **20 vs 200 pages; Unlock 1 Pain (pillars, reminder frequency, "90%"); Unlock 2 Worsening pain** | **LESSON** (seg 9–12) |
+| 00:33–00:34 | Client results slide | PROOF |
+| **00:34–00:42** | **Unlock 3 Transformation (point A: feel / fear / avoid / self-image → point B; articulation)** | **LESSON** (seg 14) |
+| 00:42–00:44 | "Our software maps it for you"; income is relative | PITCH / MOTIVATION |
+| **00:44–00:52** | **Unlock 4 Specificity, Unlock 5 Speed, AI scores on the five, four-part product promise** | **LESSON** (seg 17–20) |
+| 00:52–00:53 | VIP homework (post an idea tested against the five unlocks) | LOGISTICS |
+| 00:53–00:57 | Iman's close (boxing basics, rereading books, VIP flattery) | MOTIVATION |
+
+Note: the "≈ min" positions used further down are minutes from stream start; Thailand time ≈ 00:00 + that minute.
+
 **Who spoke:** Iman Gadzhi opened and closed. The main talk (≈ min 5–52) was by the CMO of "Consulting.com".
 The speech-to-text wrote his name as **"Luis Berger"**. He says he is from Brazil, so it may be spelled *Luiz*; the surname is **unverified**.
 He started as an intern at Iman's marketing agency and has worked with him for 6–7 years.
