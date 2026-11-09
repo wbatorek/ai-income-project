@@ -1,6 +1,6 @@
 # Workbook 2 (Episode 2: develop): notes
 
-Password: `lever`. 37 pages. Unlocked copy: [workbook-02.pdf](workbook-02.pdf).
+Password: `lever`. 37 pages. Unlocked copy: [workbook-02.pdf](workbook-02.pdf). **Filled in:** [workbook-02-filled.pdf](workbook-02-filled.pdf) (blue text; signature and date left blank).
 
 **Verdict: about 20% useful.** Most pages repeat Episode 2, then come proof (leaderboards,
 testimonials), the Monetise offer and reflection exercises aimed at the purchase decision. The one
@@ -42,7 +42,8 @@ structures and scores a "profitable pocket".
   going away". It's fast to consume and fast to build. (p.11)
 - **Progression:** $15 + $50 + $100 per day = $165/day ≈ **$5,000/month**. (p.13)
 
-## Personal reflection questions (not filled)
-Pages 15, 26 and 32–36 ask about your why, fears and decision to join Monetise. We have already
-decided not to buy the offer and to build our own system
-([operator insights](../../knowledge/operator/insights.md)), so these were left blank.
+## Personal reflection questions
+Pages 15, 25 and 31–36 ask about your why, fears and the decision to join Monetise. They are filled
+in from what the operator has said so far: his why, not targeting his own professions, and the
+decision **not to buy Monetise but to build our own system**
+([operator insights](../../knowledge/operator/insights.md)). Review and edit if needed.
