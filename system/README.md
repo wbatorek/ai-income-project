@@ -27,10 +27,28 @@ An **orchestrator** runs the pipeline, schedules agents and pauses at approval g
 - Any spending (ads, tools, subscriptions)
 - Price changes and refunds above a threshold
 
-## Niche-finding mechanism (to design after Episode 2)
-Inputs: course knowledge on product types and buyer decisions, plus our market research.
-Output: a repeatable scoring model and a pipeline that produces a ranked list of product
-opportunities each week.
+## Niche-finding mechanism and product planning (v1)
+Full design: [niche-finding.md](niche-finding.md).
+- **Scoring model v1 (0–100):**
+  - 14 criteria, each scored 1–5 and weighted.
+  - The course's five unlocks carry 45%. Demand proof, ability to pay and solution gap carry 26%.
+    Reach plus a new **warm access to buyers** factor carry 17%. Verifiability, evidence base,
+    effort and risk carry 12%.
+  - **Hard gates:** pain, specificity, **demand proof (searched + paid)**, access to buyers,
+    operator verifiability, evidence base, policy risk.
+  - **Thresholds:** 75+ recommend, 65–74 cheap test, 55–64 needs evidence.
+  - **Kill rules:** a 21-day launch test.
+- **Pipeline:**
+  - Steps: seeds → pockets → one evidence pack per niche in `research/niches/<slug>/` → scoring →
+    promise and ranked plan in `products/plan/` → ✋ G1 → hand-off to `products/<slug>/`.
+  - Data collection is automated only where platform terms allow it. The rest is a manual checklist.
+  - Cost is about $15 a week of LLM spend and about 1–1.5 h a week of operator time.
+- **Product-planning agent:**
+  - Ranks the scored niches, with a first-sale rule (warm access and a short build come first).
+  - Balances the portfolio, picks formats and sets prices on a ladder (free sample → $19–49 →
+    $79–149 → team licence).
+- **MVP:** three weekly Claude Code routines with file-based state. The operator approves in
+  `system/approvals/queue.md` until a Telegram bot exists.
 
 ## Open questions
 - Framework and stack (see the research report)

@@ -47,10 +47,12 @@ Our system automates all three, plus the step before them: **finding the right n
 ## Roadmap
 
 - [x] Episode 1: the opportunity. Notes and workbook in `course/`
-- [ ] Episode 2: develop. Deep analysis of product types and how buyers decide (high-effort agent)
+- [x] Episode 2: develop. VIP call (~74% useful) and main session (~18% useful) analysed and segmented; knowledge merged into `course/knowledge/`
 - [x] Research: how to build a self-running multi-agent system with operator approval
       ([`research/self-running-ai-system.md`](research/self-running-ai-system.md))
-- [ ] Design the niche-finding mechanism and product-planning agent ([`system/`](system/))
+- [x] Design the niche-finding mechanism and product-planning agent ([`system/niche-finding.md`](system/niche-finding.md))
+- [x] Research product ideas from my own expertise ([`research/product-ideas-own-expertise.md`](research/product-ideas-own-expertise.md))
+- [ ] Before Nov 11: confirm a NetSuite account I may use commercially, and check paid demand for the formula library (~15 min)
 - [ ] Episode 3: distribute and deliver. Full demo
 - [ ] Episode 4: Mark Tilbury
 - [ ] Nov 11–15: build and launch the **first product** (partly manual is fine)
