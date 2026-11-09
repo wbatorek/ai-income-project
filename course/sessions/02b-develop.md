@@ -318,7 +318,7 @@ Anchor: "worth $5,000".
 
 ## 10. **OUR INTERPRETATION:** implications for the niche/product scoring model
 
-> **⚠ OUR INTERPRETATION, NOT COURSE CONTENT.** This refines the draft model in [02a §10](02a-vip-choosing-products.md) (section 10) using what the main session added.
+> **⚠ OUR INTERPRETATION, NOT COURSE CONTENT.** This refines the draft model in [02a §10](02a-vip-choosing-products.md) using what the main session added.
 
 ### 10.1 What changes, and why
 
