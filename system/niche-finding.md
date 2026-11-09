@@ -1,5 +1,15 @@
 # Niche finding and product planning (design v1)
 
+> **Status (9 Nov): phase 1 draft, under revision.** Changes decided after this was written:
+> - Don't target the operator's own professions (Java, NetSuite). Experts there solve problems with
+>   AI, not PDFs. So the "warm access" and "operator verifiability" criteria and the validation
+>   examples in §6 are under review. [knowledge/operator](../knowledge/operator/insights.md)
+> - Research needs a second layer, **bestsellers**, next to demand. [ideas #1](../ideas/README.md)
+> - §5 (MVP implementation) and §6 (validation run) are **premature**: tools are chosen in phase 2
+>   and the build is phase 3. Keep them only as a reference.
+> - Current requirements: [requirements.md](requirements.md).
+
+
 *Our design, 9 Nov 2026. It uses course knowledge and our own research, and cites both so you can tell
 them apart. It replaces the two draft scoring models in the session notes.*
 

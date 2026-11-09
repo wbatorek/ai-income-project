@@ -1,18 +1,18 @@
-# The AI system (design, draft v0)
+# The AI system (phase 1: requirements and design drafts)
 
 A multi-agent system that **finds niches, plans, creates, distributes and sells digital products**,
 mostly by itself, with the **operator approving key decisions**.
 
-> Status: draft. To be refined with
-> [research/self-running-ai-system.md](../research/self-running-ai-system.md) (done, 8 Nov) and the
-> Episode 2 analysis of product types and how buyers decide (course/sessions/02-develop.md).
+> Status: phase 1. Start with **[requirements.md](requirements.md)**. Tools are chosen in
+> phase 2 and the pipeline is built in phase 3.
 
 ## Agents
 
 | # | Agent | Job | Output |
 |---|---|---|---|
-| 1 | **Market & Trend Research** | Scan markets, communities and bestseller lists. Spot rising demand and underserved problems | Niche candidates with evidence |
-| 2 | **Niche Scoring & Product Planning** | Score niches (demand, competition, buyer intent, price, distribution access, fit with our skills). Decide which products to make | Ranked product plan ✋ |
+| 1a | **Demand Research** | What people need and search for: pain, urgency, recurring questions | Problems and pockets with evidence |
+| 1b | **Bestseller Research** | What sells best now: products, formats, prices, sales signals. Extract the idea to make a better product | Proven product patterns |
+| 2 | **Niche Scoring & Product Planning** | Combine demand and bestseller evidence, score opportunities (demand, proof of payment, gap, price, reach). Decide which products to make | Ranked product plan ✋ |
 | 3 | **Product Creation** | Write and design the product (PDF, template, guide, Notion…) | Product draft ✋ |
 | 4 | **Distribution & Marketing** | Find the communities where buyers gather, write posts and listings, follow each platform's rules | Distribution plan and posts ✋ |
 | 5 | **Sales & Delivery** | Product listing, pricing, automated delivery (Whop or similar), customer support | Live product ✋ |

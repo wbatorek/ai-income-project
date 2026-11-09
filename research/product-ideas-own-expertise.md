@@ -1,5 +1,11 @@
 # Product ideas that fit the owner's own expertise (audio, Java, NetSuite)
 
+> **Deprioritised (9 Nov).** The operator decided not to target his own professions (Java,
+> NetSuite): professionals there solve their problems with AI and research and wouldn't buy a PDF.
+> Kept as reference; the audio ideas (e.g. ACX kit, aimed at authors, not engineers) may still be
+> relevant. See [knowledge/operator](../knowledge/operator/insights.md).
+
+
 *Research report, 9 Nov 2026. This is our own research, not course material. Scores use the draft model in [`course/sessions/02a-vip-choosing-products.md` §10](../course/sessions/02a-vip-choosing-products.md).*
 
 ## Summary (10 lines)
