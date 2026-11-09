@@ -47,4 +47,4 @@ hand-picked success stories. Anything we act on should be checked in [`../resear
 
 Workbook 2 password: `lever`
 
-Workbook 1 password: `INTEREST`
+Workbooks: [1](workbooks/workbook-01-filled.pdf) (password `INTEREST`), [2](workbooks/workbook-02.pdf) (password `lever`, [notes](workbooks/workbook-02-notes.md))

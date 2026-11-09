@@ -79,6 +79,15 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 
 > Our note: Zada's buckwheat guide price (€14.99) and income figures, and Gael's "pediatric emergencies" product, appear only in PROOF segments (01-opp ~01:57; 02b-main ~01:12), so they are not counted as course knowledge here. The Pokémon €37k/month at €25/month implies ~1,480 subscribers (our arithmetic).
 
+### More examples from Workbook 2 (claims, unverified)
+| Niche / product | Claim | Source |
+|---|---|---|
+| Speed reading and memorisation ("Jonathan") | 240,000 buyers, $4.8M+ | WB2 p.9 |
+| "Millionaire Mindset", built with their tool in ~1.5 h | 14,000 buyers, $370k | WB2 p.10 |
+| Paediatric emergencies (med student, Mexico) | $12,995 profit | WB2 p.20 |
+| Buckwheat diet for German women, put in front of a pool of 70,000 buyers | $210k | WB2 p.23 |
+| Average Monetise client (including those with $0) | $7,584 | WB2 p.19 |
+
 ## 5. Price points and models heard so far
 
 - One-off: **$19** (credit cards), **$29** (Millionaire Mindset), **$20–$189** (Jonathan) (01-opp ~02:08; 02b-main ~01:19, ~01:32).

@@ -124,6 +124,27 @@ A pocket is worth building on when people are:
 | Productivity | Quick decision-making frameworks for first-time entrepreneurs |
 | Memory (looks too narrow) | Speed reading and advanced memorisation (240k buyers) (~01:32) |
 
+## 5b. How the course's tool structures a pocket (Workbook 2, p.9 and p.28)
+
+From the Synthesise AI screenshot and text in [Workbook 2](../workbooks/workbook-02-notes.md):
+
+- **Data sources it claims to scan:** Google, Amazon and online communities. (WB2 p.9)
+- **Output:** 20 profitable pockets, sorted by profit potential. "Don't know which to pick? Go with
+  the highest." (WB2 p.9)
+- **Each pocket card contains** (WB2 p.28):
+  - a product promise: "I help [who] [get result] without [pain]…"
+  - **Industry** and **Niche** (e.g. Parenting → Helping children build reliable morning routines)
+  - **Specific knowledge** needed (e.g. age-appropriate task sequencing, visual cues)
+  - **Problem solved** (a paragraph describing the buyer's situation)
+  - **Four scores out of 10:** **Pain, Worsening, Purchasing power, Speed**, plus an overall
+    score (e.g. 8.4, 8.0)
+- Examples on screen: morning routines for parents of school children; finals revision for
+  college students; aim consistency for competitive shooter players (gaming).
+
+> Our note: their tool scores 4 of the 5 unlocks (no explicit transformation or specificity score)
+> and adds **purchasing power**. This is close to our own scoring draft in
+> [system/niche-finding.md](../../system/niche-finding.md).
+
 ## 6. Niche selection rules (checklist)
 
 - [ ] Start from a buyer's problem, not from your passion (02b-main ~01:26–01:27)
