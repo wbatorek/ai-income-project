@@ -1,7 +1,7 @@
 # Buyer psychology: how buyers decide
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md).
 Times are Thailand time and approximate (±3–5 min). None of these principles was backed by data in the course.
 
 ---
@@ -11,6 +11,7 @@ Times are Thailand time and approximate (±3–5 min). None of these principles 
 - **Digital products aren't hunted down; they find the buyer.** "Nobody wakes up and googles 'buy golf ebook'." The last thing you bought online "showed up in a place that you were already spending time and was put in front of you by someone that you already trusted. And that is exactly why you bought it" (01-opp ~02:20).
 - **Presold buyers.** Supermarket brands don't sell; they put the cereal "in a place where most people go… where people are already predisposed to buy". You may not even want cereal and still buy it on the way (01-opp ~02:15).
 - **Buyers are already gathered** "already interested, already presold" in groups of 10k–100k (01-opp ~02:21). See [distribute.md](distribute.md).
+- **Counter-example from the course itself:** the Day 3 presenter needed a wedding budget planner, "went on Google… searched for a tracker… related to wedding expenses", paid "a couple of dollars" and bought it (03a-vip ~00:07). See §7.
 
 ## 2. What makes someone want to buy
 
@@ -35,6 +36,9 @@ Times are Thailand time and approximate (±3–5 min). None of these principles 
 - **They must be able to picture it:** "If your digital product can get them to visualize this transformation… that's what they're buying" (02a-vip ~00:35).
 - **They pay for the answer, not the volume.** "When you had a problem, did you want to watch 12 hours of video, or did you just want the answer?" "Nobody pays for volume or for how much work that you put into it. They pay to make a problem go away" (02b-main ~01:41).
 - **The value isn't the creator.** "People don't care who you are… does it fix the problem that I have?" (02a-vip ~00:17); "Nobody cares who put together a compilation of 200 low-carb recipes. They care about the recipes themselves" (01-opp ~02:09).
+- **Two things only: the problem and the fix.** "Buyers only care about 2 main things, and that is the problem that they're currently facing and the fix" (03a-vip ~00:06). Buying the wedding tracker, "not one time did I ever consider who made that template… The only thing I really looked at was… is this thing going to actually provide what I need it to provide" (03a-vip ~00:07).
+- **Intrinsic vs borrowed value.** Most purchases are for **intrinsic value** (the outcome itself, like Google Maps directions). **Borrowed value** (a famous creator, a signed jersey) lets a seller charge more, but is "the absolute minority" (03a-vip ~00:09–00:11). See [product-types.md](product-types.md) §2.1.
+- **They don't ask where you're from.** "They won't ask you like, where are you from?… They'll just buy the product, they'll pay you, and then they'll just leave", "because they're literally just coming for the outcome" (03a-vip ~00:44).
 
 ## 4. Why they pay when the information is free
 
@@ -50,6 +54,9 @@ Times are Thailand time and approximate (±3–5 min). None of these principles 
 - **Authority by consensus, not personal credentials:** "You never have to say, 'I'm an expert on this topic.' Instead, it says, 'Here is what the experts on this topic agree on after analyzing over 150 scientific studies.' It's all about positioning." Include the references so every claim can be traced (02b-main ~01:36).
 - **Speed, if believable:** faster to the same result is worth more (dentist: 5 min vs 5 h; 2 months vs 6) (02a-vip ~00:49; 02b-main ~01:41). An unrealistic claim ("10 kilos in two days") kills belief, "and then it doesn't matter" (02a-vip ~00:49).
 - **Trusted placement:** shown by "someone that you already trusted" (01-opp ~02:20).
+- **Presentation:** "Often a sale is made based on trust. And… the way that your digital product is represented and looks is a part of that"; a premium product "deserves premium branding" (03a-vip ~00:29).
+- **A simple checkout:** a simple payment process "makes a huge, huge difference on the amount of sales" (03a-vip ~00:25).
+- **Price as a signal (EXAMPLE):** at $200 Michal's buyers "were asking too many questions"; at $1,500 "they were like, all right, it's fine. They paid." Andres: with a higher price "you actually get easier clients" and "they're actually valuing the offer" (03a-vip ~00:39). One anecdote, and the offer included 1:1 mentorship.
 
 ## 6. Buying-trigger checklist
 
@@ -63,10 +70,12 @@ Use when writing a product promise, title or sales page:
 - [ ] Sells "the answer", not pages or hours (02b-main ~01:41)
 - [ ] Backs the method with consensus and references rather than "me" (02b-main ~01:36)
 - [ ] Appears where the buyer already spends time, through someone they trust (01-opp ~02:20)
+- [ ] Looks professional and trustworthy (cover, page, branding) (03a-vip ~00:29)
+- [ ] Checkout is simple (03a-vip ~00:25)
 
 ## 7. Contradictions and tensions
 
-- **Search:** "Nobody wakes up and googles 'buy golf ebook'… digital products aren't hunted down by buyers" (01-opp ~02:20–02:21) **vs** pockets defined by what "people are already searching for" and AI that "can scan Google, Amazon" (02b-main ~01:19, ~01:33). Reconcilable as: people search for the *problem*, but buy where they're shown a product by someone they trust.
+- **Search:** "Nobody wakes up and googles 'buy golf ebook'… digital products aren't hunted down by buyers" (01-opp ~02:20–02:21) **vs** pockets defined by what "people are already searching for" and AI that "can scan Google, Amazon" (02b-main ~01:19, ~01:33). Reconcilable as: people search for the *problem*, but buy where they're shown a product by someone they trust. The Day 3 VIP presenter, however, searched Google for a wedding expense tracker and bought one (03a-vip ~00:07), so search-led purchases of tools/templates clearly happen.
 - **Does the solution matter?** Once you articulate the problem well, "it doesn't really matter what solution you propose" (02a-vip ~00:39) **vs** 150+ references are "what separates a digital product that actually delivers on its promise from the recycled garbage" (02b-main ~01:36), and "a painful problem… **and a good solution**" (02a-vip ~00:27).
 
-> Our note: these principles match standard direct-response copywriting (pain, specificity, "enter the conversation in their head"). The "2×" figure loosely borrows from loss aversion and is rhetoric, not a measured number. Not covered so far: price sensitivity, objections, reviews or social proof for end buyers, refund behaviour.
+> Our note: these principles match standard direct-response copywriting (pain, specificity, "enter the conversation in their head"). The "2×" figure loosely borrows from loss aversion and is rhetoric, not a measured number. Not covered so far: objections, reviews or social proof for end buyers, refund behaviour. Price sensitivity: only Michal's anecdote (§5).

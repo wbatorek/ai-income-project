@@ -1,7 +1,7 @@
 # Choosing products: five unlocks, product promise, profitable pockets
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md).
 Times are Thailand time and approximate (±3–5 min).
 
 ---
@@ -13,10 +13,12 @@ Times are Thailand time and approximate (±3–5 min).
 - **Core reduction:** "finding someone with a problem that they are willing to pay to solve and creating a product for them. That's all we're doing here" (02b-main ~01:19).
 - **Pain is "90% of the way there":** "If we find a painful problem to solve and a good solution for it… you can really get everything else wrong… and you're still going to make money" (02a-vip ~00:27, ~00:32).
 - **Picking the right pocket is "basically half the way"** to a successful product (02b-main ~01:33).
+- **The right problem is also how you stand out:** "If you're fixing the right problem, you automatically start to stand out… Taking someone from point A to point B is the number one thing that is actually going to help you stand out" (03a-vip ~00:28).
 
 ## 2. Idea rules: before you choose
 
 - **An idea is almost worthless.** Don't look for a "new telephone" or an Uber-style invention. "Most of the times, you want a very simple idea that people already think about… It's so much easier to go for something that's proven and simple" (02a-vip ~00:23).
+- **Ask the right question.** Not "who am I to sell this? Nobody knows me", but "does it take someone from point A to point B? Does it fix the problem? If it does that, then it doesn't matter who you are" (03a-vip ~00:08).
 - **It just needs to fix a problem.** "As long as human beings have problems, the demand for digital products is always going to be there" (02a-vip ~00:23). "If your product doesn't fix any pain point, no one's going to buy it" (02a-vip ~00:22).
 - **The passion trap.** "The market doesn't care about your passion. Not even a little." It only cares whether your product "solves a problem that people are already desperately looking for an answer to and can't find a good enough solution to yet" (02b-main ~01:26).
   - Snowboard shop on a beach in the Bahamas: not a bad topic, wrong buyers. "One of them starts with you. The other starts with a buyer" (02b-main ~01:27).
@@ -114,6 +116,8 @@ A pocket is worth building on when people are:
 
 **Where to look (named, not demonstrated):** "AI can scan **Google, Amazon, and all online communities** and find the gaps" (02b-main ~01:19).
 
+**Where to look (EXAMPLE): your audience's questions.** Michal's followers kept messaging "how are you growing your page?"; "when I saw the demand, that's when I felt like creating a digital product… I created a product which I knew about" (03a-vip ~00:49). Later his followers asked "can I get this?" and he made ebooks on request (03a-vip ~00:46).
+
 ### 5.2 Broad topic → pocket (02b-main ~01:30–01:31)
 
 | Broad topic | Profitable pocket |
@@ -160,6 +164,7 @@ From the Synthesise AI screenshot and text in [Workbook 2](../workbooks/workbook
 - [ ] Ignored by big companies (02b-main ~01:30)
 - [ ] A short, realistic time to result is possible (02a-vip ~00:49)
 - [ ] It can be written as a four-part product promise (02a-vip ~00:51)
+- [ ] One format chosen for it (ebook, video program, digital asset, digital mind), plus its point A and point B (Day 3 homework, 03a-vip ~00:31)
 - [ ] Among scored options, pick the highest (02b-main ~01:33; demo 8.9/10, 02b-main ~01:45)
 
 ## 7. Contradictions
@@ -168,7 +173,7 @@ From the Synthesise AI screenshot and text in [Workbook 2](../workbooks/workbook
 - **How many buyers you need:** "a few dozen people… already makes a full-time income" / 37 people (02a-vip ~00:18; 01-opp ~01:55) **vs** "a few hundred people" (02b-main ~01:30) **vs** "common enough… probably millions and millions" of divorced dads (02a-vip ~00:46) **vs** Jonathan's 240,000 buyers (02b-main ~01:32).
 - **Weight loss:** "not the most profitable… you got used to it very quickly" (02a-vip ~00:28) **vs** the 4-week weight-loss plan used as the model of transformation value (02a-vip ~00:40) and postpartum weight loss / buckwheat diet as model pockets (02b-main ~01:30–01:31).
 - **Simple, obvious ideas vs non-obvious ideas:** "a very simple idea that people already think about" (02a-vip ~00:23) **vs** "your first ideas are almost always your worst… the not-so-obvious great ideas are what I call profitable pockets" (02b-main ~01:29–01:30).
-- **Passion vs your own background:** "the market doesn't care about your passion" (02b-main ~01:26) **vs** the Synthesize start screen asking for "a skill, a method you know, a group you understand, maybe a problem you've solved in the past" (02b-main ~01:44).
+- **Passion vs your own background:** "the market doesn't care about your passion" (02b-main ~01:26) **vs** the Synthesize start screen asking for "a skill, a method you know, a group you understand, maybe a problem you've solved in the past" (02b-main ~01:44), and Michal's first product: "I created a product which I knew about. I used my knowledge" (03a-vip ~00:49).
 - **What matters most:** pain is "90%" (02a-vip ~00:27) **vs** "the product is the piece that everything else hangs on" (02b-main ~01:08) **vs** the pocket is "basically half the way" (02b-main ~01:33).
 - **Unlock numbering slip:** the 20-vs-200-page point is said to be "because of the fourth unlock" (02a-vip ~00:20) but explained with speed, the fifth (02a-vip ~00:49).
 

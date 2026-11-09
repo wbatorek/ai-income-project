@@ -2,7 +2,7 @@
 
 Step 1 of the 3D system (see [frameworks.md](frameworks.md)). Course content only (LESSON and EXAMPLE segments).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -12,6 +12,8 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 - **Woodworking demo:** a woodworking product "put together without knowing a single thing about woodworking in a few minutes with AI" (shown on slides only) (01-opp ~02:19).
 - **No expertise, no skill, no capital, no face:** the method works "without being an expert at anything… without spending a dollar to start, and without ever showing your face" (02b-main ~01:08).
 - **Whose output is it?** Use AI to build something *you* own, not work for an employer or client (01-opp ~01:45). See [frameworks.md](frameworks.md).
+- **Before AI it wasn't a beginner model:** you needed to be an expert, "a research and development team", "copywriters to actually write all the scripts" and a custom hosting platform costing "hundreds of thousands of dollars" (03a-vip ~00:45).
+- **What you're building:** "information that is synthesized into a method that achieves an outcome" (03a-vip ~00:07).
 
 ## 2. The three secrets of Develop (02b-main ~01:15)
 
@@ -47,6 +49,16 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 - **Start simple, add complexity later:** ebook or digital asset first; turn a working ebook into a course, then a digital mind (02a-vip ~00:15). Demo: "We're just trying to create the MVP here… if you find gold, you can keep digging. But let's find the gold first" (02b-main ~01:45).
 - **Value = transformation and speed, not length:** a 20-page ebook can beat a 200-page one (02a-vip ~00:20, ~00:49); a 4-week plan "could be five pages" (02a-vip ~00:40).
 
+## 4b. Faceless production by format (03a-vip ~00:14–00:30)
+
+- **Ebook:** build it with AI "in minutes" and use that speed to test "topics and offers very, very quickly" (03a-vip ~00:16).
+- **Video program, faceless:** (1) **Loom**: records your screen, camera optional, best for walking through a process or software; (2) **Google Slides with a voiceover**; (3) **Higgsfield** AI avatars that teach, "very cool" but "the bang for buck isn't quite there". Options 1–2 are "still the best way to go" (03a-vip ~00:17–00:19).
+- **Polish matters less than value:** a $25,000 enterprise course was recorded entirely in Loom (03a-vip ~00:18).
+- **Digital asset:** a tool people use (Notion templates, website templates, trackers) (03a-vip ~00:12, ~00:20).
+- **Digital mind:** an agent "trained on whatever content you really want" so it answers like that person; their internal one uses 10 years of posts, programmes, team-meeting transcripts and coaching calls. "You don't need to have like coding experience… There's actually platforms" (not named) (03a-vip ~00:21–00:22). Delivered via a link that can be embedded on Whop by iFrame (03a-vip ~00:27).
+- **Design and branding with AI:** "AI should be doing 90% of the work when it comes to design, especially in the early stages, and you should just be checking it, making a couple of amendments"; Higgsfield is named as a design tool (03a-vip ~00:29). Presentation matters because "a sale is made based on trust" (03a-vip ~00:29).
+- **Pre-sell before finishing:** Josh Comeau sold 4,800 pre-orders of an unfinished course; possible "if the value of the product is really there" (03a-vip ~00:17).
+
 ## 5. The Synthesize AI process (recorded demo, as described) (02b-main ~01:43–01:48)
 
 The course's own tool. Inputs, data sources, scoring logic, prompts and the chosen topic were **not shown**.
@@ -72,6 +84,8 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 - **With ChatGPT:** his first ebook ("Instagram from 0 to 1,000 followers under 45 days") took **almost two weeks**, 3–4 h a day, prompting and placing images by hand (~03:42).
 - **With Synthesize:** input "I need an ebook for ADHD" → **15–20 topics with scores** (8.9, 9.7) → picked the highest → client asked for changes → typed edits manually, images already in → finished in **2–4 days** (~03:44).
 - He found specialised tools better than "the normal ones like Claude, ChatGPT. They are good though. For daily basis" (~03:47).
+- **Day 3 VIP version:** with ChatGPT one ebook took "around two weeks"; with Synthesize "two to three days". "The initial thing will be like within one to two minutes. But if you want to add something, it's just like maybe 30 to 40 minutes" of manual changes (pictures, client requests) (03a-vip ~00:46–00:47). He typed a topic, got "a lot of lists" (topic options), downloaded the ebook, edited by hand and sent it (03a-vip ~00:46).
+- **Done-for-you as a business:** he advertised in his stories "who needs ebooks or digital products, just DM me" and built ebooks for followers ($67 for the ADHD one) (03a-vip ~00:46).
 
 ## 6. Iterate and build a portfolio (02b-main ~01:48)
 
@@ -85,7 +99,7 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 ## 7. Contradictions
 
 - **Page count:** 1 or 20 pages doesn't matter (01-opp ~01:48); 20 or even 5 pages can beat 200 (02a-vip ~00:20, ~00:40) **vs** a ~45-page PDF as the standard (02b-main ~01:41) and "summarize it into 40 pages" (02b-main ~01:36).
-- **Build time:** "in minutes" (01-opp ~02:19), "around 40 minutes" (02b-main ~01:41), "less than an hour" (02b-main ~01:15), 5–10 min of generation (02b-main ~01:46) **vs** Michal's 2–4 days with manual edits (02b-main ~03:44).
+- **Build time:** "in minutes" (01-opp ~02:19), "around 40 minutes" (02b-main ~01:41), "less than an hour" (02b-main ~01:15), 5–10 min of generation (02b-main ~01:46) **vs** Michal's 2–4 days with manual edits (02b-main ~03:44) and "two to three days" in the Day 3 VIP, though only "one to two minutes" for the first draft plus "30 to 40 minutes" of edits (03a-vip ~00:46–00:47).
 - **"No writing, no editing"** (02b-main ~01:41) **vs** Michal typing changes by hand (02b-main ~03:44).
 - **Solution quality:** "it doesn't really matter what solution you propose" (02a-vip ~00:39) **vs** 150 references are what separate a product that "delivers on its promise" from "recycled garbage" (02b-main ~01:36).
 

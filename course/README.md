@@ -44,6 +44,7 @@ hand-picked success stories. Anything we act on should be checked in [`../resear
 - [01-the-opportunity.md](sessions/01-the-opportunity.md)
 - [02a-vip-choosing-products.md](sessions/02a-vip-choosing-products.md): five unlocks, product promise, draft scoring model
 - [02b-develop.md](sessions/02b-develop.md): main Episode 2 session: profitable pocket, synthesis, packaging (~18% useful)
+- [03a-vip.md](sessions/03a-vip.md): Day 3 VIP: intrinsic vs borrowed value, four faceless formats, Whop hosting (~70% useful, ~15–18 min new)
 
 Workbook 2 password: `lever`
 

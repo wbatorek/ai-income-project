@@ -4,7 +4,7 @@ Only the **LESSON** and **EXAMPLE** content of the processed sessions, merged by
 Our own interpretation is kept to clearly marked `> Our note:` blocks. The scoring model is not here; it belongs in `system/`.
 Everything is what the course teaches, **not** independently checked (see [../README.md](../README.md)).
 
-**Sessions processed:** Episode 1 (main), Episode 2 VIP, Episode 2 main. Episode 3 (distribution, delivery) is still to come.
+**Sessions processed:** Episode 1 (main), Episode 2 VIP, Episode 2 main, Episode 3 VIP. The Episode 3 main session (distribution method, borrowed value, "hidden method") is still to come.
 
 **Citation format:** `(session ~HH:MM)`, Thailand time, ±3–5 min.
 
@@ -13,24 +13,25 @@ Everything is what the course teaches, **not** independently checked (see [../RE
 | `01-opp` | [transcripts/01-the-opportunity.md](../transcripts/01-the-opportunity.md) |
 | `02a-vip` | [transcripts/02a-vip.md](../transcripts/02a-vip.md) |
 | `02b-main` | [transcripts/02b-main.md](../transcripts/02b-main.md) |
+| `03a-vip` | [transcripts/03a-vip.md](../transcripts/03a-vip.md) |
 
 ## Topic files
 
 | File | What it covers |
 |---|---|
-| [product-types.md](product-types.md) | Definition (developed + delivered digitally), economics, the four formats, ~25 examples with niche, format, price and model |
+| [product-types.md](product-types.md) | Definition (developed + delivered digitally), economics, intrinsic vs borrowed value, the four formats and how to make each faceless, ~35 examples with niche, format, price and model |
 | [choosing-products.md](choosing-products.md) | Idea rules, the five unlocks, the four-part product promise, the profitable pocket and its 3-part demand test, a niche checklist |
 | [buyer-psychology.md](buyer-psychology.md) | How buyers decide: pain vs pleasure, reminder frequency, urgency, transformation, articulation, trust triggers |
 | [develop.md](develop.md) | Building with AI: the three secrets, 150+ source synthesis, ~45-page PDF MVP, Synthesize AI steps, iteration and portfolio |
-| [distribute.md](distribute.md) | Distribution not selling, buyers gathered in groups of 10k–100k, partner-audience signal. *To be completed in Episode 3* |
-| [deliver.md](deliver.md) | Automated delivery, Whop. *To be completed in Episode 3* |
+| [distribute.md](distribute.md) | Distribution not selling, buyers gathered in groups of 10k–100k, getting bought = standing out, faceless daily-content and audience-demand examples, partner-audience signal. *Method still to come in the Episode 3 main session* |
+| [deliver.md](deliver.md) | Automated delivery, payments, what Whop does (store, payments, delivery, add-ons), PayPal risk. *Setup still to come* |
 | [frameworks.md](frameworks.md) | Own what AI builds, digital real estate, 3D system, stop test, Turning Point, and an index of all named frameworks |
 
 ## Top 15 rules
 
 1. **Own what AI builds.** Use AI to build an asset you own, not to do work for an employer or client; ask "when AI finishes the work, whose is it?" (01-opp ~01:45)
 2. **Build assets, not hours (stop test).** If the money stops when you stop, it's a job; a digital product is built once and sold many times (01-opp ~01:49, ~02:18; 02a-vip ~00:11)
-3. **A digital product follows two rules:** developed digitally and delivered digitally; the format matters less than whether it solves a problem (01-opp ~01:48; 02a-vip ~00:09)
+3. **A digital product follows two rules:** developed digitally and delivered digitally; the format matters less than whether it solves a problem (01-opp ~01:48; 02a-vip ~00:09). Buyers care about the problem and the fix, not the creator (**intrinsic value**), which is why faceless works (03a-vip ~00:06–00:13)
 4. **The product decides everything.** The wrong product sells nothing even in front of 50,000 ready buyers (02b-main ~01:08)
 5. **Start from demand, not passion:** pick a problem people already search for, already pay for, and can't solve well yet (02b-main ~01:26, ~01:33)
 6. **Generate past your first ideas** and prefer proven, simple problems over new inventions (02b-main ~01:29; 02a-vip ~00:23)
@@ -52,12 +53,15 @@ Everything is what the course teaches, **not** independently checked (see [../RE
 | Buyers needed | "A few dozen" / 37 (02a-vip ~00:18; 01-opp ~01:55) | "A few hundred" (02b-main ~01:30); "millions" of divorced dads (02a-vip ~00:46); 240k (02b-main ~01:32) | choosing-products §7 |
 | Weight loss | Weak niche, people get used to it (02a-vip ~00:28) | Model examples: 4-week plan, postpartum, buckwheat diet (02a-vip ~00:40; 02b-main ~01:31) | choosing-products §7 |
 | Obvious ideas | "A very simple idea that people already think about" (02a-vip ~00:23) | "Your first ideas are almost always your worst" (02b-main ~01:29) | choosing-products §7 |
-| Passion | "The market doesn't care about your passion" (02b-main ~01:26) | The tool asks for your skill or a problem you've solved (02b-main ~01:44) | choosing-products §7 |
-| Length | 1, 5 or 20 pages can beat 200 (01-opp ~01:48; 02a-vip ~00:20, ~00:40) | ~45-page PDF standard (02b-main ~01:41) | develop §7 |
-| Build time | Minutes / ~40 min / < 1 h (01-opp ~02:19; 02b-main ~01:41, ~01:15) | Michal: 2–4 days with manual edits (02b-main ~03:44) | develop §7 |
+| Passion | "The market doesn't care about your passion" (02b-main ~01:26) | The tool asks for your skill or a problem you've solved (02b-main ~01:44); Michal built on "a product which I knew about" (03a-vip ~00:49) | choosing-products §7 |
+| Creator matters? | "People don't care who you are" (02a-vip ~00:17); industry "runs on intrinsic value" (03a-vip ~00:10) | Borrowed value earns a premium and is taught next (03a-vip ~00:09–00:10); the case study's best offer is Michal's own 1:1 time (03a-vip ~00:38) | product-types §6 |
+| Stop test vs coaching | Build once; if the money stops when you stop, it's a job (01-opp ~02:18) | Coaching "could be your full digital product" (03a-vip ~00:27); ebook + 1:1 mentorship at $1,500 (03a-vip ~00:38) | frameworks §4 |
+| Digital mind difficulty | "Probably the most complex", add last (02a-vip ~00:15) | "Not a technical thing at all… platforms" (03a-vip ~00:22) | product-types §6 |
+| Length | 1, 5 or 20 pages can beat 200 (01-opp ~01:48; 02a-vip ~00:20, ~00:40); 20 or 200 "doesn't really matter" (03a-vip ~00:15) | ~45-page PDF standard (02b-main ~01:41) | develop §7 |
+| Build time | Minutes / ~40 min / < 1 h (01-opp ~02:19; 02b-main ~01:41, ~01:15); draft in 1–2 min (03a-vip ~00:47) | Michal: 2–4 days with manual edits (02b-main ~03:44); 2–3 days (03a-vip ~00:46) | develop §7 |
 | Solution quality | "Doesn't really matter what solution you propose" (02a-vip ~00:39) | 150 references separate real products from "recycled garbage" (02b-main ~01:36) | develop §7, buyer-psychology §7 |
-| Search | "Nobody googles 'buy golf ebook'" (01-opp ~02:20) | Pockets = what people "already search for" on Google/Amazon (02b-main ~01:19, ~01:33) | distribute §5 |
-| Formats | Four (02a-vip ~00:13) | Five in the tool (02b-main ~01:45) | product-types §6 |
-| Whop cost | "Free" (01-opp ~02:24; 02a-vip ~00:12) | Takes a % of every sale (PITCH, 01-opp ~01:24) | deliver §4 |
+| Search | "Nobody googles 'buy golf ebook'" (01-opp ~02:20) | Pockets = what people "already search for" on Google/Amazon (02b-main ~01:19, ~01:33); presenter googled and bought a wedding tracker (03a-vip ~00:07) | distribute §5, buyer-psychology §7 |
+| Formats | Four (02a-vip ~00:13; again 03a-vip ~00:14) | Five in the tool (02b-main ~01:45) | product-types §6 |
+| Whop cost | "Free" (01-opp ~02:24; 02a-vip ~00:12); "free to start", no per-product charge (03a-vip ~00:26) | Takes a % of every sale (PITCH, 01-opp ~01:24) | deliver §4 |
 | Turning Point | Able to afford not to work (PROOF, 01-opp ~01:52) | Side income passes main income (MOTIVATION, 02b-main ~01:49) | frameworks §5 |
 | 37 × $250 | Fortnite maps; $127k / $126k total (01-opp ~01:55, ~02:09) | "Fortnite maps or Pokémon cards" (02a-vip ~00:18) | product-types §6 |

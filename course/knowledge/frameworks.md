@@ -2,7 +2,7 @@
 
 Course content only (LESSON and EXAMPLE segments, unless a source label says otherwise).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -41,6 +41,8 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 
 > Our note: the short "If I stop, does the money stop?" wording is our paraphrase of 01-opp ~02:18 (see the note under segment 24 of the Episode 1 transcript).
 
+- **Tension:** the Day 3 VIP presents coaching as something you can bundle or even make "your full digital product" (03a-vip ~00:27), and its case study's best offer is an ebook + **1:1 mentorship** at $1,500 (03a-vip ~00:38). 1:1 time fails the stop test.
+
 ## 5. Turning Point
 
 - **Definition A:** the point of being able to afford *not* to work: leave a job or a place, spend days with family (PROOF segment, 01-opp ~01:52).
@@ -51,6 +53,15 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 ## 6. Distribution, not selling (01-opp ~02:14–02:16)
 
 Supermarket model: be where presold buyers already are, instead of pitching. See [distribute.md](distribute.md).
+
+**Getting bought = standing out** (03a-vip ~00:28–00:29): (1) the right problem, actually fixed (A → B is "the number one thing"); (2) a trustworthy, premium look, because "a sale is made based on trust"; (3) AI does ~90% of the design, a human checks. A further "hidden method" was deferred to the main session.
+
+## 6b. Intrinsic vs borrowed value (03a-vip ~00:06–00:14)
+
+- **Intrinsic value:** the value "lies in the thing itself, not in the person that's endorsing it or the person that created it" (Google Maps; a wedding tracker) (~00:09, ~00:11).
+- **Borrowed value:** value lent by the creator's fame (the signed Ronaldo jersey); allows a higher price; "the absolute minority" of the market (~00:09–00:10).
+- **The right question:** "Does it take someone from point A to point B? Does it fix the problem? If it does that, then it doesn't matter who you are" (~00:08).
+- **Use:** intrinsic value is what makes faceless selling possible: "the product is completely disconnected from who you are" (~00:13). Borrowed value is to be taught in the main session (~00:10).
 
 ## 7. Product-choice frameworks
 
@@ -63,6 +74,7 @@ Supermarket model: be where presold buyers already are, instead of pitching. See
 - **First idea = worst idea:** push past the obvious (transportation exercise) (02b-main ~01:29).
 - **Ideas are almost worthless:** go for proven and simple (02a-vip ~00:23).
 - **Pain is 90%** (02a-vip ~00:27).
+- **Intrinsic vs borrowed value; "does it take someone from A to B?"** (03a-vip ~00:08–00:10). §6b.
 
 ## 8. Build frameworks
 
@@ -73,6 +85,9 @@ Supermarket model: be where presold buyers already are, instead of pitching. See
 - **Start simple, add complexity once simple works:** ebook → course → digital mind (02a-vip ~00:15).
 - **Value ≠ volume:** "Nobody pays for volume… They pay to make a problem go away" (02b-main ~01:41); 20 pages can beat 200 (02a-vip ~00:20).
 - **Iteration ladder / portfolio:** $0, $0, $0 → $15/day → $50/day → $100/day ≈ $5k/month (02b-main ~01:48).
+- **Faceless by format:** ebook and asset as they are; video via Loom or Slides + voiceover, not avatars; digital mind via no-code platforms (03a-vip ~00:14–00:23).
+- **AI does 90% of design, you check** (03a-vip ~00:29).
+- **Pre-sell when the value is there** (Josh Comeau, 4,800 pre-orders) (03a-vip ~00:17).
 
 ## 9. Small numbers
 
