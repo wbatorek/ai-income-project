@@ -1,7 +1,7 @@
 # Buyer psychology: how buyers decide
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md).
 Times are Thailand time and approximate (±3–5 min). None of these principles was backed by data in the course.
 
 ---
@@ -39,6 +39,7 @@ Times are Thailand time and approximate (±3–5 min). None of these principles 
 - **The value isn't the creator.** "People don't care who you are… does it fix the problem that I have?" (02a-vip ~00:17); "Nobody cares who put together a compilation of 200 low-carb recipes. They care about the recipes themselves" (01-opp ~02:09).
 - **Two things only: the problem and the fix.** "Buyers only care about 2 main things, and that is the problem that they're currently facing and the fix" (03a-vip ~00:06). Buying the wedding tracker, "not one time did I ever consider who made that template… The only thing I really looked at was… is this thing going to actually provide what I need it to provide" (03a-vip ~00:07).
 - **Intrinsic vs borrowed value.** Most purchases are for **intrinsic value** (the outcome itself, like Google Maps directions). **Borrowed value** (a famous creator, a signed jersey) lets a seller charge more, but is "the absolute minority" (03a-vip ~00:09–00:11). See [product-types.md](product-types.md) §2.1.
+- **They want the result, not "authenticity".** "If you have a problem, like do you care that the answer is authentic or do you just want… what does authentic even mean? Like people just care, does it give me a result?"; "people paid just because they want the result" (04a-vip ~00:30).
 - **They don't ask where you're from.** "They won't ask you like, where are you from?… They'll just buy the product, they'll pay you, and then they'll just leave", "because they're literally just coming for the outcome" (03a-vip ~00:44).
 
 ## 4. Why they pay when the information is free

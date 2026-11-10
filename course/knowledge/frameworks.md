@@ -2,7 +2,7 @@
 
 Course content only (LESSON and EXAMPLE segments, unless a source label says otherwise).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -41,6 +41,7 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 
 > Our note: the short "If I stop, does the money stop?" wording is our paraphrase of 01-opp ~02:18 (see the note under segment 24 of the Episode 1 transcript).
 
+- **High-ticket sales is a job,** not a business: "You are an employee… you're on calls when you're told to be on calls" (04a-vip ~00:48).
 - **Tension:** the Day 3 VIP presents coaching as something you can bundle or even make "your full digital product" (03a-vip ~00:27), and its case study's best offer is an ebook + **1:1 mentorship** at $1,500 (03a-vip ~00:38). 1:1 time fails the stop test.
 
 ## 5. Turning Point
@@ -77,6 +78,16 @@ Supermarket model: be where presold buyers already are, instead of pitching. See
 - **Partnership maths:** price × followers × conversion × your share (~01:38–01:40).
 - **One creator, then copy-paste the launch** (guests, ~03:05).
 - **Mark Tilbury's three lessons:** (1) get to the front of an existing queue, "and for the first time, the front of the queue is free"; (2) "the new door has no competition yet" (early channels); (3) "the person with the audience has the queue, but nothing on the shelf" (~03:16–03:44). His question: "Who already has the customers? And what could I create that they'd be willing to pay for?" (~03:43).
+
+## 6d. Episode 4 VIP rules (04a-vip, Q&A)
+
+- **Time or money:** "You either pay with time or money"; digital tries cost no money, so "keep spinning the wheel"; doing it yourself costs more time (~00:32–00:33).
+- **No ongoing money cost:** "Do something that doesn't cost you money ongoing… every month you're not spending money on ads or stock… as long as you're not losing money to keep trying, then you're on the right path" (~00:48). Physical products only with money you can afford to lose ("50 grand") (~00:32, ~00:47).
+- **Doing vs learning:** "a lot of people confuse thinking about doing it with doing it… confuse learning with doing it… the only thing that's doing the thing is doing the thing"; learning is "a cherry on top"; the main work is "90 minutes to three hours a day" (~00:11–00:13).
+- **The highest-leverage task changes:** first "getting the creator", later working with creators and "more complicated launches" (~00:13–00:15).
+- **Competitive advantage:** income "comes down to competitive advantages": what you know, your tools, who you know; a beginner's one is often their **language or country**, where few operators work (~00:20). [distribute.md](distribute.md) §4b.
+- **Niche ceiling:** any niche for $2–10k a month; health, wealth or relationships for a "$50 million operation" (~00:25). [choosing-products.md](choosing-products.md) §5c.
+- **High-ticket sales fails the asset test:** "it's not really a business… you are an employee… you're on calls when you're told to be on calls" (~00:48).
 
 ## 7. Product-choice frameworks
 

@@ -44,9 +44,8 @@ hand-picked success stories. Anything we act on should be checked in [`../resear
 - [01-the-opportunity.md](sessions/01-the-opportunity.md)
 - [02a-vip-choosing-products.md](sessions/02a-vip-choosing-products.md): five unlocks, product promise, draft scoring model
 - [02b-develop.md](sessions/02b-develop.md): main Episode 2 session: profitable pocket, synthesis, packaging (~18% useful)
-- [03b-distribute-deliver.md](sessions/03b-distribute-deliver.md): Day 3 main: micro-creator partnerships, Whop delivery, demo (~33% useful, rated 2–3)
 - [03a-vip.md](sessions/03a-vip.md): Day 3 VIP: intrinsic vs borrowed value, four faceless formats, Whop hosting (~70% useful, ~15–18 min new)
-
-Workbook 2 password: `lever`
+- [03b-distribute-deliver.md](sessions/03b-distribute-deliver.md): Day 3 main: micro-creator partnerships, Whop delivery, demo (~33% useful, rated 2–3)
+- [04a-vip.md](sessions/04a-vip.md): Day 4 VIP Q&A: saturation, local-language markets, guest with 7 creator partners (~48% useful, ~10–12 min new)
 
 Workbooks: [1](workbooks/workbook-01-filled.pdf) (password `INTEREST`), [2](workbooks/workbook-02.pdf) (password `lever`, [notes](workbooks/workbook-02-notes.md)); [Workbook 3](workbooks/workbook-03-filled.pdf) (password `balance`, [notes](workbooks/workbook-03-notes.md))

@@ -1,7 +1,7 @@
 # Product types: formats, examples, prices
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md).
 Times are Thailand time and approximate (±3–5 min). All revenue figures are **unverified claims** by the presenters.
 
 ---
@@ -23,6 +23,8 @@ Times are Thailand time and approximate (±3–5 min). All revenue figures are *
 - **Same work for 10 or 10,000 sales:** no inventory or shipping (shoes counter-example); at most "a few more emails" (02a-vip ~00:12; 01-opp ~02:24).
 - **The value is in the product, not the creator.** "Nobody cares who compiled the top woodworking plans. They care about the woodworking plans themselves" (01-opp ~02:09). "People don't care who you are… does it fix the problem that I have?" (02a-vip ~00:17). Hence faceless products work (01-opp ~02:08). The Day 3 VIP calls this **intrinsic value** (§2.1) (03a-vip ~00:09).
 - **Small numbers are enough:** 37 buyers × $250/month ≈ $9k/month (01-opp ~01:55; 02a-vip ~00:18). "You only need a few dozen people buying your product" (02a-vip ~00:18).
+- **No ongoing money cost, unlike physical products:** "For beginners specifically, I am not a fan of anything physical product related because you're going to either have to burn money on ads or burn money on like the physical product"; Iman's own shipment was stuck for three and a half months in 2020; with digital products "it doesn't cost more to keep trying" (04a-vip ~00:32–00:33). Rule: "do something that doesn't cost you money ongoing… every month you're not spending money on ads or stock" (04a-vip ~00:48).
+- **Buyers want the result, not "authenticity":** "If you have a problem, like do you care that the answer is authentic…? People just care, does it give me a result?" (04a-vip ~00:30).
 - **Niches that look absurd are fine:** "Who would buy a guide on World of Warcraft?… trust me, there's a lot of people in this world" (02a-vip ~00:18). "Even if they look very, very specific, that's actually a good thing" (02a-vip ~00:18).
 
 ### 2.1 Intrinsic vs borrowed value (03a-vip ~00:06–00:14)
@@ -112,6 +114,10 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 | The company's enterprise course | Video program, all recorded in Loom | $25,000 | — | — | "All that people cared about was the actual value" | 03a-vip ~00:18 |
 | Easlo ("Jason Chin", Singapore): Notion templates incl. a "second brain" | Digital asset | Not stated | One-off | $239k in one year (Business Insider); $500k+ since | Faceless (cartoon avatar, generated name); started as a side project during military service | 03a-vip ~00:20 |
 | "*[Ask Iman?]* Mind" (internal) | Digital mind | — | — | Said to have solved a high-level client's business problem | Trained on 10 years of content | 03a-vip ~00:21 |
+| Training people to become design-sprint facilitators (a former client of Iman's agency) | Digital product business (format not stated) | — | — | "Multi-million dollar a year" | "Weird" niche; people pay because they want the result | 04a-vip ~00:30 |
+| A Montessori school taken online during COVID | Digital product (not stated) | — | — | — | Same: an unlikely niche that worked | 04a-vip ~00:30 |
+| Ranking *[colognes?]* (requested by followers of Iman's friend Alex) | Digital product or community (idea, not built) | — | — | — | Followers kept asking for it: a niche pocket visible in the comments | 04a-vip ~00:26 |
+| Digital products in Arabic (Nader, Gaza) | Not stated | — | — | "~10,000 USD" (period not stated) | Served his own language market | 04a-vip ~00:22 |
 
 > Our note: Zada's buckwheat guide price (€14.99) and income figures, and Gael's "pediatric emergencies" product, appear only in PROOF segments (01-opp ~01:57; 02b-main ~01:12), so they are not counted as course knowledge here. The Pokémon €37k/month at €25/month implies ~1,480 subscribers (our arithmetic).
 
@@ -132,7 +138,7 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 - Commission / done-for-you: **~$70** / **$67** for an ADHD ebook (02b-main ~03:44; 03a-vip ~00:46).
 - Bundle with 1:1 time: **$1,500** (Michal); enterprise video course **$25,000** (03a-vip ~00:18, ~00:39).
 - Creator-partner products (Day 3 main): **$45** in the publishing demo (03b-main ~01:57); **$150** as "the low end of what these personalized digital products actually sell for" (EXAMPLE, ~01:38); "$150 to $300" (PITCH, ~02:08); a **$14** ebook (Zada) and a **€500** course (David) (PROOF, ~01:21, ~02:56).
-- **No pricing method has been taught** in Episodes 1–2. The Day 3 VIP gave one anecdote: raising Michal's offer from $200 to $1,500 made sales easier, "you actually get easier clients" and buyers "are actually valuing the offer" (03a-vip ~00:38–00:39). The Day 4 VIP is to cover increasing price and value "where you actually don't have to drop the price to make more sales" (03a-vip ~00:38).
+- **No pricing method has been taught** in Episodes 1–2. The Day 3 VIP gave one anecdote: raising Michal's offer from $200 to $1,500 made sales easier, "you actually get easier clients" and buyers "are actually valuing the offer" (03a-vip ~00:38–00:39). The Day 4 VIP is to cover increasing price and value "where you actually don't have to drop the price to make more sales" (03a-vip ~00:38). It did not: the Episode 4 VIP was a Q&A with no pricing content (04a-vip).
 
 ## 6. Contradictions between sessions
 

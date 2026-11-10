@@ -2,7 +2,7 @@
 
 Step 1 of the 3D system (see [frameworks.md](frameworks.md)). Course content only (LESSON and EXAMPLE segments).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -47,6 +47,7 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 - **Time:** "around 40 minutes… with the right specialized AI" (02b-main ~01:41); the whole process "in less than an hour" (02b-main ~01:15).
 - **Proof that PDFs sell:** Woodworking Guide and "No Grid Survival Project", "both of which made over 7 figures". "45 pages that solves a problem someone is already up at night searching for… is worth far more than 12 hours of video that they're never going to open" (02b-main ~01:42).
 - **Start simple, add complexity later:** ebook or digital asset first; turn a working ebook into a course, then a digital mind (02a-vip ~00:15). Demo: "We're just trying to create the MVP here… if you find gold, you can keep digging. But let's find the gold first" (02b-main ~01:45).
+- **Ebooks first, as a test (Episode 4 VIP):** "generally we recommend people to start with eBooks because it's the easiest way to get started. Is it the best way to make millions of dollars a year? Of course not"; "spin up a digital product that's relatively quick to create… get some market feedback and validation… as quick as humanly possible. And then from there, you can commit more to it once you start seeing some success"; after that "digital products can actually take many, many forms" (04a-vip ~00:27).
 - **Value = transformation and speed, not length:** a 20-page ebook can beat a 200-page one (02a-vip ~00:20, ~00:49); a 4-week plan "could be five pages" (02a-vip ~00:40).
 
 ## 4b. Faceless production by format (03a-vip ~00:14–00:30)
@@ -106,6 +107,8 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 
 **Generic version:** creator's public content → niche, themes, audience, voice → product ideas → format → outline → before/after map → draft in their voice → branding → creator review.
 
+**Who actually writes it (Episode 4 VIP):** "There's two main paths… they create faceless digital products. And path number two is they work with a creator and the creator creates a product… If you're working with a creator, they are the expert… we give you the support systems and the safety net in case you do want to go helping with the digital product, but **generally the creators actually create it themselves. I know we don't mention that publicly**" (04a-vip ~00:29).
+
 **Real use (EXAMPLE):** the guests built products for a fitness trainer (fitness and nutrition), a marketing-agency creator and a psychologist (dating around 40) with "zero knowledge" of those fields: "you don't need to be an expert on the field of the influencer… AI nowadays can do all the work" (03b-main ~02:52, ~03:03).
 
 ## 6. Iterate and build a portfolio (02b-main ~01:48)
@@ -114,6 +117,8 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 - **Expect early zeros:** products 1, 2 and 3 make $0; maybe the 5th or 10th makes **$15/day**; keep going to one at **$50/day**, then **$100/day** (~01:48).
 - **Portfolio math:** $15 + $50 + $100 a day ≈ **$5,000/month** from 3 products (~01:48).
 - **Each new product is another asset** in the portfolio (01-opp ~01:49).
+- **Trying again costs time, not money:** "You either pay with time or money… financially, there's no cost… you can just keep spinning the wheel again and again"; "It doesn't cost more to keep trying. So keep trying"; "if you do it yourself, it does take some more time" (04a-vip ~00:32–00:33).
+- **Test many products early (Ali):** "throw as much shit at the wall and see what sticks"; Nader built "hundreds" ("more than a thousand", Iman) of products with Synthesize (04a-vip ~00:28).
 
 **Iteration loop (as taught):** pick pocket → build MVP → publish → no money? build the next one → keep the earners → when one works, "keep digging" (more formats) (02b-main ~01:45, ~01:48; 02a-vip ~00:15).
 
@@ -123,7 +128,7 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 - **Build time:** "in minutes" (01-opp ~02:19), "around 40 minutes" (02b-main ~01:41), "less than an hour" (02b-main ~01:15), 5–10 min of generation (02b-main ~01:46) **vs** Michal's 2–4 days with manual edits (02b-main ~03:44) and "two to three days" in the Day 3 VIP, though only "one to two minutes" for the first draft plus "30 to 40 minutes" of edits (03a-vip ~00:46–00:47).
 - **"No writing, no editing"** (02b-main ~01:41) **vs** Michal typing changes by hand (02b-main ~03:44).
 - **Solution quality:** "it doesn't really matter what solution you propose" (02a-vip ~00:39) **vs** 150 references are what separate a product that "delivers on its promise" from "recycled garbage" (02b-main ~01:36).
-- **Source of the content:** synthesise 150+ external sources, "you don't create it" (02b-main ~01:35) **vs** for a partner product, scan "the content of the specific creator you pick" "instead of… the entire internet" (03b-main ~01:48).
+- **Source of the content:** synthesise 150+ external sources, "you don't create it" (02b-main ~01:35) **vs** for a partner product, scan "the content of the specific creator you pick" "instead of… the entire internet" (03b-main ~01:48) **vs** "generally the creators actually create it themselves" (04a-vip ~00:29).
 - **Need for expertise:** none, "the creator is the expert" (03b-main ~01:48) **vs** Mark Tilbury: "you've still got to make something people actually want" (03b-main ~03:30).
 
 > Our note: the claim that generic AI "hits a wall after about the 10th source" was made in a PITCH segment (02b-main ~01:38), not taught, and is outdated for current deep-research and long-context tools. Every step in §5 and §5.2 can be rebuilt with general tools plus web research (for §5.2, the creator's content is used with their permission); the synthesis step needs citation checks (does the source exist and say this?), especially for health topics. See [../sessions/02b-develop.md](../sessions/02b-develop.md) §5.3 and §9.
