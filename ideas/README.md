@@ -11,6 +11,11 @@ Status: 💡 new · 🔍 researching · ✅ accepted (moved into requirements) �
 | 2 | **Build our own system instead of paying ~$2,000 for Monetize / Synthesize AI.** Use Claude (Ultra subscription) for what their tools do | ✅ | The course demo showed nothing that can't be rebuilt ([02b-develop](../course/sessions/02b-develop.md) §5) |
 | 3 | **Find the best tools for market analysis.** Claude may not be the best at everything; compare Perplexity, others and paid data tools. Open to new subscriptions | 💡 | Phase 2 (tool selection) |
 | 4 | **Study other systems and teachers, not only Iman's**, during research | 💡 | Into `research/other-systems/` |
+| 6 | **Three distribution channels**: partner creators, owned faceless channel, marketplaces. Compare cost per sale and operator time | ✅ | Into requirements R12. From [03a](../course/sessions/03a-vip.md) and [03b](../course/sessions/03b-distribute-deliver.md) |
+| 7 | **"Ghost producer" model**: we build products for micro-creators who have an audience but no product, for a revenue share | 🔍 | The course's main method. Strong but needs operator time (calls, contracts). Research launch formats first |
+| 8 | **Creators that already sell = bestseller dataset** for their niche (product, price, platform) | ✅ | Into R2c |
+| 9 | **Pre-sale or waitlist** before building, as the cheapest proof people will pay | 💡 | Into R4b, operator gate |
+| 10 | **Non-English markets** (course hint: guests scaled into other languages) | 💡 | Localisation is cheap with AI; research which markets |
 | 5 | **Don't target the operator's own professions** (Java, NetSuite). Professionals there solve problems with AI and research and wouldn't buy a PDF | ✅ | Operator insight, see [`knowledge/operator/`](../knowledge/operator/). The course also says the market doesn't care about your passion ([choosing-products](../course/knowledge/choosing-products.md)) |
 
 ---

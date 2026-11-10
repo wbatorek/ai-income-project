@@ -60,7 +60,7 @@ Our system automates all three, plus the step before them: **finding the right n
 - [x] Research: self-running multi-agent system with operator approval ([report](research/self-running-ai-system.md))
 - [x] First draft of niche finding and scoring ([`system/niche-finding.md`](system/niche-finding.md)), to be revised
 - [x] Ideas backlog: two research layers, demand and bestsellers ([`ideas/`](ideas/))
-- [ ] Episode 3: distribute and deliver, full demo
+- [x] Episode 3: VIP (~70% useful) and main session (~33% useful): micro-creator partnerships, Whop delivery; requirements updated
 - [ ] Episode 4: Mark Tilbury
 - [ ] Finale (Nov 16)
 - [ ] Add the operator's knowledge to [`knowledge/operator/`](knowledge/operator/)
