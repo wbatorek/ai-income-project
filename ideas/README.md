@@ -15,7 +15,7 @@ Status: 💡 new · 🔍 researching · ✅ accepted (moved into requirements) �
 | 7 | **"Ghost producer" model**: we build products for micro-creators who have an audience but no product, for a revenue share | 🔍 | The course's main method. Strong but needs operator time (calls, contracts). Research launch formats first |
 | 8 | **Creators that already sell = bestseller dataset** for their niche (product, price, platform) | ✅ | Into R2c |
 | 9 | **Pre-sale or waitlist** before building, as the cheapest proof people will pay | 💡 | Into R4b, operator gate |
-| 10 | **Non-English markets** (course hint: guests scaled into other languages) | 💡 | Localisation is cheap with AI; research which markets |
+| 10 | **Market-by-market research (country × language)**: analyse demand and bestsellers separately per country and language, finer than typical global tools, so we can sell a product in the specific markets where it fits | ✅ | Operator idea (11 Nov), backed by the course (Day 4 VIP: own language is "one of the biggest competitive advantages"; less advanced markets). Into requirements R1c. See [below](#10-market-by-market-research) |
 | 5 | **Don't target the operator's own professions** (Java, NetSuite). Professionals there solve problems with AI and research and wouldn't buy a PDF | ✅ | Operator insight, see [`knowledge/operator/`](../knowledge/operator/). The course also says the market doesn't care about your passion ([choosing-products](../course/knowledge/choosing-products.md)) |
 
 ---
@@ -43,3 +43,25 @@ Open points:
 - Data sources for each layer (which platforms show sales or ranking data, and what may be
   automated) are a Phase 2 question.
 - Where the line is between "inspired by" and "copying": legal and platform-rule check needed.
+
+---
+
+## 10. Market-by-market research
+
+**Idea (operator, 11 Nov):** most tools look at "the market" globally, usually in English. We analyse
+each **niche × country × language** separately and sell where a product fits best.
+
+- The same problem can have strong demand and few products in one country/language and be saturated
+  in another (e.g. a topic crowded in English but empty in Polish, German or Portuguese).
+- Price levels, platforms, payment methods and buyer habits differ by country.
+- AI makes localisation cheap: one validated product can be adapted to several markets.
+
+What the research layers need to do per market:
+- **Demand:** local search volume and trends, local communities and forums, questions in that language.
+- **Bestsellers:** local marketplaces and creators, what sells and at what price in that currency.
+- **Gap:** compare markets side by side: where is demand high and supply low?
+- **Fit:** purchasing power, payment methods, platform availability (Whop, local alternatives), legal
+  or tax limits, and whether we can check quality in that language.
+
+Open questions for phase 2: which data sources give country- and language-level data (search tools,
+marketplaces by country, creator databases with audience location), and at what cost.

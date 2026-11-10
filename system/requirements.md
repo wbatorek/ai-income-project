@@ -32,6 +32,11 @@ them mostly on its own, while the operator approves key decisions. [O]
   community (comments, DMs shared by a partner, threads) are a primary demand signal. [C 03a] [C 03b]
 - **R4b Pre-sale as proof.** Optional pre-sale or waitlist before full creation, behind an operator
   gate. [C 03a]
+- **R1c Market-by-market analysis.** Research and score every opportunity per **niche × country ×
+  language**, not only globally or in English. Compare markets side by side (demand, supply, price
+  level, purchasing power, payment methods, platform availability, our ability to check quality in
+  that language) and recommend the specific markets to sell in. Localise validated products to further
+  markets. [O] [C 04a] [I #10]
 - **R5 Market choice.** Prefer markets where buyers *don't* solve the problem with AI themselves.
   Don't default to the operator's own professions. [O]
 
