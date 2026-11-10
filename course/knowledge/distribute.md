@@ -44,7 +44,7 @@ Claimed benefits: no contacts needed, no niche expertise ("the creator is the ex
 1. Open **Instagram** (a **dummy account** with no photo or name is fine) → **Explore**.
 2. Search **industry + a keyword that creators in that industry use**: "parenting" + "tips" = **"parenting tips"**. You are looking for a creator who attracts a profitable pocket.
 3. Scroll past the top results with millions of views.
-4. Apply **all four filters**; if one fails, skip.
+4. Apply **all filters**; if one fails, skip. The session named four; **Workbook 3 lists five**, adding an engagement filter (WB3 p.19–20).
 
 | # | Filter | Rule | Reason given |
 |---|---|---|---|
@@ -52,9 +52,19 @@ Claimed benefits: no contacts needed, no niche expertise ("the creator is the ex
 | 2 | Followers | **10,000–100,000** | "Over 100,000 starts to get more competitive… under 10,000, the audience is usually too small to make the numbers work" |
 | 3 | No own product | No course, ebook or coaching link in the bio, none promoted in posts | "Infinitely easier to take someone from a 0 out of 10 to a 5 out of 10" |
 | 4 | Business email | An email "for business inquiries" in the bio | "She's open to partnerships" |
+| 4b (WB3) | **Engagement** | Average views on the **last 10 Reels ≥ followers ÷ 10**; most of them must clear it | "One video can go viral by luck" (WB3 p.20) |
 
 Worked example: a 75,000-follower creator, no product link, business email: passes (03b-main ~01:36–01:38).
 Synthesize also accepts **YouTube** handles (03b-main ~01:50); the guests also used a **Telegram** channel (03b-main ~03:07).
+
+**Market size claims (WB3 p.2, p.11):** 303 million creators worldwide; 41 million micro-creators on
+Instagram; under 1% have a digital product. Linktree survey: 46% of full-time and 68% of part-time
+creators earn under $1,000 a year. A business email in the bio is "them raising their hand".
+
+**Deal examples (WB3 p.13–14, claims):** James: **30/70 split plus a $6,000 upfront fee** the creator
+asked for. Gaël: one paediatrician creator with **300,000 TikTok followers** (outside the 10k–100k band),
+$48k launch in 5 days, his share $12,996; now ~$10k/month across **4 partnerships**. Zada: $14 ebook to
+a 70,000 audience, $11k first month.
 
 ### 3.2 Outreach (03b-main ~01:40–01:44)
 
