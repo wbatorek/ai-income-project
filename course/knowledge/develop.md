@@ -2,7 +2,7 @@
 
 Step 1 of the 3D system (see [frameworks.md](frameworks.md)). Course content only (LESSON and EXAMPLE segments).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -87,6 +87,27 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 - **Day 3 VIP version:** with ChatGPT one ebook took "around two weeks"; with Synthesize "two to three days". "The initial thing will be like within one to two minutes. But if you want to add something, it's just like maybe 30 to 40 minutes" of manual changes (pictures, client requests) (03a-vip ~00:46–00:47). He typed a topic, got "a lot of lists" (topic options), downloaded the ebook, edited by hand and sent it (03a-vip ~00:46).
 - **Done-for-you as a business:** he advertised in his stories "who needs ebooks or digital products, just DM me" and built ebooks for followers ($67 for the ADHD one) (03a-vip ~00:46).
 
+### 5.2 A product personalised for a creator (03b-main ~01:47–01:54)
+
+- **Plain vs personalised jersey:** the Episode 2 flow makes "a plain white jersey… not tailored to any specific creator's audience"; a **personalised** product is made for one creator's audience, "in the creator's tone, voice, and branding. So the moment their audience sees it, they recognize it as theirs" (~01:47–01:48).
+- **The creator is the expert:** "Your job is not to become an expert on the creator's topic overnight. The creator is the expert. They have the knowledge and the credibility. And what we do is we use specialized AI to structure their knowledge into a personalized product" (~01:48).
+- **Only the input changes:** "Instead of telling it to scan the entire internet to identify profitable pockets, it scans the content of the specific creator you pick" (~01:48).
+
+**Recorded demo (Synthesize "creator" tab):**
+
+| # | Step | What was said |
+|---|---|---|
+| 1 | Creator tab; choose **Instagram or YouTube**; paste the **handle** → **Analyze profile** | Returns "the niche… the transformation… all of the content themes, the audience, and even the voice and the tone" (~01:50) |
+| 2 | Continue → "deciding on direction and brainstorming different profitable digital product opportunities" | A few profitable pockets, one **recommended** (~01:51) |
+| 3 | Format: **ebook**, "the easiest one to launch with"; book format and **depth** left at default | "Speed to that first dollar is the most important thing" (~01:52) |
+| 4 | **Product outline suggestions** → option A | (~01:52) |
+| 5 | **Visceral transformation map** | Before/after (~01:53) |
+| 6 | Structure → continue → generation, with **branding** included | "A personalized profitable digital product specifically for this creator" (~01:53–01:54) |
+
+**Generic version:** creator's public content → niche, themes, audience, voice → product ideas → format → outline → before/after map → draft in their voice → branding → creator review.
+
+**Real use (EXAMPLE):** the guests built products for a fitness trainer (fitness and nutrition), a marketing-agency creator and a psychologist (dating around 40) with "zero knowledge" of those fields: "you don't need to be an expert on the field of the influencer… AI nowadays can do all the work" (03b-main ~02:52, ~03:03).
+
 ## 6. Iterate and build a portfolio (02b-main ~01:48)
 
 - **You're not stuck with the first product.** "You don't like it?… You create another one. It's not making money. You create another one… until you publish one that makes you money" (~01:48).
@@ -102,5 +123,7 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 - **Build time:** "in minutes" (01-opp ~02:19), "around 40 minutes" (02b-main ~01:41), "less than an hour" (02b-main ~01:15), 5–10 min of generation (02b-main ~01:46) **vs** Michal's 2–4 days with manual edits (02b-main ~03:44) and "two to three days" in the Day 3 VIP, though only "one to two minutes" for the first draft plus "30 to 40 minutes" of edits (03a-vip ~00:46–00:47).
 - **"No writing, no editing"** (02b-main ~01:41) **vs** Michal typing changes by hand (02b-main ~03:44).
 - **Solution quality:** "it doesn't really matter what solution you propose" (02a-vip ~00:39) **vs** 150 references are what separate a product that "delivers on its promise" from "recycled garbage" (02b-main ~01:36).
+- **Source of the content:** synthesise 150+ external sources, "you don't create it" (02b-main ~01:35) **vs** for a partner product, scan "the content of the specific creator you pick" "instead of… the entire internet" (03b-main ~01:48).
+- **Need for expertise:** none, "the creator is the expert" (03b-main ~01:48) **vs** Mark Tilbury: "you've still got to make something people actually want" (03b-main ~03:30).
 
-> Our note: the claim that generic AI "hits a wall after about the 10th source" was made in a PITCH segment (02b-main ~01:38), not taught, and is outdated for current deep-research and long-context tools. Every step in §5 can be rebuilt with general tools plus web research; the synthesis step needs citation checks (does the source exist and say this?), especially for health topics. See [../sessions/02b-develop.md](../sessions/02b-develop.md) §5.3 and §9.
+> Our note: the claim that generic AI "hits a wall after about the 10th source" was made in a PITCH segment (02b-main ~01:38), not taught, and is outdated for current deep-research and long-context tools. Every step in §5 and §5.2 can be rebuilt with general tools plus web research (for §5.2, the creator's content is used with their permission); the synthesis step needs citation checks (does the source exist and say this?), especially for health topics. See [../sessions/02b-develop.md](../sessions/02b-develop.md) §5.3 and §9.

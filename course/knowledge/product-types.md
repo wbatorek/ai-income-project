@@ -1,7 +1,7 @@
 # Product types: formats, examples, prices
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md).
 Times are Thailand time and approximate (±3–5 min). All revenue figures are **unverified claims** by the presenters.
 
 ---
@@ -36,6 +36,13 @@ Times are Thailand time and approximate (±3–5 min). All revenue figures are *
 
 > Our note: two of the "intrinsic value" proofs (Getting Real by 37signals, Josh Comeau's course) were sold to large existing audiences, i.e. partly borrowed value. Avada, Easlo and the wedding tracker are the cleaner faceless cases.
 
+### 2.2 Borrowed value as taught in the main session (03b-main ~01:16–01:23, ~01:47–01:48)
+
+- **The branded jersey:** two identical jerseys; fans buy the club-branded one "even considering that the club's jersey costs more" (~01:17).
+- **A personalised product** is the branded jersey: made for one creator's audience "in the creator's tone, voice, and branding", so "they recognize it as theirs" (~01:48). A generic product is "a plain white jersey" (~01:47).
+- **Trust carries the sale:** Millionaire Mindset ($29, 14,000+ buyers, $370k) sold because "I have an audience that deeply trusts me… who trusted a recommendation from me enough to pull out their credit card on the spot" (~01:23).
+- **Faceless still works,** because the creator, not the seller, is the face (~01:22). See [distribute.md](distribute.md).
+
 ## 3. Formats
 
 ### 3.1 The four formats (02a-vip ~00:13–00:15; 03a-vip ~00:14–00:23)
@@ -63,7 +70,8 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 - **Production polish matters little.** "You guys will be surprised how little that actually matters… this is coming from the chief product officer"; buyers "cared about… the actual value" (03a-vip ~00:17–00:18).
 - **You can pre-sell an unfinished product** "if… the value of the product is really there" ("a little bit more like advanced strategy") (03a-vip ~00:17).
 - **Other formats are welcome:** the Day 3 homework asks for one of the four, with credit for finding others (03a-vip ~00:22, ~00:31). Coaching can be bundled or even be "your full digital product" (03a-vip ~00:27).
-- **No further selection criteria** (format vs problem, price per format, which format sells best) have been taught so far.
+- **For a creator launch, start with an ebook:** "the easiest one to launch with, by far… we want the highest chance of you making your first side income dollars online as quick as humanly possible" (03b-main ~01:52).
+- **No further selection criteria** (format vs problem, price per format, which format sells best) have been taught so far. The guests' big launches were **courses** (e.g. a €500 marketing-agency course) (03b-main ~02:56, PROOF).
 
 ## 4. Examples (niche, format, price, model)
 
@@ -123,6 +131,7 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 - One-off (Day 3 VIP examples): **$19** (*Getting Real*), **~$120** (Josh Comeau), "a couple of dollars" (wedding tracker) (03a-vip ~00:07, ~00:15, ~00:16).
 - Commission / done-for-you: **~$70** / **$67** for an ADHD ebook (02b-main ~03:44; 03a-vip ~00:46).
 - Bundle with 1:1 time: **$1,500** (Michal); enterprise video course **$25,000** (03a-vip ~00:18, ~00:39).
+- Creator-partner products (Day 3 main): **$45** in the publishing demo (03b-main ~01:57); **$150** as "the low end of what these personalized digital products actually sell for" (EXAMPLE, ~01:38); "$150 to $300" (PITCH, ~02:08); a **$14** ebook (Zada) and a **€500** course (David) (PROOF, ~01:21, ~02:56).
 - **No pricing method has been taught** in Episodes 1–2. The Day 3 VIP gave one anecdote: raising Michal's offer from $200 to $1,500 made sales easier, "you actually get easier clients" and buyers "are actually valuing the offer" (03a-vip ~00:38–00:39). The Day 4 VIP is to cover increasing price and value "where you actually don't have to drop the price to make more sales" (03a-vip ~00:38).
 
 ## 6. Contradictions between sessions
@@ -131,5 +140,6 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 - **Number of formats:** four (02a-vip ~00:13) **vs** five in the Synthesize tool (02b-main ~01:45).
 - **The 37 × $250 example:** Fortnite maps (01-opp ~01:55) **vs** "I think it was Fortnite maps or was the Pokémon cards" (02a-vip ~00:18). Episode 1 also gives its total as $127k (~01:55) and $126k (~02:09).
 - **Digital mind difficulty:** "probably the most complex" format, to be added last (02a-vip ~00:15) **vs** "not a technical thing at all… platforms… allow you to make this" (03a-vip ~00:22).
-- **Does the creator matter?** "People don't care who you are" (02a-vip ~00:17); the industry "runs on intrinsic value" (03a-vip ~00:10) **vs** borrowed value earns a premium and will be taught in the main session (03a-vip ~00:09–00:10), and the Day 3 case study's best-paid offer is Michal's own 1:1 time (03a-vip ~00:38).
+- **Does the creator matter?** "People don't care who you are" (02a-vip ~00:17); the industry "runs on intrinsic value" (03a-vip ~00:10) **vs** borrowed value earns a premium and will be taught in the main session (03a-vip ~00:09–00:10), and the Day 3 case study's best-paid offer is Michal's own 1:1 time (03a-vip ~00:38), and the Day 3 main session's whole method is borrowed value through a creator's audience (03b-main ~01:16–01:22; §2.2).
+- **Price of a creator product:** "$150… on the low end" (03b-main ~01:38) **vs** $45 in the demo (~01:57) and the $14 ebook of the lead case study (~01:21).
 - **Weight loss:** called a weak niche (02a-vip ~00:28) but used as a good example (4-week weight-loss plan, 02a-vip ~00:40; postpartum weight loss, 02b-main ~01:31). See [choosing-products.md](choosing-products.md) §7.

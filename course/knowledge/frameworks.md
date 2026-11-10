@@ -2,7 +2,7 @@
 
 Course content only (LESSON and EXAMPLE segments, unless a source label says otherwise).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -28,8 +28,8 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 | Step | Core idea | Detail |
 |---|---|---|
 | **1. Develop** | "Nothing happens until something is bought." AI removes the build barrier (01-opp ~02:19) | [develop.md](develop.md), [choosing-products.md](choosing-products.md) |
-| **2. Distribute** | Put the product in front of presold buyers already gathered in groups of 10k–100k (01-opp ~02:21) | [distribute.md](distribute.md) |
-| **3. Deliver** | Automate so 10 or 10,000 sales take the same work (01-opp ~02:24) | [deliver.md](deliver.md) |
+| **2. Distribute** | Put the product in front of presold buyers already gathered in groups of 10k–100k (01-opp ~02:21): in practice **micro-creators' audiences**, on revenue share (03b-main ~01:19–01:30) | [distribute.md](distribute.md) |
+| **3. Deliver** | Automate so 10 or 10,000 sales take the same work (01-opp ~02:24); the platform also pays the partner's share (03b-main ~01:55) | [deliver.md](deliver.md) |
 
 "Everything that we're going to be talking about over the next few days will be built on top of this three-step process" (01-opp ~02:25).
 
@@ -62,6 +62,21 @@ Supermarket model: be where presold buyers already are, instead of pitching. See
 - **Borrowed value:** value lent by the creator's fame (the signed Ronaldo jersey); allows a higher price; "the absolute minority" of the market (~00:09–00:10).
 - **The right question:** "Does it take someone from point A to point B? Does it fix the problem? If it does that, then it doesn't matter who you are" (~00:08).
 - **Use:** intrinsic value is what makes faceless selling possible: "the product is completely disconnected from who you are" (~00:13). Borrowed value is to be taught in the main session (~00:10).
+- **Borrowed value in practice (03b-main):** a faceless seller borrows a creator's trust: the product carries the creator's name, voice and branding, and the creator recommends it (~01:16–01:23, ~01:47–01:48). The main session presents this as how "virtually every single person" in its case studies earned (~01:22), which contradicts "the industry runs on intrinsic value" (see the [README](README.md) table).
+
+## 6c. Distribution frameworks (03b-main)
+
+- **Hope marketing vs rinse and repeat:** random trend-chasing gives "feast or famine income"; a repeatable placement in front of predisposed buyers does not (~01:12–01:13).
+- **Supply, not demand:** "demand is never your problem. Supply is"; a gold mine = proven distribution with an empty shelf (~01:15).
+- **Plain vs branded jersey:** a product in a creator's branding sells to their fans the way a club jersey does (~01:16–01:19, ~01:47).
+- **Stadiums without jerseys:** creators have audiences and no product; "a shortage of products for the buyers to buy" (~01:20).
+- **Micro-creators:** 10k–100k followers, still personally connected to their audience (~01:25–01:26).
+- **The three switches:** partner → personalize → publish (~01:31). [distribute.md](distribute.md) §3.
+- **The four filters:** video views 50k–200k; followers 10k–100k; no own product; business email in bio (~01:34–01:38). [distribute.md](distribute.md) §3.1.
+- **0 → 5 beats 5 → 8:** pick creators who earn nothing from their audience yet (~01:37).
+- **Partnership maths:** price × followers × conversion × your share (~01:38–01:40).
+- **One creator, then copy-paste the launch** (guests, ~03:05).
+- **Mark Tilbury's three lessons:** (1) get to the front of an existing queue, "and for the first time, the front of the queue is free"; (2) "the new door has no competition yet" (early channels); (3) "the person with the audience has the queue, but nothing on the shelf" (~03:16–03:44). His question: "Who already has the customers? And what could I create that they'd be willing to pay for?" (~03:43).
 
 ## 7. Product-choice frameworks
 
@@ -75,6 +90,7 @@ Supermarket model: be where presold buyers already are, instead of pitching. See
 - **Ideas are almost worthless:** go for proven and simple (02a-vip ~00:23).
 - **Pain is 90%** (02a-vip ~00:27).
 - **Intrinsic vs borrowed value; "does it take someone from A to B?"** (03a-vip ~00:08–00:10). §6b.
+- **Creator first:** in the partner model the pocket is found through a creator ("industry + keyword" search) and the product idea comes from the creator's content (03b-main ~01:34, ~01:48).
 
 ## 8. Build frameworks
 

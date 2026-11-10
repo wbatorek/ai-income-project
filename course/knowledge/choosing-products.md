@@ -1,7 +1,7 @@
 # Choosing products: five unlocks, product promise, profitable pockets
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md).
 Times are Thailand time and approximate (±3–5 min).
 
 ---
@@ -117,6 +117,8 @@ A pocket is worth building on when people are:
 **Where to look (named, not demonstrated):** "AI can scan **Google, Amazon, and all online communities** and find the gaps" (02b-main ~01:19).
 
 **Where to look (EXAMPLE): your audience's questions.** Michal's followers kept messaging "how are you growing your page?"; "when I saw the demand, that's when I felt like creating a digital product… I created a product which I knew about" (03a-vip ~00:49). Later his followers asked "can I get this?" and he made ebooks on request (03a-vip ~00:46).
+
+**Where to look (Day 3 main): through a creator.** To find a creator whose audience is a profitable pocket, search Instagram for "an industry, plus a keyword that creators in that industry use" ("parenting tips") (03b-main ~01:34). In the partner model the pocket is then picked from the **creator's own content**: the tool reads "the niche… the transformation… content themes, the audience" and proposes product opportunities (03b-main ~01:48–01:51). Big companies ignore these audiences ("all the big companies just ignore them") and "you need a few hundred people with the same specific problem, and that's exactly the audience that the below-the-surface creators have" (03b-main ~01:25).
 
 ### 5.2 Broad topic → pocket (02b-main ~01:30–01:31)
 
