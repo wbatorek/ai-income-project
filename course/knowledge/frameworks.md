@@ -2,7 +2,7 @@
 
 Course content only (LESSON and EXAMPLE segments, unless a source label says otherwise).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md), `04b-main` = [Episode 4 main, part 1](../transcripts/04b-main.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -48,6 +48,7 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 
 - **Definition A:** the point of being able to afford *not* to work: leave a job or a place, spend days with family (PROOF segment, 01-opp ~01:52).
 - **Definition B:** "the day side income passes main income" (MOTIVATION segment, 02b-main ~01:49).
+- **Mark Tilbury's reading of B:** "People hear that as a number. But it's not about a number. It's the day the stool gets its second leg. The day someone you've never met can't take your income away in a meeting you weren't in" (04b-main ~01:41). The **one-legged stool** = "only one income supporting your life… very easy for someone to come along and break that leg" (~01:35). See §6e.
 
 > Our note: the Turning Point is used as a goal, not taught as a method, and appears only in PROOF/MOTIVATION segments. The two definitions differ: B (side income > main income) is a measurable milestone; A (freedom not to work) is a later, vaguer state. Our session notes for Episode 1 use B.
 
@@ -83,11 +84,43 @@ Supermarket model: be where presold buyers already are, instead of pitching. See
 
 - **Time or money:** "You either pay with time or money"; digital tries cost no money, so "keep spinning the wheel"; doing it yourself costs more time (~00:32–00:33).
 - **No ongoing money cost:** "Do something that doesn't cost you money ongoing… every month you're not spending money on ads or stock… as long as you're not losing money to keep trying, then you're on the right path" (~00:48). Physical products only with money you can afford to lose ("50 grand") (~00:32, ~00:47).
-- **Doing vs learning:** "a lot of people confuse thinking about doing it with doing it… confuse learning with doing it… the only thing that's doing the thing is doing the thing"; learning is "a cherry on top"; the main work is "90 minutes to three hours a day" (~00:11–00:13).
+- **Doing vs learning:** "a lot of people confuse thinking about doing it with doing it… confuse learning with doing it… the only thing that's doing the thing is doing the thing"; learning is "a cherry on top"; the main work is "90 minutes to three hours a day" (~00:11–00:13). Mark Tilbury adds a test for research: it needs a stated question and an end (04b-main ~01:57, §6e).
 - **The highest-leverage task changes:** first "getting the creator", later working with creators and "more complicated launches" (~00:13–00:15).
 - **Competitive advantage:** income "comes down to competitive advantages": what you know, your tools, who you know; a beginner's one is often their **language or country**, where few operators work (~00:20). [distribute.md](distribute.md) §4b.
 - **Niche ceiling:** any niche for $2–10k a month; health, wealth or relationships for a "$50 million operation" (~00:25). [choosing-products.md](choosing-products.md) §5c.
 - **High-ticket sales fails the asset test:** "it's not really a business… you are an employee… you're on calls when you're told to be on calls" (~00:48).
+
+## 6e. Mark Tilbury's five "secrets" to financial wealth (04b-main ~01:13–02:00)
+
+A mindset talk, mostly MOTIVATION; source labels are given per point. Framed by two characters: the **lifelong avoider** ("I'll think about it… isn't a decision") and the **early mover** (decides "before everyone else agrees") (MOTIVATION, ~01:09–01:13). Mark's spoken numbering slips; the numbering below is by content.
+
+| # | Secret (his closing line) | Label |
+|---|---|---|
+| 1 | "Nobody has what it takes until they put it to the test" (you never feel ready) | MOTIVATION (~01:13–01:25) |
+| 2 | "If they don't get it, it's not because you're wrong. It's because you're early" | MOTIVATION (~01:30–01:33); one EXAMPLE (~01:26–01:30) |
+| 3 | "The real risk never sends a bill, which is why the riskiest thing you can do is not start" | MOTIVATION + LESSON (~01:33–01:42) |
+| 4 | "The biggest percentage returns can come from the smallest bets" | LESSON + PITCH (~01:42–01:51) |
+| 5 | "Knowing what to do was never the hard part. Actually doing it is. And it's the only part nobody can copy" | LESSON (~01:54–02:00) |
+
+**The teachable parts:**
+- **Beliefs avoid their own test** (MOTIVATION, value 1): "They stop you from doing the one thing that would prove them wrong… Every year it goes untested, it feels more true" (~01:21). Income = "building something, putting it in front of someone, and then [them] paying you… 3 skills in a row" (~01:24; the 3D system, §3).
+- **Experiment before an opinion** (EXAMPLE, ~01:26–01:30): in 2004 Mark nearly dismissed the internet, asked "what if I just don't understand it yet?", "went and found out instead of jumping to conclusions" with "a simple website" (stock, contact details), and got calls and emails "after a couple of weeks". Then: "the first few years were slow, as it took a while for people to trust the internet"; later online was "the majority of my business", "because I went where the customers were about to be, instead of where they'd been previously". (Same idea as his Episode 3 "the new door has no competition yet", §6c.)
+- **Two kinds of risk** (LESSON, ~01:37–01:42): "The first kind is the risk of doing something. That one's visible… The second kind is the risk of doing nothing, and that one is invisible" (savings at 1% while prices rise 4%; the car never serviced). Ask: "If [your income] stopped for 3 months, what would happen?" "Count both."
+- **Pick a business without fixed commitments** (LESSON, ~01:39): 1988 = a £20,000 loan ("about 5 years of wages"), a 10-year lease, stock paid upfront, staff, insurance, marketing, transport. Today = "a laptop, an internet connection, and an AI… Nothing to stock. No lease. No staff. Nobody to pay back. Now, that's only true if you pick the right kind of thing. Pick the wrong thing and you're straight back to my 1988 list." Downside: "a few evenings". (Agrees with "no ongoing money cost", §6d.)
+- **One-legged stool** (MOTIVATION, ~01:35): one income that someone else controls. The Turning Point is its "second leg" (§5).
+- **Compounding is slow from a small base** (LESSON, ~01:42–01:44): at Buffett's ~20% a year, $10,000 becomes "almost $25,000" in 5 years (+149%), "the equivalent of just $250 a month".
+- **Asymmetric returns** (LESSON, ~01:44–01:49): "you put in a relatively small amount of money, time, or effort, but the potential reward is massively disproportionate". Small players have the edge because "at my size, an opportunity has to be big enough to be worth my time… thousands of other wealthy investors [look] for those exact same opportunities. That competition drives prices up and drives the potential returns down"; with $5,000 you reach "opportunities that most wealthy investors wouldn't even bother with". Examples: a $150 lawn mower at $25 a lawn pays back after 6 lawns; a $10 car-boot find resold for $60; neither scales ("at that scale, the asymmetrics are gone"). A side hustle earning $500/month from a $5,000 start = $30,000 over 5 years, "paying you from month one" (assumed figures). (The follow-on "no better investment… with $10,000 than into yourself" is PITCH, ~01:50.)
+- **Execution can't be copied** (LESSON, ~01:54–01:56): a friend copied Mark's model-shop plan and opened first; it failed; Mark bought it. "Having the same idea doesn't mean you'll get the same result… The plan was never the most valuable part… What they couldn't copy was everything I did afterwards. The decisions, the work, the mistakes, the improvements." The edge: "my ability to recognize what wasn't working, make changes, and keep improving the business".
+- **Research needs a question and an end** (LESSON, ~01:57): "Learning feels safe… They confuse learning with making progress… Real research has a purpose, and eventually it has an end. If you can't explain what you're still trying to find out before you start, there's a good chance you're not researching anymore. You're procrastinating." "The early mover starts with what they know and learns the rest by actually doing it."
+
+**Tensions** (see the [README](README.md) table):
+- "When nobody gets it, that's the signal"; "nodding is what late looks like" (MOTIVATION, ~01:32) **vs** the course's demand rules: pick problems people "already search for, already pay for" (02b-main ~01:33) and "proven" ideas (02a-vip ~00:23).
+- "Today, you need to risk a few evenings" (~01:39) **vs** "there's no better investment you can make with $10,000 than into yourself" (PITCH, ~01:50) in the same talk, and a standalone tool price of $2,999/year (PITCH, ~02:10).
+- Execution, "the decisions… the mistakes, the improvements", is "the only part nobody can copy" (~01:55–01:59) **vs** "you don't have to think for yourself… You don't have to trust yourself. You just trust the software" (PITCH, Iman, ~02:11) and "the finding of the people who'll buy it. Done for you" (PITCH, ~02:01).
+
+> Our note: secrets 1 and 2 are mindset, not method; they are listed for completeness. The usable rules are the cost-structure
+> rule, the cheap experiment, asymmetric small bets (= the portfolio logic in §8) and the research stopping rule. How they map
+> onto requirements is in [sessions/04b-main.md §6](../sessions/04b-main.md).
 
 ## 7. Product-choice frameworks
 
@@ -98,7 +131,7 @@ Supermarket model: be where presold buyers already are, instead of pitching. See
 - **3-part demand test:** already searched for + already paid for + no good solution yet (02b-main ~01:33).
 - **Passion vs demand:** "One of them starts with you. The other starts with a buyer" (snowboards in the Bahamas) (02b-main ~01:27).
 - **First idea = worst idea:** push past the obvious (transportation exercise) (02b-main ~01:29).
-- **Ideas are almost worthless:** go for proven and simple (02a-vip ~00:23).
+- **Ideas are almost worthless:** go for proven and simple (02a-vip ~00:23). Mark Tilbury's version: "If someone can take your greatest business idea and copy it almost overnight, how much was that idea really worth?"; what can't be copied is the execution (04b-main ~01:54–01:55, §6e).
 - **Pain is 90%** (02a-vip ~00:27).
 - **Intrinsic vs borrowed value; "does it take someone from A to B?"** (03a-vip ~00:08–00:10). §6b.
 - **Creator first:** in the partner model the pocket is found through a creator ("industry + keyword" search) and the product idea comes from the creator's content (03b-main ~01:34, ~01:48).

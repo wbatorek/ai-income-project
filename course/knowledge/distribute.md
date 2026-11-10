@@ -7,11 +7,13 @@
 > **Episode 4 VIP (Q&A):** saturation and local-language markets (§4b), an operator's first-hand account of running seven
 > creator partnerships (§3.3, §4), and the admission that partner creators "generally" make the product themselves (§7).
 > Still no deal terms, scripts or launch mechanics.
+> **Episode 4 main, part 1:** a motivational talk (Mark Tilbury) and a copywriting-tool pitch; adds only where copy is needed in a
+> partnership (§4) and that the host's company owns a large stake in ListKit (§8).
 
 Step 2 of the 3D system (see [frameworks.md](frameworks.md)). Course content only (LESSON and EXAMPLE segments).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
 `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md),
-`03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md). Times are Thailand time and approximate (±3–5 min).
+`03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md), `04b-main` = [Episode 4 main, part 1](../transcripts/04b-main.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -113,6 +115,7 @@ $150 × 75,000 followers × 0.5% = 375 buyers = **$56,250**; 50/50 → **$28,000
 - **The operator's job is relationship management:** "the majority of my job is like just managing things… managing my clients… situations and fires" (04a-vip ~00:41). What AI can't do: "client relations… a lot of my job is like being a therapist for my clients… this is the next step… we need to position the product this way… human-to-human interaction" (04a-vip ~00:49).
 - **Capacity limit:** one operator let two of nine creators go as "too much" (04a-vip ~00:51).
 - **Skills no longer needed (James):** "it used to be you have to have some sort of technical level… know a lot more about like marketing… some paid stuff", now "quite simple" with tools and AI (04a-vip ~00:41).
+- **Copy is needed throughout a partnership:** "when these creators post about these AI digital products, like, what do they need to say?… Do they need to follow a specific script?… what if they need to send emails? Or… record videos about the digital product?… whenever you are working on partnerships or on your own digital products, there will be places where you will need to fill in a few words." Two options: write it yourself or hire a copywriter ("a couple thousand dollars up to a couple million") (04b-main ~02:07; set-up for a tool pitch, no wording taught).
 - **Launch content, timing and format were not taught.**
 
 ## 4b. Saturation and local markets (04a-vip ~00:07–00:23)
@@ -157,7 +160,7 @@ $150 × 75,000 followers × 0.5% = 375 buyers = **$56,250**; 50/50 → **$28,000
 - **$0 distribution vs a 50% split** (01-opp ~02:21 vs 03b-main ~01:39, ~01:46).
 - **Creator size:** 10k–100k, under 10k "too small" (03b-main ~01:36) and big creators unreachable (~01:24) **vs** David's first partner with 2–3k followers ($3k) (03b-main ~02:51) and Roman's cold message to a 5M creator ($1.7M, PROOF, ~03:00).
 - **Filter 3 vs the psychologist case:** skip creators selling "course, ebook, or coaching" (03b-main ~01:36) **vs** the $600k case was a creator already selling 1:1 sessions (03b-main ~03:02).
-- **"Never send a single message yourself"** and creators "coming to you" (03b-main ~01:31, ~01:42) **vs** every guest story used personal or manual outreach (03b-main ~02:50–03:03), and James signed all nine creators himself: "I had to do it all myself" (04a-vip ~00:52).
+- **"Never send a single message yourself"** and creators "coming to you" (03b-main ~01:31, ~01:42), and "the finding of the people who'll buy it. Done for you" by "specialized AI" (PITCH, 04b-main ~02:01) **vs** every guest story used personal or manual outreach (03b-main ~02:50–03:03), and James signed all nine creators himself: "I had to do it all myself" (04a-vip ~00:52).
 - **Who makes the partner product:** the operator builds it with AI from the creator's content; "the creator is the expert… we use specialized AI to structure their knowledge" (03b-main ~01:48) **vs** "generally the creators actually create it themselves. I know we don't mention that publicly" (04a-vip ~00:29).
 - **Saturation:** "this isn't really a market that's ever going to get overcrowded" (Ali, 04a-vip ~00:30) **vs** "go to fitness micro creators… then yeah, you could be flooding the market" (Iman, 04a-vip ~00:08). The Episode 3 search method ("industry + tips", same filters) points everyone at the same creators.
 - **Operator time:** "90 minutes to three hours a day" (04a-vip ~00:13) **vs** an operator whose job is "managing… situations and fires" and "being a therapist for my clients", at capacity with seven creators (04a-vip ~00:41, ~00:49–00:51).
@@ -169,6 +172,8 @@ $150 × 75,000 followers × 0.5% = 375 buyers = **$56,250**; 50/50 → **$28,000
 > **confirmed** by the Episode 3 main session (§2–§4). Earlier hints: "audiences of 10, 20, 30, 50, 70 thousand potential
 > buyers" (PITCH, 02b-main ~02:03); "I had 30% of that" (PROOF, 02b-main ~02:45); the distribution software teased in
 > 02b-main ~02:18 is **ListKit**, an email-outreach tool (03b-main ~02:04). "$0 distribution" means paying a share of sales.
+> **Conflict of interest:** Iman says of the tools in Monetize, "with some of them, like ListKit, we're actually investors… We
+> have a very large stake" (PITCH, 04b-main ~02:10).
 
 ## 9. Open questions
 
@@ -177,4 +182,4 @@ $150 × 75,000 followers × 0.5% = 375 buyers = **$56,250**; 50/50 → **$28,000
 - **Launch mechanics** (what the creator posts, when, how often; pre-launch; live events): not taught; Eileen Wilder's "one-day cash machine" segment was not recorded (03b-main ~04:00).
 - Real conversion rates for creator audiences (only the asserted 0.5% / 2–3%).
 - Channels other than creators (marketplaces, SEO, communities, ads): not taught in Episode 3.
-- After the Episode 4 VIP still open: James's deal terms, niches, products and prices; how projections are made; what "Ghostwriter" and the outreach "kit" do.
+- After the Episode 4 VIP still open: James's deal terms, niches, products and prices; how projections are made; what the outreach "kit" does. ("Ghostwriter" = **Ghostwriter OS**, an AI copywriting tool bundled with Monetize, $2,999/year standalone; PITCH, 04b-main ~02:04–02:12.)

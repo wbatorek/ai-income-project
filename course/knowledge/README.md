@@ -4,7 +4,7 @@ Only the **LESSON** and **EXAMPLE** content of the processed sessions, merged by
 Our own interpretation is kept to clearly marked `> Our note:` blocks. The scoring model is not here; it belongs in `system/`.
 Everything is what the course teaches, **not** independently checked (see [../README.md](../README.md)).
 
-**Sessions processed:** Episode 1 (main), Episode 2 VIP, Episode 2 main, Episode 3 VIP, Episode 3 main (distribution through micro-creator partnerships, Whop publishing), Episode 4 VIP (Q&A: saturation, local-language markets, validation; guest operator with seven creator partners).
+**Sessions processed:** Episode 1 (main), Episode 2 VIP, Episode 2 main, Episode 3 VIP, Episode 3 main (distribution through micro-creator partnerships, Whop publishing), Episode 4 VIP (Q&A: saturation, local-language markets, validation; guest operator with seven creator partners), Episode 4 main **part 1** (Mark Tilbury's five "secrets", mostly motivation; part 2 pending).
 
 **Citation format:** `(session ~HH:MM)`, Thailand time, ±3–5 min.
 
@@ -16,6 +16,7 @@ Everything is what the course teaches, **not** independently checked (see [../RE
 | `03a-vip` | [transcripts/03a-vip.md](../transcripts/03a-vip.md) |
 | `03b-main` | [transcripts/03b-main.md](../transcripts/03b-main.md) |
 | `04a-vip` | [transcripts/04a-vip.md](../transcripts/04a-vip.md) |
+| `04b-main` | [transcripts/04b-main.md](../transcripts/04b-main.md) (part 1, 01:08–02:15) |
 
 ## Topic files
 
@@ -27,7 +28,7 @@ Everything is what the course teaches, **not** independently checked (see [../RE
 | [develop.md](develop.md) | Building with AI: the three secrets, 150+ source synthesis, ~45-page PDF MVP, Synthesize AI steps, a product personalised from a creator's content, iteration and portfolio |
 | [distribute.md](distribute.md) | Distribution not selling; the gold mines = micro-creators (10k–100k) without products; the three switches; Instagram search + four filters; outreach; revenue-share terms; first-creator, psychologist and scaling cases; faceless own-channel and marketplace examples; saturation and local-language markets (§4b); an operator's account of running seven partners (snowball, launches below projection, client relations). *Not taught: email scripts, contracts, launch mechanics* |
 | [deliver.md](deliver.md) | Automated delivery, payments, what Whop does (store, payments, delivery, add-ons, automatic revenue split), the publish steps, PayPal risk. *Fees never stated* |
-| [frameworks.md](frameworks.md) | Own what AI builds, digital real estate, 3D system, stop test, Turning Point, distribution frameworks (three switches, four filters, Mark Tilbury's queue lessons), Episode 4 VIP rules (time or money, no ongoing cost, doing vs learning, competitive advantage), and an index of all named frameworks |
+| [frameworks.md](frameworks.md) | Own what AI builds, digital real estate, 3D system, stop test, Turning Point, distribution frameworks (three switches, four filters, Mark Tilbury's queue lessons), Episode 4 VIP rules (time or money, no ongoing cost, doing vs learning, competitive advantage), Mark Tilbury's five secrets (two kinds of risk, asymmetric small bets, execution can't be copied, research needs an end), and an index of all named frameworks |
 
 ## Top 15 rules
 
@@ -68,7 +69,7 @@ Everything is what the course teaches, **not** independently checked (see [../RE
 | Distribution cost | Reach 10k–100k buyers "for zero dollars" (01-opp ~02:21) | A 50% revenue split is "not uncommon"; 50/50 in the worked example (03b-main ~01:39, ~01:46) | distribute §3.4 |
 | Creator size | 10k–100k; under 10k "too small to make the numbers work"; big creators unreachable (03b-main ~01:24, ~01:36) | First partner had 2–3k followers ($3k) (03b-main ~02:51); a cold message to a 5M creator worked (PROOF, ~03:00) | distribute §7 |
 | Creators already selling | Filter 3: skip anyone with their own "course, ebook, or coaching program" (03b-main ~01:36) | The $600k case was a psychologist already selling 1:1 sessions (03b-main ~03:02) | distribute §7 |
-| Outreach effort | "Without you ever having to send a single message yourself"; creators come to you (03b-main ~01:31, ~01:42) | Every guest case used personal or manual outreach: own trainer, manual DMs, a paid 1:1 session (03b-main ~02:50–03:03); James signed nine creators by hand, "I had to do it all myself" (04a-vip ~00:52) | distribute §3.3, §7 |
+| Outreach effort | "Without you ever having to send a single message yourself"; creators come to you (03b-main ~01:31, ~01:42); "the finding of the people who'll buy it. Done for you" by "specialized AI" (PITCH, 04b-main ~02:01) | Every guest case used personal or manual outreach: own trainer, manual DMs, a paid 1:1 session (03b-main ~02:50–03:03); James signed nine creators by hand, "I had to do it all myself" (04a-vip ~00:52) | distribute §3.3, §7 |
 | Creator-product price | "$150… on the low end"; "$150 to $300" (03b-main ~01:38; PITCH ~02:08) | $45 in the demo (~01:57); the lead case was a $14 ebook (PROOF, ~01:21) | product-types §6, deliver §4 |
 | Product source | Synthesise 150+ external sources (02b-main ~01:35) | Partner product: scan the creator's content "instead of… the entire internet" (03b-main ~01:48) | develop §7 |
 | Who makes the partner product | The operator builds it with AI from the creator's content; "the creator is the expert… we use specialized AI to structure their knowledge" (03b-main ~01:48) | "Generally the creators actually create it themselves. I know we don't mention that publicly" (04a-vip ~00:29) | develop §5.2, §7; distribute §7 |
@@ -78,5 +79,8 @@ Everything is what the course teaches, **not** independently checked (see [../RE
 | Operator time | "90 minutes to three hours a day" (04a-vip ~00:13) | The guest operator's job is "managing… situations and fires", "a therapist for my clients", at capacity with seven creators (04a-vip ~00:41–00:51) | distribute §7 |
 | Launch projections | $56k per partnership at a "conservative" 0.5% (03b-main ~01:39) | Real launches: 3k of 15k and 5k of 20k projected (04a-vip ~00:44) | distribute §4, §7 |
 | Whop cost | "Free" (01-opp ~02:24; 02a-vip ~00:12); "free to start", no per-product charge (03a-vip ~00:26) | Takes a % of every sale (PITCH, 01-opp ~01:24) | deliver §4 |
-| Turning Point | Able to afford not to work (PROOF, 01-opp ~01:52) | Side income passes main income (MOTIVATION, 02b-main ~01:49) | frameworks §5 |
+| Turning Point | Able to afford not to work (PROOF, 01-opp ~01:52) | Side income passes main income (MOTIVATION, 02b-main ~01:49); "not about a number… the day the stool gets its second leg" (04b-main ~01:41) | frameworks §5 |
 | 37 × $250 | Fortnite maps; $127k / $126k total (01-opp ~01:55, ~02:09) | "Fortnite maps or Pokémon cards" (02a-vip ~00:18) | product-types §6 |
+| Early vs proven | "When nobody gets it, that's the signal"; "nodding is what late looks like" (MOTIVATION, 04b-main ~01:32) | Pick problems people "already search for, already pay for"; go for "proven" (02b-main ~01:33; 02a-vip ~00:23) | frameworks §6e |
+| Cost of starting | "Today, you need to risk a few evenings"; "a laptop, an internet connection, and an AI" (04b-main ~01:39) | "No better investment you can make with $10,000 than into yourself" (PITCH, 04b-main ~01:50); Monetize "can be very expensive" (04a-vip ~00:10); Ghostwriter OS $2,999/yr standalone (PITCH, 04b-main ~02:10) | frameworks §6e |
+| Judgment vs software | Execution ("the decisions… the mistakes, the improvements") is "the only part nobody can copy" (04b-main ~01:55–01:59); AI can't do client relations (04a-vip ~00:49) | "You don't have to think for yourself… You just trust the software" (PITCH, 04b-main ~02:11) | frameworks §6e |
