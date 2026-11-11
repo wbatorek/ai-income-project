@@ -15,16 +15,17 @@ Success is measured in **revenue that doesn't depend on my hours**. The first mi
 
 | Phase | What | Status |
 |---|---|---|
-| **1. Research and requirements** | Learn the course, do our own research (market, other systems, tools), build the knowledge base, and write down **what the system needs to do** | **In progress** |
-| **2. Tools** | Choose the tools for each job (Claude, Perplexity, data sources, platforms, subscriptions), based on the phase 1 requirements | Next |
-| **3. Build the pipeline** | Build the AI system that researches, creates and sells digital products, with operator approval gates | Later |
+| **1. Research and requirements** | Learn the course, do our own research (market, other systems, tools), build the knowledge base, and write down **what the system needs to do** | **In progress**, ends Thu 12 Nov |
+| **2. Tools** | Choose the tools for each job (Claude, Perplexity, data sources, platforms, subscriptions), based on the phase 1 requirements | Fri 13 Nov |
+| **3. Build the pipeline** | Build the AI system that researches, creates and sells digital products, with operator approval gates | From Sat 14 Nov |
 
 No system code or tests during phase 1. We build structure, knowledge and requirements first.
 
 **Principles**
 - We rely on the course, but we also do our own research and study other systems.
-- We build our own system instead of buying the course's ~$2,000 tools (Claude Ultra is available,
-  and other subscriptions are fine if they're better for a job).
+- **Decided 11 Nov:** we don't buy the course's $1,995 Monetise offer now and build our own system
+  ([analysis](research/monetise-vs-own-system.md)). Claude Ultra is available, and other subscriptions are
+  fine if they're better for a job. We re-decide after 6 weeks of building and outreach.
 - We don't target the operator's own professions: experts there solve their problems with AI, not PDFs.
 
 ## Where things come from
@@ -54,28 +55,26 @@ Our system automates all three, plus the step before them: **finding the right n
 
 ## Roadmap
 
-**Phase 1: research and requirements**
-- [x] Episode 1: the opportunity (~18% useful)
-- [x] Episode 2: VIP call (~74% useful) and main session (~18% useful), knowledge merged into `course/knowledge/`
-- [x] Research: self-running multi-agent system with operator approval ([report](research/self-running-ai-system.md))
-- [x] First draft of niche finding and scoring ([`system/niche-finding.md`](system/niche-finding.md)), to be revised
-- [x] Ideas backlog: two research layers, demand and bestsellers ([`ideas/`](ideas/))
-- [x] Episode 3: VIP (~70% useful) and main session (~33% useful): micro-creator partnerships, Whop delivery; requirements updated
-- [ ] Episode 4: Mark Tilbury
-- [ ] Finale (Nov 16)
-- [ ] Add the operator's knowledge to [`knowledge/operator/`](knowledge/operator/)
-- [ ] Research other systems and teachers, not only Iman's (`research/other-systems/`)
-- [ ] Research bestseller data: what sells best, where, at what price
-- [ ] Write the full requirements ([`system/requirements.md`](system/requirements.md))
+Full plan with dates, sprint tasks and the build order: **[system/roadmap.md](system/roadmap.md)**.
 
-**Phase 2: tools**
-- [ ] Compare tools for market analysis (Claude, Perplexity, data providers) and for each pipeline step
-- [ ] Choose platforms (sales, delivery) and subscriptions
+**Phase 1: research and requirements (ends Thu 12 Nov)**
+- [x] Course: Episodes 1–3, Episode 4 VIP and main part 1, merged into `course/knowledge/`
+- [x] Research: [self-running AI system](research/self-running-ai-system.md), [Monetise vs own system](research/monetise-vs-own-system.md) (decided: build our own)
+- [x] Requirements draft v0.9 with Episode 3–4 and the Monetise decision ([`system/requirements.md`](system/requirements.md))
+- [ ] Research sprint, 7 parallel tasks (Wed 11 Nov): other systems and teachers, bestseller data, demand data per
+      country and language, creator discovery, outreach tooling, launch formats and deal terms, delivery platforms
+- [ ] Market shortlist approved, requirements frozen as v1 (Thu 12 Nov)
+- [ ] Operator knowledge in [`knowledge/operator/`](knowledge/operator/) (ongoing)
+- [ ] Episode 4 part 2 and Finale (Nov 16): processed as a delta, doesn't block phases 2–3
 
-**Phase 3: build**
-- [ ] Build the pipeline: research → plan → create → distribute → sell, with approval gates
-- [ ] First products launched
-- [ ] Reach the first $1,000, then $10,000/month, then the Turning Point
+**Phase 2: tools (Fri 13 Nov)**
+- [ ] Tool decisions in `system/tools.md`; sending domains bought and warming up
+
+**Phase 3: build (from Sat 14 Nov)**
+- [ ] MVP in the "build first" order: creator discovery → product pipeline → approved outreach → deal and launch
+      kit → store with revenue share and sales alerts → feedback loop
+- [ ] Optional parallel test: one cheap ebook or template on one channel
+- [ ] 6-week checkpoint (Sat 26 Dec), then the first $1,000, $10,000/month and the Turning Point
 
 ## My why
 

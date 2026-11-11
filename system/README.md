@@ -3,8 +3,8 @@
 A multi-agent system that **finds niches, plans, creates, distributes and sells digital products**,
 mostly by itself, with the **operator approving key decisions**.
 
-> Status: phase 1. Start with **[requirements.md](requirements.md)**. Tools are chosen in
-> phase 2 and the pipeline is built in phase 3.
+> Status: phase 1. Start with **[requirements.md](requirements.md)** and the dated plan in
+> **[roadmap.md](roadmap.md)**. Tools are chosen in phase 2 and the pipeline is built in phase 3.
 
 ## Agents
 
