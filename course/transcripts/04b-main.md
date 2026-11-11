@@ -1,45 +1,89 @@
-# Transcript: Episode 4 main, Mark Tilbury's "5 secrets to financial wealth" and the Ghostwriter OS pitch (labelled segments)
+# Transcript: Episode 4 main, Mark Tilbury's "5 secrets to financial wealth", the Monetize offer and the after-hours (labelled segments)
 
-> **Part 1 (01:08–02:15); part 2 pending.** Part 2 (Wispr Flow meeting `aca74477-4062-4c99-b4f4-e965fa874107`, from
-> ~02:15, starting where Iman explains what is included in Monetize) was still recording when this was written and is
-> **not** processed here.
+> **All four parts processed (01:08–06:18 Thailand time, with two unrecorded gaps).** Part 1 = Mark Tilbury's talk and the
+> Ghostwriter OS pitch (segments 1–20); part 2 = "What is included in Monetize" (21–24); part 3 = the after-hours with Ali,
+> Iman and three guests (25–42); part 4 = the close and a testimonial reel (43–45).
 
-- **Session:** AI Income Challenge, Day 4 main session, presented by **Mark Tilbury**; host **Iman Gadzhi** takes over at the end
-- **When:** Wed 11 Nov 2026, 01:08 → 02:15 Thailand time (UTC+7). Recording 18:08:07–19:15:15 UTC (Tue 10 Nov), ~67.1 min.
-  The recorder was started ~8 min after the session began; the missed opening was motivation only (operator's note).
-- **Source:** Wispr Flow meeting `45b0e33c-7de8-457d-b703-5145aba74b8a` "Main session 4", transcript 58,644 characters, read in full
-  (offsets 0–40,000 and 40,000–58,644).
-  Recording: https://notes.wisprflow.ai/shared/c_Giido16jUb2ZuZeRvK66i-gVLWT2yg4XQ30tHSFyE
-- **Session notes:** [`../sessions/04b-main.md`](../sessions/04b-main.md)
+- **Session:** AI Income Challenge, Day 4 main session, presented by **Mark Tilbury**; host **Iman Gadzhi** takes over at ~02:04;
+  the after-hours is co-hosted by **Ali** (Haider, "chief client officer") with Iman, and guests **Nick** (motivational speaker),
+  **Tashriq** (Monetize client, Cape Town) and **Eileen Wilder** (launch/sales speaker)
+- **When:** Wed 11 Nov 2026, Thailand time (UTC+7):
 
-**Format.** A scripted talk by Mark Tilbury (in Dubai), no slides referenced, no demo. Five "secrets", each told through a
+  | Part | Thailand time | Recording (UTC, Tue 10 Nov) | Length | Wispr Flow meeting | Transcript |
+  |---|---|---|---|---|---|
+  | 1 | 01:08 → 02:15 | 18:08:07–19:15:15 | 67.1 min | `45b0e33c-7de8-457d-b703-5145aba74b8a` "Main session 4" | 58,644 chars |
+  | 2 | 02:15 → 02:35 | 19:15:42–19:35:44 | 20.0 min | `aca74477-4062-4c99-b4f4-e965fa874107` "What is included in Monetise" | 23,047 chars |
+  | 3 | 02:36 → 05:29 | 19:36:02–22:29:50 | 173.8 min | `ab7cccf4-b9d3-4753-ad24-03acbb3d7328` (after-hours) | 178,261 chars |
+  | 4 | 05:41 → 06:18 | 22:41:24–23:18:00 | 36.6 min | `fc2eb102-9016-460a-9ead-40991ebdeac8` "AI Business Success Stories" | 22,377 chars |
+
+  **Gaps:** the first ~8 min before part 1 (motivation only, operator's note) and **~11 min between parts 3 and 4 (05:30–05:41)**,
+  during which Ali was still taking chat questions and waiting for checkouts (part 4 opens mid-answer). Total recorded ≈ 298 min.
+- **Source:** all four transcripts read in full (parts 1 and 2 in 40,000-character pages; part 3 at offsets 0, 40,000, 80,000,
+  120,000 and 160,000; part 4 in one page). Recordings:
+  part 1 https://notes.wisprflow.ai/shared/c_Giido16jUb2ZuZeRvK66i-gVLWT2yg4XQ30tHSFyE ·
+  part 2 https://notes.wisprflow.ai/shared/Tgy6dbUYgB-LQqDArFSkEwTnYJE9-x1X7ejyFGgtZVg ·
+  part 3 https://notes.wisprflow.ai/shared/de0Pj-uxXUN1ZTwwxi0hYLN5HbRBiBUy-HXs-WXUAA0 ·
+  part 4 https://notes.wisprflow.ai/shared/dCutaWDbWVv35mGOXb9RBOo-IyFZ0WLC5B7-d0ESJSw
+- **Session notes:** [`../sessions/04b-main.md`](../sessions/04b-main.md). The offer itself (part 2) is analysed in depth in
+  [`../../research/monetise-vs-own-system.md`](../../research/monetise-vs-own-system.md); segments 21–23 only summarise it.
+
+**Format.** Part 1: a scripted talk by Mark Tilbury (in Dubai), no slides referenced, no demo. Five "secrets", each told through a
 personal story and closed with "the secret is…", framed by two characters: the **lifelong avoider** ("I'll think about it")
 and the **early mover** (decides). At ~02:04 Iman takes over and pitches a Monetize bonus, **Ghostwriter OS** (an AI
-copywriting tool), plus a private Zoom call with Mark and Ali. Part 1 ends as Iman starts on what Monetize includes.
+copywriting tool), plus a private Zoom call with Mark and Ali. Part 2: Iman reads the offer stack, price, guarantee and checkout
+steps, then schedule logistics. Part 3: the "after-hours" (live viewers only): a testimonial reel, Nick's mindset talk, an
+unplanned Q&A with Iman and Ali (questions collected from the chat), a client interview (Tashriq), Eileen Wilder's talk with
+"money party" story scripts, and Ali alone answering chat questions while buyers check out. Part 4: Ali closes, then the
+testimonial reel runs again, followed by an ad for the free challenge.
 
-**Speakers.** "Speaker 1" is **Mark** until the handover (~02:04); after it, "Speaker 1" is **Iman** (the diarisation re-uses the
-label). "Speaker 2" is Iman in the two short exchanges before that ("All right, all right", "Great", "My friend, you forgot
-something").
+**Speakers.** Part 1: "Speaker 1" is **Mark** until the handover (~02:04); after it, "Speaker 1" is **Iman** (the diarisation re-uses
+the label). "Speaker 2" is Iman in the two short exchanges before that ("All right, all right", "Great", "My friend, you forgot
+something"). Part 2: "Speaker 1" = **Iman** throughout. Part 3: the opening reel is all "Speaker 1" (many clients); then
+"Speaker 1" = **Ali** and "Speaker 2" = **Iman** for the intro; Nick's talk is labelled "Speaker 2" (label re-used); in the Q&A
+"Speaker 1" = **Ali** (asks) and "Speaker 3" = **Iman** (answers); in the interview "Tashriq" and one "Speaker 3" line are
+**Tashriq**; "Speaker 5" = Eileen's intro video, "Speaker 6" = **Eileen**; from ~05:00 "Speaker 1" = **Ali** alone. Part 4:
+"Speaker 1" = **Ali**; the reel's labels (Speakers 2–7) are mixed up across clients, and the closing ad's narrator is also
+"Speaker 4" (probably Iman *[?]*).
 
 **Numbering of the secrets.** By content there are five, each ending with "the secret is…": (1) you never feel ready,
 (2) judgment means you're early, (3) the risk of doing nothing, (4) small bets give the biggest returns, (5) doing beats
 knowing. Mark's spoken numbering slips: he closes secret 2 with "that's secret number 1", opens secret 3 as "secret number 2",
 then says "secret number 4" and "secret number 5" correctly. We use the content numbering.
 
-**How the times were worked out.** There are no timestamps. Times are estimated from character position at an even rate
-(58,644 chars / 67.1 min ≈ **874 characters/min**), calibrated by sampling the transcript at 15 offsets (every 2,500–5,000
-characters). Treat them as **±3 min**. A Ghostwriter OS demo video was rolled at ~02:11 ("I am very excited to present to you
-Ghostwriter OS… So sick"); its audio is not in the transcript. If it ran for several minutes, everything before ~02:11 is up to
-that much **earlier** than shown.
+**How the times were worked out.** There are no timestamps. Times are estimated from character position at an even rate per
+part, anchored on each recording's start and end: part 1 58,644 chars / 67.1 min ≈ **874 characters/min** (calibrated by sampling
+at 15 offsets); part 2 ≈ **1,150/min**; part 3 ≈ **1,026/min**; part 4 ≈ **610/min** (much waiting and music while buyers checked
+out). Treat them as **±3 min** (part 3, with three long videos and chat pauses, **±5 min**). A Ghostwriter OS demo video was rolled
+at ~02:11 ("I am very excited to present to you Ghostwriter OS… So sick"); its audio is not in the transcript. If it ran for
+several minutes, everything before ~02:11 is up to that much **earlier** than shown. Times for part 2 differ by 1–3 min from the
+research file's interpolation (±2 min there).
 
 **Transcription fixes used** (inferred; less certain ones marked *[?]*):
-- "Eman" = **Iman** (Gadzhi); "consultant.com" = **Consulting.com**; "WAP" = **Whop**; "Monetize" = the paid coaching programme
+- "Eman", "Mangazi", "Iman Gazi" = **Iman** (Gadzhi); "consultant.com", "Imanconsulting.com" = (Iman,) **Consulting.com**;
+  "WAP", "Wap" = **Whop**; "Monetize", "money tie", "and monetized" = the paid coaching programme
 - "long-life avoider" = lifelong avoider (Mark corrects himself); "considered telling" = considering telling
 - "this actually isn't even a layoffs number" = probably "a *[final / lifetime?]* number" *[?]*
 - "a thousand pound a month… $60,000": Mark mixes pounds and dollars; amounts kept as spoken
+- "Digital Park Formula" = **Digital Product Formula** (the training); "synthesized AI", "synthesize" = **Synthesize AI**;
+  "Listkick" = **ListKit**
+- "joineman.com", "joinaman.com", "joinamon.com", "joiniman.com" = the checkout URL, spelling uncertain *[?]*
+- "you could have just asked Emma… this truly is the digital version of me" = the **"Ask Iman"** AI chatbot *[?]*; a client later
+  says "I use Ask Iman Gazi too, the tool"
+- "Tashfeet", "Ashriq" = **Tashriq**; "Azada" = Zada; "Keflavík" (part 3 reel) = **Cape Verde** (the same clip in part 4)
+- "Mishal" (India, born in Qatar) may be the "Michal" of earlier sessions; not certain *[?]*
+- "feta state" = theta state; "Olay", "Ole" = the producer running the screen *[?]*; "chicken money" = an Eileen catch-phrase,
+  meaning unclear *[?]*
+- Eileen's four buyer types: "three people, people" = **free people** *[?]*; "cheap people, people" = cheap people; the third,
+  "people, people… they'll pay a fee" = **fee people** *[?]*; the fourth (buy "more and more" at money parties) is not named
+  clearly in the transcript; the Wispr summary calls them "top buyers" *[?]*
+- "Visma is near us" (Tashriq's agency/partner) = garbled, unknown *[?]*
+- Nick (no legs, one arm, calls himself "Baby Yoda") is not given a surname in the transcript; likely the speaker Nick
+  Santonastasso *[?]*
+- The Arabic passages (Nader, Gaza) were translated by us; the gist is given, not a verbatim translation
 
 In LESSON and EXAMPLE segments, speaker labels and filler were removed and sentences joined into paragraphs; the wording is
-otherwise unchanged. `[…]` marks a cut of audience interaction or repetition.
+otherwise unchanged. `[…]` marks a cut of audience interaction or repetition. The **workbook password** announced at ~02:35 is
+deliberately **not** reproduced in this repository.
 
 ---
 
@@ -66,27 +110,63 @@ otherwise unchanged. `[…]` marks a cut of audience interaction or repetition.
 | 17 | 02:04–02:07 | PITCH | 0 | Iman's "gift": **Ghostwriter OS**, $1,546,000 licensing paid so far (+$400–500k this week); free with Monetize until the end of today's stream; "you don't need to trust yourself… just trust the software" |
 | 18 | 02:07–02:08 | LESSON | 1 | Where partnerships need copy: what creators say when they post, prompts, scripts, emails, videos; same for own products; write it yourself or hire a copywriter |
 | 19 | 02:08–02:12 | PITCH | 0 | Luis (CMO, Consulting.com) output up 5×; tool licensed after 18 months of negotiation; Consulting.com **owns a large stake in ListKit** (not in this tool); $2,999/year standalone; in the Whop dashboard under "software and tools"; demo video rolled |
-| 20 | 02:12–02:15 | PITCH | 0 | Second bonus: a one-time private Zoom call with Mark and Ali for everyone who joins Monetize by the end of the session; "borrow" lessons instead of paying for them with years. *(Part 1 ends; part 2 continues.)* |
+| 20 | 02:12–02:15 | PITCH | 0 | Second bonus: a one-time private Zoom call with Mark and Ali for everyone who joins Monetize by the end of the session; "borrow" lessons instead of paying for them with years. *(End of part 1.)* |
+| | | | | **Part 2: "What is included in Monetize" (02:15–02:36)** |
+| 21 | 02:15–02:21 | PITCH | 0 | Digital Product Formula = the 3D system as training (Armando "$111,000 in his first 45 days at 19"; Zada "$210,000" from a 70k pool); **Synthesize AI, "unlimited"** ("20 plus thousand products", "$155 million in sales", "$2,999 a year"); Perfect Product Insurance Policy (team review if no first dollar in 60 days) |
+| 22 | 02:21–02:26 | PITCH | 0 | Monetize Mania (90-day leaderboard, top 20 win; "$8.9M, $15M, $31M, $41M"); **ListKit** ("creators lining up… completely automated", "30, 50, sometimes even 70%" shares); Mark's knowledge library (from the closed "$1,000 a year" Wealth Portal) |
+| 23 | 02:26–02:34 | PITCH | 0 | Value stack "over $23,000" → **$1,995 single payment** or "as low as $166 a month" (buy now, pay later); checkout on Whop, local payment methods; **"work with you until you win" guarantee** (10× or more coaching, tracked on Whop); refund: "48 hours"… "within those 7 days", keep the built product |
+| 24 | 02:34–02:36 | LOGISTICS | 0 | No sessions Wed–Sat ("implementation"); watch WhatsApp and email; **grand finale Sun 15 Nov, 1 PM Eastern** (= 01:00 Mon 16 Nov Thailand); "only 5% make it to day five"; **workbook password announced (not recorded here)**; cut to the after-hours |
+| | | | | **Part 3: after-hours (02:36–05:30)** |
+| 25 | 02:36–02:40 | PROOF | 0 | Testimonial reel (clients from Cape Verde, Ireland, India, Venezuela, Bosnia/Germany, Iran/Dubai, Gaza, Mexico, Haiti); Ali and Iman open the after-hours, announce a Q&A and guests Nick, Tashriq, Eileen |
+| 26 | 02:40–02:58 | MOTIVATION | 0 | **Nick**: law of exposure; unlearning; "the only bad decision is not making a decision"; be-to-have; brother's overdose and "what's the gift?"; train the brain to find evidence it will work; three levels of decision (transactional, contractual, covenant) → "are you all in with the team?" |
+| 27 | 02:58–03:05 | LESSON | 1 | Q (works full-time): **build on the side, 90 minutes to max 3 hours a day**; "burn the boats" is irresponsible; Iman dropped out at 17 earning £4.8–5.6k/month and became *less* efficient with a free day; overtraining exists |
+| 28 | 03:05–03:09 | LESSON | 1 | Q (own language): business is "a game of competitive advantages"; **your language and geography are one**; the US market gets new things first and they "bleed into" smaller markets; smaller ceilings don't matter for $2–10k/month; (Iman: co-owner of Whop; "many businesses doing $50 million, $100 million a year" in digital products) |
+| 29 | 03:09–03:19 | LESSON | 2 | Q (lost money before): start only with models that **don't cost ongoing money**; cap what you put in (no stock, ads, leveraged trading); **"prepare for a situation where maybe for nine months you don't make your first dollar"**; failures are "data points"; wisdom = a long record of data points. (Claims: Whop "$5.4 billion", Higgsfield "$5.1 billion", "some stinkers") |
+| 30 | 03:19–03:33 | MOTIVATION | 0 | Qs: fear of mockery ("who's going to find out?", build in private); the company you keep (community); procrastination ("winner effect", **"confidence comes from competence"**, which only comes from doing); viewers' professions in chat |
+| 31 | 03:33–03:36 | LESSON | 1 | Q (no business skills): two routes, faceless or with a creator; "you're not part of the value equation at any point"; a launch meant to make 15K makes 3K at 70/30: "what are they going to do? Ask for a refund?"; "**you're not selling anything**" (unlike agency work) |
+| 32 | 03:36–03:43 | PITCH | 0 | Q (stuck: who helps?): Perfect Product Insurance Policy, "a 90-person company", "clients" not customers, **Accountability with Ali every Monday**, the "Ask Iman" AI ("the digital version of me… 24/7"); roll call of members in chat |
+| 33 | 03:43–03:48 | MOTIVATION | 0 | Q (belief to unlearn): put nobody on a pedestal, "just more data points and more time in the game"; "the right vehicle" (not day trading or dropshipping) |
+| 34 | 03:48–04:05 | PROOF | 1 | **Tashriq** (26, Cape Town): R60k (~$4k) in debt, loan to buy Monetize; **first call with a US creator two weeks in failed** (forgot call 1 by call 2, "I didn't know how to help"); 2–3-month slump; Ali's call helped; Synthesize found "exactly what product my creator could use" in 5–10 min; **first launch just under $6,600**; now $3,000/month take-home |
+| 35 | 04:05–04:25 | MOTIVATION | 0 | Ali's temperature check; **Eileen** part 1: "serious, not curious"; her first ebook sold for **$7** (2018) as validation; million-dollar maths, "wealth is measured in time", "get rich quick… you better hope so"; "a moral obligation" to sell something good; praise for Iman |
+| 36 | 04:25–04:32 | LESSON | 1 | Eileen: **four kinds of people in the marketplace** (free, cheap, fee-paying, and the best buyers *[names partly garbled]*); "**people don't buy what they can afford… people buy what they want the most**"; replace "what if it doesn't work?" with "**how great is this going to be when this works?**" |
+| 37 | 04:32–04:39 | MOTIVATION | 0 | Her house dream and first-class flights; be-do-have via "Einstein… time, space and matter"; "this is why Iman has programs… containers… to give you the time" |
+| 38 | 04:39–04:57 | EXAMPLE | 1 | Eileen's **"money party" scripts ("bits")**, for emails or a creator's live sales event: (1) **Gideon**: "whatever follows the words 'I am' is directing your destiny", AI removes every excuse, "stop hiding"; (2) **law of advancement**: down before up (seed, plane flaps, eagle); (3) **"your biggest expense is not knowing"**: $100,000 − last year's income = what you "paid life". Performed live as a close for Monetize |
+| 39 | 04:57–05:00 | PITCH | 0 | "Go to joinaman.com right now"; team at checkout; poem "My Wage" (Jessie B. Rittenhouse); Jim Rohn quote |
+| 40 | 05:00–05:07 | MOTIVATION | 0 | Ali: James Hernandez's wife's Instagram post and his proud father; Q: shiny-object syndrome → "just pick a lane"; Q: "I'm ordinary" → you're not |
+| 41 | 05:07–05:21 | PITCH | 0 | Offer Q&A: creator-convincing taught, modules, **email and call scripts inside**; one-time payment; weekly calls (Accountability with Ali, tool calls for ListKit and Synthesize); "without Monetize?" (Michal with ChatGPT made "a couple of hundred dollars"); **contracts: "we take care of all that… we coach you on that"**; bonuses expire tonight (existing members get them); buy until Sunday; split payment = full access; "halal"; Mania only for buyers |
+| 42 | 05:21–05:30 | MOTIVATION | 0 | Checkout overload; Ali's backstory (jobs until 35, a partner drained the account at 38, government IT job, a **Loom video to Iman**, now friends with Loom's co-founder); "you guys will be using [Loom] to send messages to creators" |
+| | | | | *(Gap ~05:30–05:41, not recorded.)* **Part 4 (05:41–06:18)** |
+| 43 | 05:41–05:47 | LOGISTICS | 0 | Ali waits for checkouts; welcome call announced in the community; buyers in the next 15 min still get today's bonuses; next session Sunday the 15th |
+| 44 | 05:47–06:13 | PROOF | 1 | Full testimonial reel: Cape Verde (21, $10k in 2 months; couldn't set up Stripe or Payoneer); Mishal ($97 VIP → "about to cross $50,000"; Synthesize 25–30 min vs ChatGPT 3–4 h); Venezuelan student ($5k product); **Zada** (accountant €3k/month → €6–8k "with just having one client"); Shadmer ($4–5k, 1–2 h/day); **Nader, Gaza** ($2,775 net in 3 months; just under $22,000 in a year; 23 people producing books); Tashriq; **Gael** (loan, creator's "DNA" into Synthesize, $48k launch in 5 days, his part $12k); Angelo, Haiti ("close to 100k") |
+| 45 | 06:13–06:18 | PITCH | 0 | Ad for the free 5-day challenge ("84%" never used AI; "$373 a day"; Nov 7–15; "to celebrate this huge investment into Higgsfield") |
 
-### Share of runtime per label
+### Share of runtime per label (whole session, all four parts, ≈ 298 recorded min)
 
-| Label | ≈ min | % of runtime |
-|---|---|---|
-| LESSON | 19 | 28% |
-| EXAMPLE | 4 | 6% |
-| MOTIVATION | 27 | 40% |
-| PITCH | 17 | 25% |
-| LOGISTICS | 0 | 0% |
-| PROOF | 0 | 0% |
-| **Valuable (LESSON + EXAMPLE)** | **23** | **≈ 34%** |
+| Label | Part 1 | Part 2 | Part 3 | Part 4 | **Total ≈ min** | **% of runtime** |
+|---|---|---|---|---|---|---|
+| LESSON | 19 | 0 | 31 | 0 | **50** | **17%** |
+| EXAMPLE | 4 | 0 | 18 | 0 | **22** | **7%** |
+| MOTIVATION | 27 | 0 | 80 | 0 | **107** | **36%** |
+| PITCH | 17 | 18 | 24 | 6 | **65** | **22%** |
+| PROOF | 0 | 0 | 21 | 25 | **46** | **15%** |
+| LOGISTICS | 0 | 2 | 0 | 6 | **8** | **3%** |
+| **Valuable (LESSON + EXAMPLE)** | 23 (34%) | 0 (0%) | 49 (28%) | 0 (0%) | **72** | **≈ 24%** |
 
-(Percentages are rounded and add to 99.) **Only segment 14 (~6 min, ≈ 9% of runtime) is value 2.** Everything else counted as
-valuable is value 1: generic personal-finance and decision framing (two kinds of risk, compounding vs asymmetric bets), told
-through Mark's biography. Part 1 teaches **nothing new about developing, distributing or delivering digital products**. The few
-points that are new to our knowledge base: research needs a stated question and an end; ideas are copyable while execution is
-not; a cheap experiment before forming an opinion (the 2004 website); "pick the right kind of thing" (no lease, stock, staff or
-debt); where copy is needed in a partnership; and the Turning Point as "the stool's second leg". Logistics: no password or
-giveaway in part 1.
+(Percentages are rounded and add to 100.) **Only segments 14 and 29 (~16 min, ≈ 5% of runtime) are value 2.** Everything else
+counted as valuable is value 1, and much of part 3's LESSON time **repeats the Episode 4 VIP** (side-income hours, local
+languages, "the creator can't ask for a refund"). Segment 38 is counted as EXAMPLE because the scripts are reusable launch-copy
+patterns, but they are persuasion devices, performed on the audience as the close for Monetize.
+
+**Part 1** teaches nothing new about developing, distributing or delivering digital products. The few points that are new to our
+knowledge base: research needs a stated question and an end; ideas are copyable while execution is not; a cheap experiment before
+forming an opinion (the 2004 website); "pick the right kind of thing" (no lease, stock, staff or debt); where copy is needed in a
+partnership; and the Turning Point as "the stool's second leg". No password or giveaway in part 1.
+
+**Parts 2–4** add: a **realistic time to first dollar** ("prepare for… nine months", seg 29); a cap on what you put in; a
+first-hand account of a **failed first creator call** and what it cost (seg 34); **Loom video messages** as the outreach medium
+(seg 42); story-based **launch-event ("money party") scripts** and price-objection reframes (seg 36, 38); and pitch facts: the
+price ($1,995), that **contracts, email and call scripts exist only inside Monetize** (seg 41), and that "Ask Iman" is a member
+tool. No deal terms, contract wording, outreach wording, call structure or launch schedule were taught.
 
 ---
 
