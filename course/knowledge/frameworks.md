@@ -2,7 +2,7 @@
 
 Course content only (LESSON and EXAMPLE segments, unless a source label says otherwise).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md), `04b-main` = [Episode 4 main, part 1](../transcripts/04b-main.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md), `04b-main` = [Episode 4 main](../transcripts/04b-main.md) (parts 1–4). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -122,6 +122,43 @@ A mindset talk, mostly MOTIVATION; source labels are given per point. Framed by 
 > rule, the cheap experiment, asymmetric small bets (= the portfolio logic in §8) and the research stopping rule. How they map
 > onto requirements is in [sessions/04b-main.md §6](../sessions/04b-main.md).
 
+## 6f. Episode 4 after-hours rules (04b-main ~02:58–05:07, Q&A and guests)
+
+**Taught (LESSON, value 1–2):**
+- **Side income beside a job:** "90 minutes to maximum… three hours a day"; quitting is "irresponsible" advice; "build your base…
+  baby steps… when the time is right… make it your main thing". More hours aren't more output: with a free day Iman "became less
+  efficient"; "overtraining does exist" (~02:58–03:04). Same figure as the VIP (§6d).
+- **Business as competitive advantages:** "that's all business is, just a game of competitive advantages"; advantages are built over
+  time, but language and geography are one you start with; new things reach the US market first and "bleed into the smaller
+  markets" (~03:05–03:08). [distribute.md](distribute.md) §4b.
+- **Capped downside, long runway:** only models that don't "cost ongoing money to upkeep"; "there needs to be a cap… past this, I'm not
+  spending money on stock… ads… trading"; "**prepare for a situation where maybe for nine months you don't make your first dollar**"
+  (~03:09–03:13). Extends "no ongoing money cost" (§6d) and Mark Tilbury's "right kind of thing" (§6e).
+- **Failure as data points:** "it's readjusting the compass… you keep getting more data points… at a certain point… the path is
+  clear"; "wisdom is just simply a long track record of collecting enough data points so… you can make better informed decisions";
+  repeating the same mistake is different (Ali) (~03:14–03:18).
+- **Confidence comes from competence**, and competence only from doing; start with small actions to build the self-image of someone
+  who acts ("the winner effect") (MOTIVATION, ~03:28–03:30).
+- **The creator carries no money risk:** "you're not selling anything" (~03:34). See the tension in
+  [distribute.md](distribute.md) §7.
+- **Pick a lane** (Ali, MOTIVATION): against shiny-object syndrome, "making a choice… and sticking with one long enough is what gets
+  you success"; he lost "15 years… chasing different opportunities" (~05:03–05:05).
+
+**Named but motivational (listed for the index, not method):** Nick's **law of exposure** ("once exposed… I can never be unexposed"),
+**be-to-have** ("become the person before you do the thing"), "**what's the gift?**", and **three levels of decision**:
+transactional, contractual ("fear of penalty"), covenant ("you go all in and I go all in with you") (~02:40–02:58). Eileen Wilder's
+**be-do-have**, **law of advancement** ("before anything goes up, it has to go down") and "**wealth is measured in time**"
+(~04:12–04:52). Her four buyer types are in [buyer-psychology.md](buyer-psychology.md) §5b and her story scripts in
+[distribute.md](distribute.md) §4c.
+
+**Tensions:**
+- "Prepare for… nine months" and "baby steps" (Iman, ~03:01, ~03:12) **vs** "is this a get rich quick scheme?… you better hope
+  so… we don't have enough time to get rich slow" (Eileen, MOTIVATION, ~04:18) in the same after-hours.
+- Build on the side, don't "burn the boats" (Iman and Ali, ~02:59–03:01) **vs** Nick's covenant "all in… I sold everything in
+  America" (~02:55) and Ali's "I kind of had to go all in" (~05:15).
+- "There needs to be a cap" and not putting "you or your family at danger" (~03:13) **vs** featured clients who **took loans** to buy
+  the programme (Tashriq, Gael; PROOF, ~03:51, ~06:04).
+
 ## 7. Product-choice frameworks
 
 - **Five digital product unlocks:** pain → worsening pain → transformation → specificity → speed (02a-vip ~00:50). [choosing-products.md](choosing-products.md) §3.
@@ -148,6 +185,7 @@ A mindset talk, mostly MOTIVATION; source labels are given per point. Framed by 
 - **Faceless by format:** ebook and asset as they are; video via Loom or Slides + voiceover, not avatars; digital mind via no-code platforms (03a-vip ~00:14–00:23).
 - **AI does 90% of design, you check** (03a-vip ~00:29).
 - **Pre-sell when the value is there** (Josh Comeau, 4,800 pre-orders) (03a-vip ~00:17).
+- **Data points, not failures; a capped stake; up to nine months to a first dollar** (04b-main ~03:09–03:18, §6f).
 
 ## 9. Small numbers
 

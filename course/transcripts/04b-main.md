@@ -453,3 +453,411 @@ inside Monetize." The demo video is rolled (not transcribed); Iman: "So sick."
 years of wisdom"; "you bring your situation and you leave knowing your next move". "Either you live through them the way Mark did and
 you pay for every lesson with years and money, or you borrow them from someone who's already paid." Ends mid-sentence ("And just in
 case."); part 2 continues with what Monetize includes.
+
+---
+
+## Part 2: "What is included in Monetize" (02:15–02:36)
+
+Wispr Flow meeting `aca74477-4062-4c99-b4f4-e965fa874107`. Iman alone. All of it is the offer; for the full stack, prices,
+"unlimited" vs credits, durations and the refund policy, see
+[`../../research/monetise-vs-own-system.md`](../../research/monetise-vs-own-system.md) §1–§2 and §9 (quotes). Only the key facts are
+kept here.
+
+### Segment 21 — PITCH — 02:15–02:21 — Digital Product Formula, Synthesize AI, Perfect Product Insurance
+Recording starts mid-sentence. **Digital Product Formula** = the 3D system as training: step 1 "our AI system that literally builds
+your entire digital product for you in a few clicks… ready to test this week already" (Armando, "completely new… $111,000 in his
+first 45 days at 19 years old"); step 2 a distribution strategy "that costs you $0", audiences of "10,000… even 100,000", "a cut as
+big as 50% of all the profits" (Zada, "over 70,000 potential buyers… $210,000"); step 3 delivery automated on Whop, "your
+set-and-forget machine". "You don't need to trust yourself… The software does the work for you." **Synthesize AI, "unlimited
+access"**: "trained on data from 22,000—uh, 20 plus thousand products, and over $155 million in sales"; its first product made
+Iman "over $370,000 in 30 days"; "you can try it as many times as you want until you succeed with no extra cost… like a slot machine
+in Vegas where you never have to put money in. I already loaded the machine"; "people have paid $2,999 a year for a single
+license". **Perfect Product Insurance Policy:** "If you don't make your first dollar within 60 days of joining… my own team will…
+perform a complete diagnostic review… hand you a personalized action plan"; "even if you do everything wrong… You just need to
+trust my team."
+
+### Segment 22 — PITCH — 02:21–02:26 — Monetize Mania, ListKit, Mark's knowledge library
+**Monetize Mania** ("bonus number 4"): a 90-day leaderboard of products made inside Monetize; "the top 20 earners… all win"; past
+rounds "$8.9 million in 90 days, then $15 million, then $31 million, then $41 million"; starts Monday, everyone at $0. **ListKit:**
+"the AI system that will get creators lining up wanting to promote your digital products to their audience and give you a share
+of the profits, completely automated. All you have to do is say yes when one of those creators shows interest… Why would they
+offer you 30, 50, sometimes even 70% of their profits?… they don't have any profitable products of their own." **Mark's knowledge
+library:** keep, grow and protect money; from the Wealth Portal ("sold for $1,000 a year… currently closed to new members");
+"It only takes one. One bad loan."
+
+### Segment 23 — PITCH — 02:26–02:34 — Value stack, price, checkout, guarantee, refund, financing
+Stack: Digital Product Formula ("$1,495"), Synthesize ("$2,999 a year"), the insurance (otherwise only via "up-level at $7,800"),
+Mania, ListKit ("$597 a month for their most basic plan. You are getting one full year of it, which goes for $7,164"), the library;
+fast-action bonuses until the end of the presentation: Ghostwriter OS ("$2,999") and "Mark and Ali's 100 Years of Wisdom live
+call". "Over $23,000"; "not even… $10,000"; "$5,000… an incredible deal"; **"a single payment of $1,995. And yes, financing is
+available."** "This exact offer with all these bonuses will never be available again." Checkout: the link in chat or the join URL
+→ "Get Access Now" → "a secure checkout page on Whop"; card, bank, ACH, wire, crypto, PayPal, UPI, regional methods; watch the
+confirmation video. **Guarantee:** "You either 10x your investment on Monetize through your AI digital products, or we keep working
+with you until you do… We will never charge you another dollar… Everything runs through Whop, our own platform. Every sale…
+verified in real time." **Refund:** "that is why we can make a guarantee this strong, 48 hours… If you refund within those 7 days,
+you keep the digital product that's synthesized" (the written policy is a 7-day window, processed within 48 hours: research file
+§7). Checkout problems: the team contacts you "within 5 minutes" by WhatsApp or SMS. **Buy now, pay later**: "as low as $166 a
+month" if approved.
+
+### Segment 24 — LOGISTICS — 02:34–02:36 — Schedule, password, handover
+Key facts: "Wednesday, Thursday, Friday, and Saturday, we actually won't have any sessions, because now it is time to implement";
+watch WhatsApp and email for "unannounced updates"; **grand finale "Sunday the 15th… same time as usual, 1 PM Eastern"** (= 01:00
+Mon 16 Nov, Thailand). Motivation: "only 5% of you would make it to day five… the championship rounds"; "think back to your why
+from episode one". **The workbook password is announced here** (not reproduced in this repository). After-hours "only available for
+the ones who are here live"; guests Nick, Tashriq, Eileen.
+
+---
+
+## Part 3: after-hours (02:36–05:30)
+
+Wispr Flow meeting `ab7cccf4-b9d3-4753-ad24-03acbb3d7328`. Times ±5 min.
+
+### Segment 25 — PROOF — 02:36–02:40 — Testimonial reel; after-hours opens
+Short clips (repeated in full in segment 44): "$10,000… just like two months"; Mishal "within like 27 days, I crossed my first
+$1,000"; "that product made $5,000"; Zada "in our first month we did like $11,000"; Shadmer "you earned about $2,000" in a day;
+an Arabic clip (23 people in an academy in Gaza); "I'm 50, and I'm able to provide for my mom"; a med student; "we build our own
+house that we pay cash". Ali and Iman open "the after-hours… a little bit more informal"; an unplanned Q&A; guests Tashriq ("one
+of our Monetize clients"), Nick, Eileen.
+
+### Segment 26 — MOTIVATION — 02:40–02:58 — Nick: decisions, be-to-have, evidence, three levels of decision
+Intro video ("the 12th baby in medical history"; "the biggest disability you can have is a bad mindset"). Nick ("Baby Yoda"):
+the **law of exposure** ("the moment I'm exposed… I can never be unexposed again"); success is often "subtraction", unlearning
+beliefs formed between 0 and 7 ("theta state": "big boys don't cry", "money doesn't grow on trees"); school's one-right-answer tests
+teach that decisions are right or wrong; "**the only bad decision is not making a decision**… indecisiveness is poverty thinking";
+"the path illuminates as you walk it"; "your new life is going to cost you your old one". **Be-to-have:** "you have to become the
+person before you do the thing"; "success rules" ("I will finally feel happy when…") delay the emotion. Story: his brother's fatal
+overdose and being asked by his father to tell his sisters; two questions: "**what's the gift?**" and finding evidence ("the brain
+will find or create the evidence to support its belief systems"; "most people are focused on the evidence that it won't work").
+**Three levels of decision:** transactional, contractual ("binded by fear of penalty"), **covenant** ("you go all in and I go all in
+with you") → "these people are all in for you… Are you all in with the team?"; he "sold everything in America" and moved to Dubai.
+"Knowledge is potential power"; insight vs integration.
+
+### Segment 27 — LESSON — 02:58–03:05 — Building on the side of a full-time job
+Value 1: repeats the VIP (04a-vip ~00:13); adds Iman's own counter-example.
+
+**Ali (question from Tyler):** I work full-time. Can I realistically build this on the side, and what would a normal week look
+like?
+
+**Iman:** I think we have a responsibility to give you responsible advice. And in my humble opinion, I think it is very
+irresponsible for people out there to shit on jobs, to tell you to, hey, quit your job, go all in, drop all your responsibilities.
+At the end of the day, let's be realistic here. We all have bills, we all have responsibilities. And in a sense, there's two ways
+to look at your job. You can look at your job as the thing that's draining you, or you can look at your job as a blessing because
+it gives you the security to then go do something like this and build a side income. **And building a side income should only take
+you 90 minutes to maximum if you really want to push it three hours a day.** […] Even me in my position, I probably piss away three
+to four to maybe even five hours a day. […] When someone tells me, oh, they work 12 hours a day, I'm like, yeah, you might be
+thinking about work 12 hours a day, but really doing the work 12 hours a day, no one I know does that. So I just think it's about
+working smart. […] Working smart and using the right leverage is the most important thing. So not only do I think is it realistic
+to build on the side of maybe you're getting your degree, maybe you're working a job, […] I think that's the right way to do
+things. I think that's a responsible way to do things. And I think in life, it's much better to build your base and have these baby
+steps and build your foundation. And when the time is right, you'll know when the time is right, you can take your side thing and
+make it your main thing.
+
+**Ali:** There's this notion online now, which is just bullshit about burning the boats […] Guys, if you're listening to people who
+are saying burn the boats, do not listen to them because they're not in your boat, quite frankly. […] Until I was certain, my bills
+need to be paid […] Before work, lunchtime, after work, I was taking calls. […] And then when the time's right, then you think,
+okay, now I'm going to go all in. That's a responsible way to go in.
+
+**Iman:** I actually dropped out of school at the age of 17. […] None of you guys should drop out of school. […] At that point, I
+was already making more than multiple of my teachers combined. […] I think at the time of dropping out, I was at 5,600 pounds a
+month, something along those lines, or 4,800 pounds a month. […] I was like, if I can make 5, 6 grand a month, and I'm only
+working like three, four hours a day, if I have the entire day, I'm going to make so much more money […] **And what actually
+happened was when I dropped out of school and I had the whole day to myself, I became less efficient.** All of a sudden now I was
+looking at 12 hours free on my calendar. […] You start procrastinating and you start doing things that aren't actually the work.
+[…] Overtraining does exist. […] There is a certain point where the more work you do, it's actually doing damage.
+
+### Segment 28 — LESSON — 03:05–03:09 — Your language and country as a competitive advantage
+Value 1: repeats 04a-vip ~00:09–00:22, with the "US first, then smaller markets" mechanism made explicit.
+
+**Ali (question from Tisha, Russia):** My English isn't great. Can I still do this and can I build in my own language? […] This
+advice you're about to give is the same advice that you give our consulting clients in Quantum, right? Who pay, I think, 25K for
+six months access.
+
+**Iman:** In life, you want to make the most of any competitive advantages that you might have. Like to me, that's all business is,
+just a game of competitive advantages. And making money is just a game of competitive advantages. […] Let's say your son is
+freakishly tall. What sport do you think you should probably push him towards? […] And advantages are something that you're going
+to build over time. It's not something that generally you start off with. **But one of the biggest competitive advantages I actually
+think you have is your demographic and your language, your geography, where you're from.** […] If you're in India, if you're in
+Pakistan, if you're in Azerbaijan, if you're in Serbia, […] if you're in Mexico, these are less developed markets. Not less
+developed, let me rephrase that. **Less sophisticated. Generally what happens is the American market gets hit first.** And this is
+any industry you look at, whether that be software or physical products or digital products […]. **The most advanced stuff goes to
+those markets first and they bleed into the smaller markets.** Now, yes, the smaller markets is harder to make $50 million or $100
+million a year, which by the way, there's many. By the way, as a person who is a co-owner of Whop, obviously I'm quite privy to how
+much businesses are making. There's many businesses doing $50 million, $100 million a year in the digital product realm. And sure,
+in these smaller markets, yeah, maybe you might not hit $50 million, $100 million, but who cares, right? **We're just trying to make
+an extra 2 grand a month, 5 grand a month, 10 grand a month.** And, you know, baby step our way up from there.
+
+### Segment 29 — LESSON — 03:09–03:19 — No ongoing costs, a capped stake, and nine months to a first dollar
+Value 2: the only realistic timeline given in the whole challenge, and a clear risk rule.
+
+**Ali (question from Antonio, Italy):** I've built something before, lost money when it stopped working, and now I feel like I'm back
+at square one. How do I start again without repeating the same mistake?
+
+**Iman:** In my experience, I've lost money on many a stupid thing in the past. But the one thing that I will give myself credit for
+that I did right is **I focused on ways of making money at the beginning that didn't cost ongoing money to upkeep.** And that's why
+I've been very vocal about things like trading or very vocal about things like e-commerce. […] I'm an investor in many physical
+product businesses […] one even does over $100 million a year in revenue. And I also have my own physical product business […] a
+small business that does a couple of million dollars a year […]. And I had a situation with one of my physical product businesses.
+This is in 2020 with the C19 situation where it was just stuck. It was stuck in customs for three, three and a half months. And that
+meant that I had no money coming in. And bear in mind, I'd already fronted the cash for that stock. So that's why I just think, look,
+if you're sat here and you tell me you have 50 grand or 100 grand or a quarter of a million dollars to invest, of course my advice is
+going to be different to you. But for most people here, I have to be realistic and I have to go, all right, cool. Realistically, you
+can't just burn 5 grand on ads or 10 grand on stock or XYZ. Or if you did lose 15 grand trying to trade and then revenge trade and
+lose your money on leverage, it's just irresponsible […]. And you have to understand that sure, you aim for the best, but I think you
+also prepare for the worst. **And I think you have to prepare for a situation where maybe for nine months you don't make your first
+dollar.** And in other models, that means that you could genuinely put yourself in a very financially precarious situation, which I
+think is personally unethical and immoral for people to recommend that to beginners specifically. […] **But in this model, you can
+fail for nine months.** And by the way, I don't like the word fail. […] Failure to me, it's readjusting the compass. Okay, so like
+you keep getting more data points. So as you try something, it doesn't work, you get a data point, then you get another data point
+[…]. And at a certain point, you've readjusted your compass where like the path is clear. And once you're a few years into this, you
+won't really need to ever readjust your compass. […] Whereas when you start, you might have more failures than you have wins. And
+that's fine just as long as you don't bankrupt yourself in the process. […] My only ask is please just don't go into a model where
+like you actually might put you or your family at danger. **Like there needs to be a cap on like, all right, cool, I'm investing X
+amount, but past this, I'm not spending money on stock, physical stock, having to spend money on ads, having to spend money on […]
+potentially losing a shit ton of money trading.**
+
+**Ali:** If you make the same mistakes over and over and over again, that's different, right? But failing, trying, there's nothing
+wrong with that whatsoever.
+
+**Iman:** Type data point in the chat. […] You know how many failures we have even for us all the time? Like other ventures, other
+businesses. […] Higgsfield is a $5 billion company, Whop is a $5 billion company, $5.1 billion and $5.4 billion respectively. And
+we've made some other very publicly big investments that worked out well. But like we've also had some stinkers. […] **Wisdom is just
+simply a long track record of collecting enough data points so that way you […] can make better informed decisions.**
+
+### Segment 30 — MOTIVATION — 03:19–03:33 — Mockery, company, procrastination
+Q (Jin Dong, Vietnam: fear of being mocked): "Who's going to find out that you're trying in the first place?… you can just do this
+fully in private"; Iman uses doubters "as fuel" ("inspiration or desperation"; his mother's situation); Ali "told no one… building in
+the shadows… let your work do the talking". Q (Henry, US: the company you keep): Iman: you needn't cut off unambitious friends;
+"if you had my life, you would hate it"; Ali: community was "the biggest ROI… in my life"; he unfollowed the Man United players.
+Q (Spencer, UK: "later"): start with small things; "the winner effect"; **"confidence comes from competence. And… the only way you can
+actually have competence is do the thing"**; if Iman stepped into a viewer's profession he'd be clumsy at first too; viewers post
+their professions (truck driver, CPA, software engineer, dental hygiene, teacher, satellite engineer…).
+
+### Segment 31 — LESSON — 03:33–03:36 — "You're not selling anything"
+Value 1: the creator-has-no-downside point repeats 04a-vip ~00:44; adds the framing that the operator's own skills aren't in the
+value equation.
+
+**Ali (question from Juan Cardona, Colombia):** How do I stop getting discouraged by failure when I'm not business savvy and don't
+think I have skills people would pay for?
+
+**Iman:** First things first, it's not failure […]. Second, **there's two routes with AI digital products**, right? Either you're doing
+a faceless AI digital product […], the AI is creating a digital product, you're selling it. **In which case, the value doesn't come
+from you. You're not part of the equation at any stage of that. Or if you're working with the creator, once again, you're not part of
+the value equation at any point.** And also with the creator, like let's say […] we were talking about this earlier in VIP, let's say
+things go terribly wrong and the first creator launched the first month that's meant to make 15K. And let's say it only makes 3K. And
+the split between you and the creator is 70-30. What are they going to do? Ask for a refund? They didn't pay you any money. All you
+did was put money in their pocket that they didn't have prior to that. So, you know, I started off […] in a pretty precarious
+situation, which is like I actually had to go to business owners and go, hey, like, I know I don't really have a track record, but you
+should pay me money and I'm going to have XYZ, this, that deliverables. And that's actually tough, I'll be honest. […] **But in this
+situation, you're really, you're not selling anything.**
+
+(Which side gets the 70 is not said.)
+
+### Segment 32 — PITCH — 03:36–03:43 — Who helps when you're stuck
+Q (Paul, US: stuck on the first product or outreach): "That's why we have the perfect product insurance policy"; Max (COO) first
+said "absolutely no… chance"; they "hired a bunch more people"; "this isn't the Iman show. This is the Consulting.com show… the
+number one top consulting firm in the world" invested in software companies; "a 90-person company"; "You're not a customer… You're
+clients… we are 10 times more excited to serve you". Ali: "multiple calls in the community… I'm there every Monday. **You get
+accountability with Ali.**" Iman on "Ask Iman": "you could have just asked [Ask Iman]. Like this truly is the digital version of me…
+24/7… it even outperforms me as a human." Members asked to type "Monetize" in chat; feedback invited ("if it's shit, you can say
+shit").
+
+### Segment 33 — MOTIVATION — 03:43–03:48 — No pedestals
+Q (Isabella, Portugal: what belief did you unlearn?): Iman: "you're no different to any of these other people you put on a
+pedestal… all they do is collect more data points… they do the right things in the right order"; even his "multi-billionaire"
+friends are human. Ali: big creators turned out "just normal"; "nothing… that's not achievable… with just the right vehicle… if…
+you choose day trading or you choose drop shipping, then I'm sorry". Iman: "Sometimes you just got to wake up and… go, I'm him".
+
+### Segment 34 — PROOF — 03:48–04:05 — Tashriq, Cape Town
+Value 1 for the first-call account. Intro video ("$3,000 per month… out of debt… Synthesize AI… 5 to 10 minutes"), then Ali
+interviews him. Background: degree took 7 years; retail and call-centre jobs; crypto trading, meme coins, dropshipping and e-commerce
+failed; "I actually ran an agency" and "was already accustomed to using AI"; followed Iman "two to three years"; joined after an ad.
+**Money:** "about 60,000 rand in debt… roughly about $4,000"; the price is "probably like double the minimum wage" in South Africa;
+"So I took out a loan… I'm going to buy Monetize".
+
+Key facts, close to verbatim: "**Two weeks after going through Monetize, I landed a call with my first creator… in the US. I hopped
+into a call with her, did the first call, got to the second call, and then… By the second call, I knew absolutely nothing that we
+spoke about on the first call.** I was very nervous. I haven't ever done something like that before… since I moved ahead so fast…
+maybe I just had to maybe just breathe instead of trying to think, okay, how do I make the fastest money… **And then we actually
+decided on call, like, no, we can't work together. Because I didn't know how to help at the time.**" Afterwards: "for like an entire
+week, I kept thinking on that call… for the next like two to three months… it affected my work rate". He joined Ali's weekly call,
+and Ali said "that was probably the best thing that could ever happen"; "the other launches that I've worked on after that, I've
+learned every single thing on that situation… what to do, what not to do". Tools: "ghostwriter, synthesize… it saves a lot of time";
+in the video: Synthesize let him "target exactly what product my creator could use. It took me probably between 5 to 10 minutes… if
+you had to do manually, it would have taken… a week or two weeks". **Results:** "after our first launch, we did $6,000 in sales, just
+under about $6,600"; debt paid; "$3,000 per month" take-home (video); next steps "getting on more partnerships", with a business
+partner and his agency. Ali's framing: "the sooner you have that little bit of… setback… you learn so much more from failure". Ali
+also: AI trained by "people who have done hundreds of millions of dollars" is "going to be elite".
+
+### Segment 35 — MOTIVATION — 04:05–04:25 — Ali's temperature check; Eileen part 1
+Ali asks for a 1–10 "temp check" while the next guest gets ready. **Eileen Wilder:** "serious and not curious"; "money loves speed";
+promised "scripts that you could use… with your creators, with your partners… maybe in a money party… a party where you make money";
+"the bits, the stories make money"; she first used them **in email**. Her story: broke in 2018, husband Uber-driving; "I remember
+making my very first ebook… **I sold my ebook for $7**… it became validation that this could work… the beginning of my six-figure
+day"; "you could even interview someone that has some knowledge". Game: $40k/year = 25 years to a million, $25k = 40 years, a million
+in one year = rich: "**Wealth is measured in time**… time is infinitely more valuable than money… I would rather waste money than
+time"; "is this a get rich quick scheme? … babe, you better hope so… we don't have enough time to get rich slow"; "is this a scam?…
+You've already been scammed by the system"; "get it done sooner so you can enjoy it longer". Felt it was "wrong… to charge people for
+knowledge"; "**If you have something good, you have a moral obligation to get it into the hands of as many people as possible**";
+"isn't doing something to someone. It is doing something for someone"; long praise of Iman ("does not need you to do anything").
+
+### Segment 36 — LESSON — 04:25–04:32 — Four kinds of buyers; "people buy what they want the most"
+Value 1: price-objection psychology for live sales, no data. The type names are partly garbled (see the header).
+
+**Eileen:** You don't get what you want. You and I get who we are. […] How many of you would love for people to pay you or your
+creator or partner a VIP ticket to come to your event? […] **There are four types of people that you're going to encounter in the
+marketplace.** […] You're going to have to have some thick skin for some of these people. **The first type of people […] free
+people.** They want everything for free. Can I get a discount? Can I get that for free? […] They only want it if it's free. […] **The
+next bucket of people, cheap people.** […] **It's going to be tough for free people and cheap people to see your value**, because
+they're going to have a lot of internal resistance. […] They're resistant to anybody offering them something. These are the people who
+walk into a shoe store and the […] salesperson […] is like, can I help you with finding some shoes? And they're like, no. […] When
+you're encountering free people and cheap people, this is what's going on inside of them. They're thinking that they can't afford it.
+And because they think that they can't afford it, they think other people can't afford it. […] I remember being a free person and a
+cheap person […] and I thought because I was broke, everybody was broke. […] Here it is. **People don't buy what they can afford.
+[…] People buy what they want the most.** So it's never that people can't afford it. […] People are right now already buying the
+things that they want the most. […] Some free people and cheap people think, well, what if it doesn't work? […] **The question you
+want to ask yourself is not what if this doesn't work. The question you want to ask yourself is how great is this going to be when
+this works?** […] This is how you can help free people and cheap people, simply by asking this question. […] Now, there's two more
+kinds of people. […] **The next level of people is fee people. These are people who will pay money. They'll pay a fee and they're
+going to pay you a fee for your products, your ebooks, your courses.** […] They're free-flowing with the money. They're not tight.
+**And then there's another level.** […] These are going to be the people who will typically buy at your money parties and buy more
+and more stuff. […] You need to be the premium version of yourself so that you can serve them at the highest level.
+
+### Segment 37 — MOTIVATION — 04:32–04:39 — "When it works"; be-do-have
+Viewers post what they'll do "when it works"; her dream of a house with grass for her kids, then first-class flights to England and
+Scotland "as a result of stop asking yourself… what if it doesn't work". Be-do-have explained via "Einstein… time, space, and matter"
+and Emerson; "the number one reason why you haven't hit a hundred thousand dollars… is because you have not yet had the time to
+focus on being the person"; schools "have taken our time"; "**this is why Iman has programs**… containers, environments to give you
+the time".
+
+### Segment 38 — EXAMPLE — 04:39–04:57 — Three "money party" scripts (story "bits")
+Value 1: reusable story structures for launch emails and live sales events, and a live demonstration of how they close. Each bit
+ends with an explicit "what's the takeaway for you" and an audience action (type a word in chat).
+
+**Eileen:** Script number one. […] When I would do this story and this bit, people in the money party, they would get so excited.
+They would ask me to buy what it was that I was presenting next. […] Some people would get on their feet. […] **Pretend we're in a
+money party and I'm performing this and I'm going to interact with you just like I would if I was on stage or using this with one of
+my creators or one of my partners. And then you can do the same thing.**
+
+**(1) Gideon.** Once upon a time, there was a man […] named Gideon. And Gideon was hiding […] in something called a wine press […]
+because enemies had surrounded his tribe of people and they were stealing everything. […] Somebody say hiding. […] And an angel shows
+up […]. The angel doesn't say, "Yo, Gideon, why are you hiding?" The angel says, "Yo, Gideon, mighty warrior." […] **What's the
+takeaway for you […]? You are not who you think you are.** […] Gideon says, "But I am the least in my father's house." […] **Whatever
+follows the words "I am" is directing your destiny.** Maybe like me, you've said things like, "But I'm too young." Or […] "But I'm
+too old." But I have no audience. But I have no money. But I am not techie. Eileen, I am camera shy. I have no expertise. […] **And
+then have you ever thought about AI has taken every excuse away? If you're too young, AI doesn't care. If you don't have an audience,
+it'll make stuff and content where you or your creator are everywhere. If you don't have any money, […] AI is the cheapest hire
+you're ever going to make. If you're not techie, congratulations. You can just type. […] If you're camera shy, AI will write it,
+voice it, edit it, and be a face for you right now. […] I have no time. AI will work the night shift. […] And if you're not an
+expert, all good. […] So the excuses are gone. So then what's left? Only the hiding.** […] Gideon was told by the angel, "Go in the
+strength that you have. […] Get up." […] [The close, live:] **The doors are still open. The opportunity, you haven't missed it.**
+[…] Some of you need to just get up and go to [the join URL] right now, just as a declaration to yourself. I refuse to stay hiding
+any longer. […] On Gideon's signal […] they shouted. […] Somebody type "pro" in the chat. I am a pro. […] Gideon and all his people,
+they took all the gold. […] **That's a bit, that's a story.**
+
+**(2) The law of advancement.** "Before anything goes up, it has to go down." […] A seed […] has to go down […] into the dirt where
+it's dark. […] **You're not going to be able to become everything of who you're meant to be if you're still holding on to who
+you've been.** […] **Sometimes our bank balances are going down before our income goes up.** And sometimes our comfort's going down
+before our confidence is going up. […] That's not failure. You're just a seed planted. […] Airplane flaps, they got to go down before
+that airplane can take off […]. Eagles […] the mommy eagle […] goes, "Whoop." […] It learned to fly by falling. […] They climb back
+into the nest, otherwise known as the circle of sameness. […] **If you want your income to go up, but you don't want to let your
+comfort go down, you've got to be kidding yourself.** […] You're not failing. You are advancing.
+
+**(3) Your biggest expense.** Write down your two biggest expenses. […] Taxes is the second biggest expense and almost about 51% of
+money goes to taxes […]. Do you believe that one intelligent person can teach another intelligent person how to make a chocolate
+cake? […] **Your number one biggest expense is not your house. It's not your car. It's not your kids. It's not knowing how to get to
+that next level.** […] Take a hundred thousand dollars on your paper and […] subtract what you made last year. […] For me, when my
+husband was driving Uber, we made around $30,000. So I wrote a hundred thousand dollars minus $30,000 equals 70. […] **This is what
+you paid to life for not knowing how to make a hundred thousand dollars.** […] Now on a piece of paper, write $1 million […] subtract
+[…] a hundred thousand dollars. […] You paid life $900,000 this past year, not knowing how to make a million. […] 2024, you paid life
+another 900K […]. **How much longer do you want to keep paying life for not knowing?** […] **You can write this in your emails and
+share this on your stories.** […] Then let this be an invitation. If you know that this is right for you and you know you already
+should have jumped in by now […] don't pay life next year for not knowing this anymore. […] You can go to a new tab and go to [the join
+URL].
+
+### Segment 39 — PITCH — 04:57–05:00 — The close and a poem
+"Talk to one of our incredible team members… a lot of people… are checking out constantly right now"; "we're just super excited to
+have you part of the Monetize family"; her husband's "I trust you"; "There's no one doing this… When you see the program… it's
+insane." Reads "My Wage" (Jessie B. Rittenhouse: "any wage I would have asked of life, life would have willingly paid") and a Jim
+Rohn quote.
+
+### Segment 40 — MOTIVATION — 05:00–05:07 — James's family; shiny objects; "you're not ordinary"
+Ali shows James Hernandez's wife Angie's Instagram post ("January, he decided to join… Ten months later, being flown out to Dubai")
+and describes James's proud father at breakfast. Q (Eric, France: switching ideas): "shiny object syndrome"; Airbnb "a lot of
+headache", trading "the highest risk"; "**just pick a lane**… Don't hop, skip, and jump… you're going to end up, like I have, with
+like 15 years wasted". Q (Lucas, Brazil: "I'm ordinary"): "none of you are ordinary"; "feel the fear… and just do it anyway".
+
+### Segment 41 — PITCH — 05:07–05:21 — Questions about the offer
+Answered from chat, close to verbatim: **"Do the teams teach us to convince the creators to work with us? Yeah, absolutely… We don't
+just leave you to it… We guide you through the whole process."** Tutorials: "a complete set of modules… a digital product formula".
+**"Do you have email scripts or call scripts that we can use? Yeah, we help you with all that once you come in."** "Monetize is a
+one-time payment." Decide by Sunday? "You have Sunday." Weekly calls: "I do one every Monday without fail, called Accountability with
+Ali. **We have calls where we teach you how to use the particular tools, like ListKit, Synthesize**." **Can we succeed without
+Monetize?** "You can achieve success… Michal… created his first digital product using ChatGPT… made a couple of hundred dollars here
+and there, but it was only after he came into Monetize… that it was exponential… it's obviously going to expedite your journey…
+That's common sense." Camilla (no proof at the start): "I'm a person of faith… The only way you accumulate proof is by taking action."
+Younger self: "it's going to be okay"; boxing: "jab, jab, jab… then… the knockout punch". **Bonus deadline:** Ghostwriter OS and "100
+Years of Wisdom in 100 Minutes" "expire tonight when I finish… I'm trying to run this as long as possible". **Contracts (Evelyn, US:
+"It can be litigated… When partnering creators, do we need contracts?"): "Contracts, all that kind of stuff. We take care of all that,
+right? We show you that. We coach you on that. So don't worry about that."** Existing members get the bonuses ("We look after our own
+here"). Pay Thursday or Friday: possible. Split payment: "access to everything like anybody who would pay in full". "Is this system
+halal?… if it wasn't, I wouldn't be here." Monetize Mania is for buyers only. "Zero digital and online experience… absolutely no issue."
+Buyers posting "checking out"; Ali will "say hello to you personally in the community".
+
+### Segment 42 — MOTIVATION — 05:21–05:30 — Checkout problems; Ali's story; Loom
+"Having issues checking out… it's obviously very busy… please just persevere." Ali's story: IT, recruitment, call centres and
+shopping centres "for the first 35 years"; side hustles; a friend he made his business partner drained the bank account; car
+confiscated; "38 years old", borrowing $20 from his parents; a government IT-consultant job; found Iman on YouTube ("online
+business"); applied to a higher-level programme, "managed to talk my way into helping out". **Loom:** "it's an app where you can…
+record a video, and send it… **You guys will be using it to send messages to creators**"; he recorded his first Loom to Iman from a
+side office at his government job; "January this year, I was in Cape Town breaking bread with the co-founder of Loom… hosting a
+mastermind with seven, eight-figure entrepreneurs". "It's never too late" (a 74-year-old viewer). Recording ends.
+
+---
+
+## Part 4: close and testimonial reel (05:41–06:18)
+
+Wispr Flow meeting `fc2eb102-9016-460a-9ead-40991ebdeac8`. Starts after an ~11-min unrecorded gap, mid-answer.
+
+### Segment 43 — LOGISTICS — 05:41–05:47 — Wrap-up
+Ends an answer ("where I live is what's stopping me": Tashriq is from South Africa, "we've got people who've escaped Gaza"). Ali waits
+for named buyers to come back; "Where is the welcome call?" → "drop a message in the community… there will be a welcome call"; "I'm
+getting a copy of this chat. I'm gonna make sure all you guys were telling me you're checking out have actually checked out";
+"in the next 15 minutes… whoever does check out, I'll make sure you get access to today's bonuses"; "we will see you on Sunday the
+15th".
+
+### Segment 44 — PROOF — 05:47–06:13 — Testimonial reel (full)
+Value 1 for a few method details. All self-reported, unverified; figures may be revenue or the operator's share (rarely said).
+- **Cape Verde, 21:** never had a job; "**I couldn't set up in Stripe or Payoneer**, none of them. If I can't receive money, how am I
+  going to make a business?"; "partner with the creators… just like 2 months has already made like 10k"; "**Ghostwriter helps me a lot
+  with… writing everything. I use Ask Iman… the tool, a lot**"; practised his English "so I could really partner with the creators".
+- **Couple in Ireland (from Gran Canaria):** came with €200; "we are now in 7,000, 8,000, I think" (unit unclear).
+- **Mishal (born in Qatar, Indian):** "thought online business was a scam"; "**$97**… became the VIP"; "$10,000, $20,000, $30,000,
+  $40,000, and right now I'm about to cross $50,000"; "**with Synthesize… click some buttons, like 3 to 4 times… a ready-to-sell ebook.
+  It will just take you around 25 to 30 minutes. But when I tried using ChatGPT, it's taking around 3 to 4 hours**"; "when I spoke with
+  my own accent, they didn't judge me".
+- **Venezuelan student in Spain, 21:** knew only trading; "I spent $2,000 on a guy"; "that product made $5,000… total revenue";
+  "the major transformation… is not on my business, but in myself".
+- **Zada (Bosnia/Germany/Australia), mother of two, on maternity leave:** "**As an accountant, I was making around 3,000 euros per
+  month, and now I'm making between 6 and 8 thousand euros working from home**… I was able to make a comfortable amount of money with
+  **just having one client**."
+- **Shadmer (Iran, in Dubai), 20:** lost $300 trading, failed at dropshipping; "about 4 to 5k"; "in digital products, all of them are
+  your profits" (no shipping, low margins); "**about 1 hour or 2 hours a day**" beside university.
+- **Nader (Gaza), in Arabic (our translation, gist):** a lecturer before the war; the family home was destroyed in the first week;
+  no internet, so he bought a phone and a data SIM and ran the business from his building; "**in the first 3 months after the event we
+  made $2,775 net revenue**, and in the first year, **October 2025 to October 2026, a little under $22,000**"; it became an income
+  for his brother (a dentist who lost his clinic), a cousin and others; "**I now have 23 people in the academy working with me from
+  Gaza, only on producing the books, designing them and delivering them**"; "if you're outside Gaza and can't make $100 online, you're
+  one of the excuse people".
+- **Tashriq:** as in segment 34.
+- **Gael (Mexico), med student:** "$70 per 2 weeks" instalments, "I asked for a loan at my bank to purchase it"; "**I posted the
+  creator's DNA, and Synthesize AI made it very easy… In 5 days, we made in total sales $48k in that launch, and my part was $12k in
+  my first launch**"; "Start doing outreach."
+- **Angelo (Haiti):** "I started my online business in December… my first 1k… 10k… 50k, and we are close to 100k"; "our own house…
+  that we pay cash"; "You don't need… a face… You don't need to have the expertise, the copywriting."
+
+### Segment 45 — PITCH — 06:13–06:18 — Ad for the free challenge
+"You have never been this early… every gray dot… represents 3 million people who have never used AI. 84% of the dots are gray…
+the number of people actually making money with AI… one single dot"; "the company that I flew here for… **Higgsfield** took what
+used to take a full technical team"; "to celebrate this huge investment into Higgsfield, I'm hosting a 5-day live challenge… building
+a $373 a day online income from November 7th to the 15th"; "click the link… to secure your free seat". (This appears to be the
+original ad for this challenge; who narrates is unclear *[?]*.)

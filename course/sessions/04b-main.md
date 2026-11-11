@@ -1,12 +1,26 @@
-# Episode 4 main: Mark Tilbury's "5 secrets to financial wealth", then the Monetize bonuses (Wed 11 Nov 2026, 01:08 → 02:15 Thailand time, part 1)
+# Episode 4 main: Mark Tilbury's "5 secrets to financial wealth", the Monetize offer and the after-hours (Wed 11 Nov 2026, 01:08 → 06:18 Thailand time)
 
-> **Part 1 only (01:08–02:15); part 2 pending** (see §8). The recorder was started ~8 min late; the missed opening was motivation
-> only.
+> **All four parts processed.** Part 1 (01:08–02:15) = Mark Tilbury's talk and the Ghostwriter OS pitch (§1–§7); parts 2–4
+> (02:15–06:18) = what Monetize includes, the ~3-hour after-hours with guests and Q&A, and the closing testimonial reel (**§8**).
+> Unrecorded: ~8 min before part 1 (motivation only) and ~11 min at 05:30–05:41 (chat Q&A while buyers checked out).
 
-Recording: https://notes.wisprflow.ai/shared/c_Giido16jUb2ZuZeRvK66i-gVLWT2yg4XQ30tHSFyE
-(Wispr Flow meeting `45b0e33c-7de8-457d-b703-5145aba74b8a` "Main session 4", ~67.1 min, transcript 58.6k characters, read in full.)
+Recordings (Wispr Flow): part 1 `45b0e33c…` https://notes.wisprflow.ai/shared/c_Giido16jUb2ZuZeRvK66i-gVLWT2yg4XQ30tHSFyE ·
+part 2 `aca74477…` https://notes.wisprflow.ai/shared/Tgy6dbUYgB-LQqDArFSkEwTnYJE9-x1X7ejyFGgtZVg ·
+part 3 `ab7cccf4…` https://notes.wisprflow.ai/shared/de0Pj-uxXUN1ZTwwxi0hYLN5HbRBiBUy-HXs-WXUAA0 ·
+part 4 `fc2eb102…` https://notes.wisprflow.ai/shared/dCutaWDbWVv35mGOXb9RBOo-IyFZ0WLC5B7-d0ESJSw.
+≈ 298 recorded minutes; all four transcripts (282k characters) read in full.
 
-**Verdict for part 1: ≈ 34% valuable by label, but only ≈ 9% at value 2** (about 23 of 67 min are LESSON + EXAMPLE; all of it is
+**Verdict for the whole Day 4 main session: ≈ 24% valuable by label (72 of ~298 min LESSON + EXAMPLE), but only ≈ 5% at
+value 2** (two segments, ~16 min). The rest: motivation 36%, pitch 22%, proof 15%, logistics 3%. Much of the "valuable" after-hours
+time **repeats the Episode 4 VIP** (side-income hours, local languages, "the creator can't ask for a refund"). **Genuinely new and
+usable for us: ~15–20 minutes in five hours**: Iman's "prepare for… nine months [without] your first dollar" and the cap on what you
+put in (§8.3); a client's **failed first creator call** and why (§8.3, §8.4); **Loom video messages** to creators; Eileen Wilder's
+**story-based launch scripts** and price-objection reframes (useful as copy patterns, and as a catalogue of the techniques used on
+us); and Mark's research stopping rule from part 1. **Still not taught after four days:** outreach wording, call structure, deal
+and contract terms, launch schedule, pricing. Ali confirmed that **contracts, email scripts and call scripts exist only inside the
+paid programme** (~05:12). Details: §8.10.
+
+**Verdict for part 1 alone: ≈ 34% valuable by label, but only ≈ 9% at value 2** (about 23 of 67 min are LESSON + EXAMPLE; all of it is
 value 1 except one ~6-min segment). The rest is motivation 40% and pitch 25%; no proof, no logistics. **It teaches nothing new
 about developing, distributing or delivering digital products.** Mark's five "secrets" are mindset and personal-finance framing told
 through his biography, and they work as the run-up to the Monetize offer (decide tonight; risk is in *not* acting; $10,000 is best
@@ -25,7 +39,7 @@ standalone, free with Monetize until the end of the session); **Consulting.com o
 tool the course recommends. **No password** was given in part 1.
 
 ## Segment map
-Full labelled transcript (20 segments, times ±3 min): [`../transcripts/04b-main.md`](../transcripts/04b-main.md)
+Full labelled transcript (45 segments; times ±3 min, part 3 ±5 min): [`../transcripts/04b-main.md`](../transcripts/04b-main.md)
 
 | Thailand time (≈) | What | Label |
 |---|---|---|
@@ -37,13 +51,26 @@ Full labelled transcript (20 segments, times ±3 min): [`../transcripts/04b-main
 | 01:51–02:00 | Secret 5 "doing beats knowing": stolen plan; **execution can't be copied; research needs an end** | MOTIVATION / **LESSON** (seg 14, value 2) |
 | 02:00–02:04 | "Specialized AI… done for you"; recap of excuses; Mark's video-library bonus | PITCH |
 | 02:04–02:15 | Iman: **Ghostwriter OS** ($1.546M licensing; $2,999/yr); where copy is needed (LESSON, seg 18); ListKit stake; private Zoom with Mark and Ali | PITCH / LESSON (value 1) |
+| **02:15–02:34** | **Part 2.** What Monetize includes: Digital Product Formula, Synthesize "unlimited", insurance, Mania, ListKit, library; "$23,000" stack → **$1,995** or $166/month; guarantee; refund; checkout (seg 21–23) | PITCH |
+| 02:34–02:36 | No sessions Wed–Sat; **finale Sun 15 Nov 1 PM ET** (01:00 Mon Thailand); workbook password (not recorded here) (seg 24) | LOGISTICS |
+| **02:36–02:58** | **Part 3, after-hours.** Testimonial reel; **Nick**: decisions, be-to-have, three levels of decision (seg 25–26) | PROOF / MOTIVATION |
+| 02:58–03:19 | Q&A with Iman: **side income 90 min–3 h/day**; **your language as an advantage**; **no ongoing costs, a capped stake, "nine months" to a first dollar** (seg 27–29) | **LESSON** (value 1, 1, **2**) |
+| 03:19–03:48 | Q&A: mockery, company, procrastination; **"you're not selling anything"** (seg 31); who helps (insurance, Ali's Monday call, "Ask Iman"); no pedestals | MOTIVATION / **LESSON** (value 1) / PITCH |
+| 03:48–04:05 | **Tashriq** (Cape Town): loan to join; **failed first creator call**; slump; ~$6,600 first launch; $3k/month (seg 34) | PROOF (value 1) |
+| 04:05–04:39 | **Eileen Wilder**: wealth = time, "moral obligation"; **four buyer types; "people buy what they want the most"; "how great will it be when this works?"** (seg 36) | MOTIVATION / **LESSON** (value 1) |
+| 04:39–05:00 | Eileen's **"money party" story scripts**: Gideon ("I am…"), law of advancement, "your biggest expense is not knowing" ($100k − income); close and poem (seg 38–39) | **EXAMPLE** (value 1) / PITCH |
+| 05:00–05:30 | Ali: James's family; "pick a lane"; **offer Q&A** (scripts and contracts "inside", calls, bonuses expire, buy until Sunday, split pay); Ali's story; **Loom to message creators** (seg 40–42) | MOTIVATION / PITCH |
+| *05:30–05:41* | *Not recorded* | — |
+| **05:41–06:18** | **Part 4.** Ali waits for checkouts; full **testimonial reel** (Zada, Nader, Gael, Mishal…); ad for the free challenge ("Higgsfield") (seg 43–45) | LOGISTICS / PROOF / PITCH |
 
 **Who spoke:** Mark Tilbury (until ~02:04; "Speaker 1"); Iman Gadzhi (from ~02:04; also "Speaker 1" after the handover, "Speaker 2"
-before it). **Transcription fixes:** "Eman" = Iman; "consultant.com" = Consulting.com; "WAP" = Whop. Details in the transcript header.
+before it; part 2 alone; "Speaker 3" in the after-hours Q&A); **Ali** (co-host of the after-hours); guests **Nick**, **Tashriq**,
+**Eileen Wilder**; ~10 clients in the testimonial reel. **Transcription fixes:** "Eman" = Iman; "consultant.com" = Consulting.com;
+"WAP" = Whop; "Digital Park Formula" = Digital Product Formula; "Emma" = probably the "Ask Iman" AI *[?]*. Details in the transcript header.
 
 ---
 
-## 1. Summary
+## 1. Summary (part 1)
 
 1. **The frame.** Two characters: the **lifelong avoider** ("I'll think about it", which "isn't a decision") and the **early
    mover** (decides before others agree). Viewers commit to a yes or a no "before you go to bed tonight" and shout "yes" at the
@@ -218,7 +245,8 @@ risky. I don't have enough money. It's too expensive. I'm not ready yet."
 
 ## 5. Logistics
 
-- **No password or giveaway in part 1.** (The VIP's password was `offer`, 04a-vip ~00:01.)
+- **No password or giveaway in part 1.** (The VIP's password was `offer`, 04a-vip ~00:01.) The workbook password was announced in
+  part 2 (~02:35) and is not recorded here (§8.9).
 - "After we finish here, we'll get straight into the after hours" (Iman, ~02:11).
 - Existing Monetize members find Ghostwriter OS in the Whop dashboard under "software and tools".
 - Resolves the 04a-vip open question: the "$1.5M surprise" tool = **Ghostwriter OS** (AI copywriting); James's "Ghostwriter" slip
@@ -269,16 +297,286 @@ risky. I don't have enough money. It's too expensive. I'm not ready yet."
 
 ---
 
-## 7. Open questions
+## 7. Open questions (after part 1; see §8.12 for the state after parts 2–4)
 
-1. What Monetize includes and costs (part 2), and whether part 2 or the after-hours teaches any method.
+1. ~~What Monetize includes and costs (part 2), and whether part 2 or the after-hours teaches any method.~~ Answered in §8.
 2. What the outreach "kit" is (04a-vip), and whether Ghostwriter OS ships templates for creator launch copy (demo not transcribed).
 3. Still untaught after Day 4 part 1: deal terms, launch mechanics, product pricing, platform fees.
 
 ---
 
-## 8. Part 2 (pending)
+## 8. Parts 2–4: the offer, the after-hours and the testimonial reel (02:15–06:18)
 
-*Placeholder.* Part 2 (Wispr Flow meeting `aca74477-4062-4c99-b4f4-e965fa874107`, from ~02:15 Thailand time) starts where Iman
-explains what is included in Monetize. It was still recording when part 1 was processed. To be added: segment map, summary, verdict
-for part 2 and for the whole session, password (if any), and updates to §6.
+Segments 21–45 of the [labelled transcript](../transcripts/04b-main.md). Times ±3 min (after-hours ±5 min).
+
+### 8.1 Summary
+
+1. **Part 2 (02:15–02:36), the offer.** Iman reads the Monetize stack and price ($1,995), guarantee, refund and checkout steps,
+   then the schedule (no sessions Wed–Sat, finale Sunday) and the workbook password. Pure pitch and logistics (§8.2, §8.9).
+2. **Part 3 (02:36–05:30), the after-hours** ("only for the ones who are here live"): a testimonial reel; **Nick**'s mindset talk
+   (18 min); an **unplanned Q&A** where Ali reads chat questions and Iman answers (~45 min, the most useful stretch); a **client
+   interview** with Tashriq (Cape Town); **Eileen Wilder** (~50 min) with buyer types and three story "scripts" for launch events;
+   then Ali alone for ~30 min answering offer questions while buyers check out.
+3. **Part 4 (05:41–06:18).** Ali waits for checkouts and closes; the full testimonial reel; an ad for the free challenge.
+
+### 8.2 Part 2: what Monetize includes (short; full analysis in the research file)
+
+> The offer is analysed component by component, with prices, durations, "unlimited" vs credits, the refund policy and a
+> cost comparison, in [`../../research/monetise-vs-own-system.md`](../../research/monetise-vs-own-system.md) (§1–§9). Only the facts
+> heard live are listed here.
+
+| Item | As said live (≈ time) |
+|---|---|
+| Digital Product Formula | The 3D system as training, "click by click" ("people have paid $1,495") (~02:15, ~02:27) |
+| Synthesize AI | "Unlimited access… as many times as you want… no extra cost"; "20 plus thousand products… $155 million in sales"; "$2,999 a year" (~02:18) |
+| Perfect Product Insurance Policy | Team diagnostic and action plan if no first dollar within 60 days (otherwise "up-level at $7,800") (~02:20) |
+| Monetize Mania | 90-day leaderboard from Monday; top 20 "win"; past rounds "$8.9M… $41M" (~02:21) |
+| ListKit | "Creators lining up… completely automated… 30, 50, sometimes even 70%"; "$597 a month… one full year… $7,164" (~02:22, ~02:28) |
+| Mark's knowledge library | From the closed "$1,000 a year" Wealth Portal (~02:24) |
+| Fast-action bonuses (until the end of the stream) | Ghostwriter OS ("$2,999") and Mark and Ali's "100 Years of Wisdom" call (~02:28) |
+| Price | "Over $23,000" → "**a single payment of $1,995**", or buy now, pay later "as low as $166 a month" (~02:29, ~02:33) |
+| Guarantee | "10x your investment… or we keep working with you until you do… verified in real time" on Whop (~02:31) |
+| Refund | "48 hours… within those 7 days, you keep the digital product" (the written policy: request within 7 days, processed within 48 h) (~02:32) |
+| Checkout | Join URL → "Get Access Now" → Whop checkout; card, bank, crypto, PayPal, UPI, regional methods (~02:30) |
+
+### 8.3 The after-hours in detail
+
+**Nick (02:40–02:58, MOTIVATION).** Motivational speaker (no legs, one arm; "Baby Yoda"). Law of exposure; "the only bad decision is
+not making a decision"; be-to-have ("you have to become the person before you do the thing"); "what's the gift?" in hardship; train
+the brain to find evidence it will work; **three levels of decision**: transactional, contractual ("fear of penalty"), covenant
+("you go all in and I go all in with you") → "Are you all in with the team?". Nothing about digital products.
+
+**Q&A with Iman and Ali (02:58–03:48).** Questions collected from the chat over the past days, read by Ali.
+
+| Question (≈ time) | Answer, as given | Label / new? |
+|---|---|---|
+| Full-time job: can I build on the side? (~02:58) | "**90 minutes to maximum… three hours a day**"; a job is "a blessing because it gives you the security"; "burn the boats… dog shit advice" (Ali); take the side thing main "when the time is right". Iman dropped out at 17 on ~£4.8–5.6k/month and "**became less efficient**" with a free day; "overtraining does exist" | LESSON 1; repeats 04a-vip, the counter-example is new |
+| English isn't great; can I build in my language? (~03:05) | Business is "a game of competitive advantages"; your **language and geography** are one; "the American market gets hit first… they bleed into the smaller markets"; smaller ceilings don't matter for "an extra 2 grand… 5… 10 grand a month". Same answer given to "Quantum" clients who "pay… 25K for six months" | LESSON 1; repeats 04a-vip |
+| Lost money before; how not to repeat it? (~03:09) | "I focused on ways of making money… that **didn't cost ongoing money to upkeep**"; his stock stuck in customs for 3.5 months in 2020; "**there needs to be a cap**… past this, I'm not spending money on stock… ads… trading"; "**prepare for a situation where maybe for nine months you don't make your first dollar**… in this model, you can fail for nine months"; failures = "data points", "wisdom is… a long track record of collecting enough data points" | **LESSON 2: new** (the only realistic timeline in the challenge) |
+| Fear that people will mock me (~03:19) | "Who's going to find out…?"; build in private; doubters as fuel | MOTIVATION |
+| Does the company I keep matter? (~03:23) | Yes; community is "the biggest ROI" (Ali); no need to cut off unambitious friends (Iman) | MOTIVATION |
+| I always say "later" (~03:28) | Start with small things; "**confidence comes from competence**", which only comes from doing | MOTIVATION |
+| Not business-savvy, no skills (~03:33) | Two routes, faceless or creator; "**you're not part of the value equation at any point**"; a launch meant to make 15K makes 3K at 70/30: "Ask for a refund? They didn't pay you any money"; unlike agency work, "**you're not selling anything**" | LESSON 1; repeats 04a-vip ~00:44 |
+| Stuck on first product or outreach: who helps? (~03:36) | Perfect Product Insurance Policy; "a 90-person company"; "**Accountability with Ali**" every Monday; the "Ask Iman" AI ("the digital version of me… 24/7") | PITCH |
+| What belief did you unlearn? (~03:43) | Put nobody on a pedestal; "more data points and more time in the game"; "the right vehicle" (not day trading or dropshipping) | MOTIVATION |
+
+**Tashriq, Cape Town (03:48–04:05, PROOF with one usable account).** 26; a 7-year degree, retail and call-centre jobs; crypto, meme
+coins, dropshipping and e-commerce failed; ran a small agency and "was already accustomed to using AI". About **R60,000 (~$4,000) in
+debt**, unemployed, he **took a loan to buy Monetize** ("probably like double the minimum wage" in South Africa).
+- **First creator, failed:** "Two weeks after going through Monetize, I landed a call with my first creator… in the US… **By the
+  second call, I knew absolutely nothing that we spoke about on the first call.** I was very nervous… And then we actually decided
+  on call… we can't work together. **Because I didn't know how to help at the time.**" He blames moving too fast ("how do I make the
+  fastest money?").
+- **Cost:** a week replaying the call and "two to three months" of lower output.
+- **Recovery:** Ali's weekly call reframed it ("the best thing that could ever happen"); "the other launches… I've learned every
+  single thing on that situation… what to do, what not to do".
+- **Tools:** Synthesize let him "target exactly what product my creator could use" in "5 to 10 minutes" vs "a week or two" by hand;
+  Ghostwriter "saves a lot of time".
+- **Results (self-reported):** first launch "**$6,000 in sales, just under about $6,600**" (his share not stated); debt paid; now
+  "**$3,000 per month**" take-home; next: "more partnerships" with a business partner.
+
+**Eileen Wilder (04:08–05:00).** Launch and sales speaker ("money parties" = live sales events, her own or a partner's). About 40% of
+her time is usable as **copy patterns**; the rest is motivation and the close for Monetize.
+- **Origin story:** broke in 2018, husband driving Uber; **her first ebook sold for $7**, "validation that this could work… the
+  beginning of my six-figure day"; "you could even interview someone that has some knowledge" (MOTIVATION/PROOF).
+- **Framing:** "wealth is measured in time"; "is this a get rich quick scheme?… you better hope so"; "if you have something good, you
+  have a **moral obligation** to get it into the hands of as many people as possible" (MOTIVATION).
+- **Four kinds of buyers** (LESSON 1): free people ("can I get that for free?"), cheap people (both resist any offer and assume "if
+  they can't afford it, no one else will"), fee people (pay "a fee… for your products, your ebooks, your courses") and a top tier
+  that buys "more and more" at money parties (names partly garbled). "**People don't buy what they can afford… People buy what they
+  want the most.**" Reframe for hesitant buyers: not "what if it doesn't work?" but "**how great is this going to be when this
+  works?**"
+- **Three "bits" (story scripts) for emails and live events** (EXAMPLE 1): each tells a short story, states "what's the takeaway for
+  you", and asks the audience to act (type a word):
+  1. **Gideon**: "whatever follows the words 'I am' is directing your destiny"; lists the excuses ("too young… no audience… no
+     money… not techie… camera shy… no expertise… no time") and answers each with what AI does; "so the excuses are gone… only the
+     hiding" → "get up" → join now.
+  2. **Law of advancement**: "before anything goes up, it has to go down" (seed, plane flaps, eagle); "sometimes our bank balances are
+     going down before our income goes up… That's not failure."
+  3. **"Your biggest expense is not knowing"**: write $100,000, subtract last year's income: "this is what you paid to life for not
+     knowing how to make a hundred thousand dollars"; then $1M − $100k = $900k a year; "how much longer do you want to keep paying life
+     for not knowing?" → "You can write this in your emails and share this on your stories."
+  All three were performed live as the close for Monetize, with the join URL.
+
+**Ali alone (05:00–05:30, PITCH/MOTIVATION).** James Hernandez's wife's Instagram post; "**just pick a lane**" against shiny-object
+syndrome; the offer Q&A (§8.5); his own story (jobs until 35, a business partner drained the account, broke at 38, a government IT
+job, a **Loom video to Iman** that got him in; now friends with Loom's co-founder). "**You guys will be using [Loom] to send messages
+to creators.**"
+
+### 8.4 Method content: what parts 2–4 add (and don't) for creator partnerships
+
+| Topic | What was said | Taught? |
+|---|---|---|
+| **Finding and approaching creators** | ListKit gets "creators lining up… completely automated" (PITCH ~02:22); creators accept because without a product "their total profit is zero" (~02:23); **Loom video messages** to creators (Ali ~05:25); Gael: "start doing outreach" (PROOF ~06:05) | **No wording**, no list-building, no follow-up rules |
+| **Calls with creators** | Tashriq's first call failed: unprepared, nervous, "knew absolutely nothing" from call 1 by call 2, couldn't say how he would help (~03:55); Ali: "call scripts… we help you with all that once you come in" (~05:10) | **No call structure**; scripts only inside Monetize |
+| **Contracts** | "Contracts, all that kind of stuff. We take care of all that… We show you that. We coach you on that" (Ali ~05:12, PITCH) | **No** (inside the paid programme) |
+| **Revenue split** | "30, 50, sometimes even 70%" (PITCH ~02:22); "a cut as big as 50%" (~02:16); a 70/30 example without saying who gets 70 (~03:34); Gael: $12k of a $48k launch = **25%** (PROOF ~06:05) | Ranges only; no negotiation method |
+| **Launches** | Eileen's live "money party" and three email/live story scripts (§8.3); Tashriq's first launch ~$6,600 (PROOF); launches below projection again (15K → 3K, ~03:34) | Copy patterns only; **no schedule, sequence or conversion data** |
+| **Pricing** | Eileen: "people buy what they want the most"; her first ebook at $7 | **No pricing method** (still none after Day 4) |
+| **Time and effort** | "90 minutes to maximum… three hours a day" (~02:58); "**prepare for… nine months**" without a first dollar (~03:14); Shadmer "1 hour or 2 hours a day" (PROOF); Zada's income "with just having one client" (PROOF) | **Yes**, as expectations |
+| **Money at risk** | "No ongoing money to upkeep"; "**a cap**… past this, I'm not spending money on stock… ads… trading" (~03:09–03:12) | **Yes** (repeats 04a-vip, adds the cap) |
+| **Payments** | A Cape Verde client "couldn't set up in Stripe or Payoneer" before using Whop (PROOF ~05:48); all sales "verified… on Whop" (PITCH) | Only as anecdote |
+| **Product building** | Synthesize claims: an ebook in "25 to 30 minutes" vs "3 to 4 hours" with ChatGPT (Mishal); a creator's product target in "5 to 10 minutes" (Tashriq); "I posted the creator's DNA" (Gael) (all PROOF) | No new demo |
+| **Team model** | Nader (Gaza): "23 people in the academy… only on producing the books, designing them and delivering them" (PROOF, our translation) | Anecdote |
+
+### 8.5 Q&A answers about the tools, credits, refunds and support
+
+| Question | Answer (≈ time) | Comment |
+|---|---|---|
+| Do I need to be tech-savvy? | "The interface is incredibly intuitive" (Iman ~02:30); "zero digital and online experience… absolutely no issue" (Ali ~05:19) | — |
+| Synthesize limits / credits? | "Unlimited… as many times as you want… no extra cost… I already loaded the machine" (~02:18). **No credits, quota or duration were mentioned live** | The workbooks say "$250,000 worth of AI credits": see research §2 |
+| ListKit, how long? | "One full year" of the "$597 a month" basic plan (~02:28); tool training calls exist ("calls where we teach you how to use… ListKit, Synthesize", ~05:10) | After year 1: not said |
+| Ghostwriter OS / Zoom call after tonight? | "Them two bonuses will expire tonight when I finish" (Ali ~05:13); buyers in the next 15 min after the end still get them (~05:46) | Existing members also get them ("we look after our own") |
+| Refund | "48 hours… within those 7 days, you keep the digital product" (~02:32) | Written policy: 7-day window, processed within 48 h (research §7) |
+| Guarantee | 10× through your products "or we keep working with you"; verified on Whop (~02:31) | Not a refund; ties sales tracking to Whop |
+| Support when stuck | Insurance after 60 days; "multiple calls in the community"; **Accountability with Ali every Monday**; the **"Ask Iman" AI**, "24/7" (~03:36–03:41, ~05:09) | "Ask Iman" (dropped from the Day 4 stack, research §1) is still available to members, per Iman and a client |
+| Email / call scripts? | "Yeah, we help you with all that once you come in" (~05:10) | Not shown |
+| Contracts? | "We take care of all that… We coach you on that" (~05:12) | Not shown |
+| Payment | One-time payment; split payment gets "access to everything"; can still buy on Thursday, Friday and Sunday, without tonight's bonuses (~05:08–05:17) | The live "never… again" applies to the bonuses only |
+| Without Monetize? | "You can achieve success… Michal… with ChatGPT… a couple of hundred dollars… only after he came into Monetize… it was exponential" (~05:13) | A seller's answer; see §8.8 |
+| Is it halal? | "If it wasn't, I wouldn't be here" (~05:15) | — |
+
+### 8.6 Results with numbers (all PROOF, self-reported, unverified)
+
+| Who | Numbers | Detail |
+|---|---|---|
+| Tashriq (South Africa) | First launch "just under about $6,600" in sales; "$3,000 per month" take-home | R60k debt, loan to join; first creator call failed |
+| Gael (Mexico, med student) | Launch "$48k in 5 days… my part was $12k" (= 25%) | Paid by bank loan in $70 fortnightly instalments; WB2 says "$12,995 profit", 03b-main said ~$13k |
+| Zada (Germany) | Accountant €3k/month → "between 6 and 8 thousand euros" | "Just having one client" (one creator) |
+| Nader (Gaza) | "$2,775 net" in the first 3 months; "a little under $22,000" Oct 2025–Oct 2026 | 23 people producing and designing books; 04a-vip said "~10,000 USD" |
+| Mishal (India/Qatar) | "About to cross $50,000"; first $1,000 in 27 days | Joined through the $97 VIP |
+| Cape Verde client, 21 | "10k" in "2 months" | Couldn't open Stripe or Payoneer |
+| Angelo (Haiti) | "Close to 100k" since December | House "paid cash" |
+| Shadmer (Iran/Dubai), 20 | "About 4 to 5k"; "about 2k" in one day | 1–2 h a day |
+| Venezuelan student | "That product made $5,000… total revenue" | Paid "$2,000" |
+| Couple in Ireland | "7,000, 8,000" (unit unclear) | — |
+| Monetize Mania rounds | "$8.9M… $15M… $31M… $41M" in 90 days (PITCH) | Leaderboard tracked on Whop |
+| Armando / Zada (PITCH) | "$111,000 in… 45 days" / "$210,000" | — |
+
+### 8.7 Quotes (verbatim; ≈ Thailand time)
+
+- **≈ 02:18 (Iman):** "Think of it like a slot machine in Vegas where you never have to put money in. I already loaded the machine." *(PITCH)*
+- **≈ 02:22 (Iman):** "All you have to do is say yes when one of those creators shows interest." *(PITCH, ListKit)*
+- **≈ 02:59 (Iman):** "Building a side income should only take you 90 minutes to maximum if you really want to push it three hours a day."
+- **≈ 03:03 (Iman):** "When I dropped out of school and I had the whole day to myself, I became less efficient."
+- **≈ 03:07 (Iman):** "Generally what happens is the American market gets hit first… The most advanced stuff goes to those markets first and they bleed into the smaller markets."
+- **≈ 03:12 (Iman):** "I think you have to prepare for a situation where maybe for nine months you don't make your first dollar."
+- **≈ 03:13 (Iman):** "There needs to be a cap on like, all right, cool, I'm investing X amount, but past this, I'm not spending money on stock… ads…"
+- **≈ 03:18 (Iman):** "Wisdom is just simply a long track record of collecting enough data points."
+- **≈ 03:30 (Iman):** "Confidence comes from competence. And… the only way you can actually have competence is do the thing."
+- **≈ 03:35 (Iman):** "If you're working with the creator, once again, you're not part of the value equation at any point… you're not selling anything."
+- **≈ 03:56 (Tashriq):** "By the second call, I knew absolutely nothing that we spoke about on the first call… we can't work together. Because I didn't know how to help at the time."
+- **≈ 04:12 (Eileen):** "I sold my ebook for $7… it became validation that this could work."
+- **≈ 04:22 (Eileen):** "If you have something good, you have a moral obligation to get it into the hands of as many people as possible."
+- **≈ 04:28 (Eileen):** "People don't buy what they can afford… People buy what they want the most."
+- **≈ 04:30 (Eileen):** "The question you want to ask yourself is not what if this doesn't work… how great is this going to be when this works?"
+- **≈ 04:45 (Eileen):** "Whatever follows the words 'I am' is directing your destiny."
+- **≈ 04:54 (Eileen):** "This is what you paid to life for not knowing how to make a hundred thousand dollars… You can write this in your emails and share this on your stories."
+- **≈ 05:05 (Ali):** "Just pick a lane… Don't hop, skip, and jump from different ideas."
+- **≈ 05:12 (Ali):** "Contracts, all that kind of stuff. We take care of all that, right? We show you that. We coach you on that." *(PITCH)*
+- **≈ 05:25 (Ali):** "You guys will be using it [Loom] to send messages to creators."
+- **≈ 05:48 (client, Cape Verde):** "I couldn't set up in Stripe or Payoneer, none of them. If I can't receive money, how am I going to make a business?"
+- **≈ 06:05 (Gael):** "I posted the creator's DNA, and Synthesize AI made it very easy… $48k in that launch, and my part was $12k."
+
+### 8.8 Claims vs evidence (parts 2–4)
+
+| Claim | Assessment |
+|---|---|
+| Offer values ("over $23,000"; Synthesize "$2,999 a year"; ListKit "$7,164"; insurance "$7,800") | Seller's own anchors; most items have no public standalone price. See research §1, §3–§4 |
+| Synthesize: "20 plus thousand products", "$155 million in sales"; first product "$370,000 in 30 days" | Unverifiable. "$370,000" matches the "Millionaire Mindset" claim ($29, 14,000+ buyers; 02b-main ~01:19; WB2 p.10 "built with their tool in ~1.5 h"); "in 30 days" is new |
+| Monetize Mania "$8.9M → $41M" per 90 days | Unverifiable; would include all members' revenue, so it measures cohort size as much as success |
+| "Completely automated" creator acquisition (ListKit) | **Contradicted by the session's own guests**: Tashriq's first call failed on preparation; Ali says you'll send Loom videos; James did it "all myself" (04a-vip ~00:52) |
+| "You're not part of the value equation"; "you're not selling anything" | Half true: the creator carries no money risk. But Tashriq lost his first creator because he "didn't know how to help", and James calls the job "being a therapist for my clients" (04a-vip ~00:49). Operator skill matters |
+| "Prepare for… nine months" without a first dollar | **The most credible statement of the session**, an admission against interest. It contradicts the pitch's "ready to test this week", the 60-day insurance and the "two weeks" stories |
+| "Can we succeed without Monetize?… Michal… made a couple of hundred dollars" with ChatGPT | One case, told by the seller. Earlier sessions show Michal's first ebook was made with ChatGPT (two weeks of work) and sold to his own faceless audience (02b-main ~03:42; 03a-vip ~00:36); its revenue was not stated there. The speed-up he credits to Synthesize is about build time, not sales |
+| Contracts, email and call scripts "taken care of" inside | Unverifiable from outside; confirms that **none of this was taught publicly** in four days |
+| Whop "$5.4 billion", Higgsfield "$5.1 billion"; "many businesses doing $50M, $100M a year" on Whop | Iman as co-owner/investor; not checked here. Conflict of interest for every Whop recommendation |
+| Testimonials (§8.6) | Hand-picked, self-reported, mostly revenue not profit; several clients took **loans** to buy (Tashriq, Gael), which Iman's own "cap" rule warns against |
+| Eileen: "people buy what they want the most" | A sales belief, no data. True that budgets are choices; used here to dissolve the audience's price objection minutes before the close |
+| Eileen: "your biggest expense is not knowing" ($100k − income) | Not a real cost; an anchoring device. It counts an imagined income as a loss and implies the course closes the gap |
+| "Get rich quick… you better hope so"; "time is infinitely more valuable than money" | Directly contradicts Iman's "baby steps", "prepare for nine months" and Mark's small bets in the same session |
+
+**Sales framing in parts 2–4:**
+- **Stacked anchors:** $23,000 → "not even $10,000" → "$5,000… incredible" → $1,995; "$166 a month".
+- **Risk reversal:** 10× guarantee, refund, "your worst-case scenario is a finished digital product plus every dollar back".
+- **Deadline and scarcity:** bonuses expire "when I finish this call", while Ali "runs this as long as possible" for people checking
+  out; then a 15-minute extension (~05:46). Ali also confirms the programme itself can be bought later.
+- **Identity and commitment:** "only 5% make it to day five"; "are you all in with the team?" (Nick); "type 'pro' in the chat"
+  (Eileen); public "checking out" posts that Ali promises to verify ("I'm getting a copy of this chat").
+- **Reframing objections:** price ("people buy what they want the most"), fear of loss ("what you paid to life for not knowing"),
+  ethics of selling ("moral obligation"), doubt ("get rich quick… you better hope so"; "you've already been scammed by the system").
+- **Social proof:** two testimonial reels, a client interview, James's wife's post.
+
+### 8.9 Logistics
+
+- **Schedule:** no sessions Wed 11 – Sat 14 Nov ("implementation"); watch WhatsApp and email for unannounced updates; **grand finale
+  Sunday 15 Nov, 1 PM Eastern = 01:00 Mon 16 Nov Thailand** (~02:34).
+- **Workbook password:** announced at ~02:35. **Not written into this repository** (as instructed); see the recording if needed.
+- New members: a welcome call, announced in the community (~05:43); Accountability with Ali every Monday.
+- **Ask Iman** is described as a member tool (~03:40; a client uses it, ~05:48).
+- The closing ad ties the challenge to a "huge investment into **Higgsfield**" (~06:14). Who narrates is unclear.
+
+### 8.10 Verdict for the whole Day 4 main session
+
+| | Minutes | Share |
+|---|---|---|
+| LESSON + EXAMPLE (valuable by label) | ~72 of ~298 | **≈ 24%** |
+| of which value 2 | ~16 | **≈ 5%** |
+| of which new to our knowledge base | ~15–20 | **≈ 5–7%** |
+| MOTIVATION / PITCH / PROOF / LOGISTICS | 107 / 65 / 46 / 8 | 36% / 22% / 15% / 3% |
+
+By part: part 1 ≈ 34% valuable (9% at value 2); part 2 0% (all pitch and logistics); part 3 ≈ 28% (one value-2 segment); part 4 0%.
+
+**Honest reading.** Five hours that work as a sales event, with a little teaching. The most valuable minutes are admissions made
+in answers, not lessons: "nine months" to a first dollar; "a cap" on what you put in; a client losing his first creator through lack
+of preparation; contracts and scripts are kept behind the paywall. Eileen's scripts are worth keeping as **copy patterns** and as a
+reference of the persuasion techniques used on the audience, not as a model to copy. Nothing in parts 2–4 changes the decision not
+to buy (see the research file): the bonuses were time-limited, the programme stays on sale, and the missing pieces (contracts, call
+and email scripts) are things we must research anyway.
+
+### 8.11 **OUR INTERPRETATION:** implications for [`system/requirements.md`](../../system/requirements.md)
+
+> ⚠ Our interpretation, not course content. Proposed changes only; `requirements.md` has **not** been edited in this pass. Several §6
+> proposals from part 1 are already in it (R8b, R12a-6, R14b, R14c, R15b, R16b, N2).
+
+- **Time to first revenue (seg 29).** Add to **R4c** or the roadmap: plan the partner channel for **up to ~9 months to the first
+  dollar**, and show the operator a runway (hours and cash) for that period. Keep R8b's 21-day kill rule **per product**, but don't
+  read a string of killed products in months 1–3 as failure of the channel. Report "data points" per test (what we learned), not only
+  pass/fail.
+- **A hard cap on money at risk (seg 29).** Extend **N2** with a single cumulative cap set by the operator (e.g. total cash before
+  the first sale), checked by every spend request (N5 spend caps). Our own phase-1 rule: no loans, no financing for tools or courses.
+- **Call preparation and memory (seg 34).** Add **R12a-4b Call brief and notes**: before each creator call the system prepares a
+  one-page brief (creator summary, audience, the specific product idea, what we do and what they do, proposed split range, R9b mode,
+  questions to ask, likely objections); after the call it records notes, commitments and next steps; the brief for call 2 starts
+  from call 1's notes. The operator must be able to say in one sentence "how we help". This is exactly where the guest failed.
+- **Loom-style video outreach (seg 42).** Add to **R12a-3** an optional channel: a short personalised video (screen + voice, faceless
+  possible) with a drafted script, recorded by the operator, for top-scored creators only. Costs operator minutes, so it counts
+  against R12a-9.
+- **Launch copy patterns (seg 36, 38).** Extend **R12a-6** with optional pieces for a **live launch event** (webinar or creator live)
+  and **story-based emails**: one story per email, an explicit takeaway, one action. Add an **ethics rule** (proposed **R11b**): no
+  invented deadlines or scarcity, no "cost of not knowing" income claims, no pressure on people who said they can't afford it, no
+  income promises; real deadlines only (e.g. a launch price that really ends). Eileen's patterns are the reference for what we
+  *don't* do as much as for what we do.
+- **Price objections (seg 36).** For **R8**: test prices and record why non-buyers didn't buy (where a platform allows feedback),
+  instead of assuming "they buy what they want the most".
+- **Payments in the operator's country (seg 44).** **R13** already requires payouts to our country; the Cape Verde case shows it can
+  block a business. Verify payout availability for Thailand (and partner countries) on each platform before choosing one.
+- **Operator skill is part of the product (seg 31 vs 34).** For **R9b / R12a-3**: the system should not present the operator as
+  "not part of the value equation". Every outreach and call states what we bring (product build, launch kit, delivery, reporting).
+- **Contracts and scripts must come from research (seg 41).** **R12a-5** stays "research needed": the course never showed contract
+  terms publicly. Add a minimal call script and an email sequence to the research sprint.
+- **Concentration (pitch facts).** Iman co-owns Whop and is invested in ListKit and Higgsfield; R13's fallback platform and R14b's
+  concentration check also cover dependence on the course's ecosystem.
+
+**Operator decisions:** (1) the offer: unchanged, no buy (the bonuses expired; the programme can still be bought until Sunday, so
+there is no reason to decide under pressure). (2) Set our own expectation: the first partner revenue may take months; a **small
+faceless test in parallel** (04a-vip §6.4, §6.2 above) gives earlier data. (3) Day 5 (Sunday, 01:00 Mon Thailand) is the last session
+to process; then phase 1 ends per R16b.
+
+### 8.12 Open questions after Day 4
+
+1. **Outreach wording, call structure, contract terms**: confirmed to exist only inside Monetize; research needed (R12a-3, R12a-5).
+2. **Launch mechanics**: only Eileen's story patterns; no sequence, timing or conversion data.
+3. **Pricing**: still no method after four days.
+4. **Whop fees, payouts by country**: still never stated.
+5. Whether Day 5 teaches any method or is mainly the final close.

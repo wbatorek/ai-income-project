@@ -2,7 +2,7 @@
 
 Step 1 of the 3D system (see [frameworks.md](frameworks.md)). Course content only (LESSON and EXAMPLE segments).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
-`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md). Times are Thailand time and approximate (±3–5 min).
+`02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md), `04b-main` = [Episode 4 main](../transcripts/04b-main.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -86,6 +86,12 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 - **With Synthesize:** input "I need an ebook for ADHD" → **15–20 topics with scores** (8.9, 9.7) → picked the highest → client asked for changes → typed edits manually, images already in → finished in **2–4 days** (~03:44).
 - He found specialised tools better than "the normal ones like Claude, ChatGPT. They are good though. For daily basis" (~03:47).
 - **Day 3 VIP version:** with ChatGPT one ebook took "around two weeks"; with Synthesize "two to three days". "The initial thing will be like within one to two minutes. But if you want to add something, it's just like maybe 30 to 40 minutes" of manual changes (pictures, client requests) (03a-vip ~00:46–00:47). He typed a topic, got "a lot of lists" (topic options), downloaded the ebook, edited by hand and sent it (03a-vip ~00:46).
+> Our note: Day 4 testimonials (PROOF, unverified, 04b-main ~05:48–06:05) add more speed claims: Synthesize gives "a ready-to-sell
+> ebook" after clicking "3 to 4 times… around 25 to 30 minutes", vs "3 to 4 hours" with ChatGPT (Mishal); finding "exactly what
+> product my creator could use" took "5 to 10 minutes" vs "a week or two" by hand (Tashriq); "I posted the creator's DNA, and
+> Synthesize AI made it very easy" (Gael). One operator in Gaza employs "23 people… producing the books, designing them and
+> delivering them" (Nader, our translation), i.e. production at volume still uses human editors and designers.
+
 - **Done-for-you as a business:** he advertised in his stories "who needs ebooks or digital products, just DM me" and built ebooks for followers ($67 for the ADHD one) (03a-vip ~00:46).
 
 ### 5.2 A product personalised for a creator (03b-main ~01:47–01:54)
@@ -118,6 +124,7 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 - **Portfolio math:** $15 + $50 + $100 a day ≈ **$5,000/month** from 3 products (~01:48).
 - **Each new product is another asset** in the portfolio (01-opp ~01:49).
 - **Trying again costs time, not money:** "You either pay with time or money… financially, there's no cost… you can just keep spinning the wheel again and again"; "It doesn't cost more to keep trying. So keep trying"; "if you do it yourself, it does take some more time" (04a-vip ~00:32–00:33).
+- **Expect months to a first dollar and cap the stake (Iman, Episode 4 main):** "Prepare for a situation where maybe for nine months you don't make your first dollar… in this model, you can fail for nine months"; models with ongoing costs make that dangerous, so "there needs to be a cap… past this, I'm not spending money on stock… ads… trading". Each failed try is "a data point… readjusting the compass"; "once you're a few years into this… your failures become… very few and far between" (04b-main ~03:09–03:18).
 - **Test many products early (Ali):** "throw as much shit at the wall and see what sticks"; Nader built "hundreds" ("more than a thousand", Iman) of products with Synthesize (04a-vip ~00:28).
 
 **Iteration loop (as taught):** pick pocket → build MVP → publish → no money? build the next one → keep the earners → when one works, "keep digging" (more formats) (02b-main ~01:45, ~01:48; 02a-vip ~00:15).
@@ -126,6 +133,7 @@ The course's own tool. Inputs, data sources, scoring logic, prompts and the chos
 
 - **Page count:** 1 or 20 pages doesn't matter (01-opp ~01:48); 20 or even 5 pages can beat 200 (02a-vip ~00:20, ~00:40) **vs** a ~45-page PDF as the standard (02b-main ~01:41) and "summarize it into 40 pages" (02b-main ~01:36).
 - **Build time:** "in minutes" (01-opp ~02:19), "around 40 minutes" (02b-main ~01:41), "less than an hour" (02b-main ~01:15), 5–10 min of generation (02b-main ~01:46) **vs** Michal's 2–4 days with manual edits (02b-main ~03:44) and "two to three days" in the Day 3 VIP, though only "one to two minutes" for the first draft plus "30 to 40 minutes" of edits (03a-vip ~00:46–00:47).
+- **Time to first sale:** "ready to test this week" and help after 60 days without a first dollar (PITCH, 04b-main ~02:15, ~02:20) **vs** "prepare for… nine months" (04b-main ~03:12).
 - **"No writing, no editing"** (02b-main ~01:41) **vs** Michal typing changes by hand (02b-main ~03:44).
 - **Solution quality:** "it doesn't really matter what solution you propose" (02a-vip ~00:39) **vs** 150 references are what separate a product that "delivers on its promise" from "recycled garbage" (02b-main ~01:36).
 - **Source of the content:** synthesise 150+ external sources, "you don't create it" (02b-main ~01:35) **vs** for a partner product, scan "the content of the specific creator you pick" "instead of… the entire internet" (03b-main ~01:48) **vs** "generally the creators actually create it themselves" (04a-vip ~00:29).

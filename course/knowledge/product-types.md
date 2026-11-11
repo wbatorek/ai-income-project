@@ -1,7 +1,7 @@
 # Product types: formats, examples, prices
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md), `04b-main` = [Episode 4 main](../transcripts/04b-main.md).
 Times are Thailand time and approximate (±3–5 min). All revenue figures are **unverified claims** by the presenters.
 
 ---
@@ -119,6 +119,12 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 | Ranking *[colognes?]* (requested by followers of Iman's friend Alex) | Digital product or community (idea, not built) | — | — | — | Followers kept asking for it: a niche pocket visible in the comments | 04a-vip ~00:26 |
 | Digital products in Arabic (Nader, Gaza) | Not stated | — | — | "~10,000 USD" (period not stated) | Served his own language market | 04a-vip ~00:22 |
 
+> Our note (Episode 4 main, PROOF and MOTIVATION only, unverified): Eileen Wilder's first ebook, 2018, sold for **$7**, "validation
+> that this could work" (04b-main ~04:12); Nader's Arabic book business in Gaza, "$2,775 net" in 3 months and "a little under
+> $22,000" in a year, with 23 people producing and designing the books (~06:00, our translation; compare "~10,000 USD" in the row
+> above); Gael's partner launch, "$48k in 5 days… my part was $12k" (~06:05); the "Ask Iman" digital mind is a member tool, "the
+> digital version of me… 24/7" (PITCH, ~03:40).
+
 > Our note: Zada's buckwheat guide price (€14.99) and income figures, and Gael's "pediatric emergencies" product, appear only in PROOF segments (01-opp ~01:57; 02b-main ~01:12), so they are not counted as course knowledge here. The Pokémon €37k/month at €25/month implies ~1,480 subscribers (our arithmetic).
 
 ### More examples from Workbook 2 (claims, unverified)
@@ -138,7 +144,8 @@ The Synthesize tool offers **5 formats** ("2 here and 3 other formats below"), n
 - Commission / done-for-you: **~$70** / **$67** for an ADHD ebook (02b-main ~03:44; 03a-vip ~00:46).
 - Bundle with 1:1 time: **$1,500** (Michal); enterprise video course **$25,000** (03a-vip ~00:18, ~00:39).
 - Creator-partner products (Day 3 main): **$45** in the publishing demo (03b-main ~01:57); **$150** as "the low end of what these personalized digital products actually sell for" (EXAMPLE, ~01:38); "$150 to $300" (PITCH, ~02:08); a **$14** ebook (Zada) and a **€500** course (David) (PROOF, ~01:21, ~02:56).
-- **No pricing method has been taught** in Episodes 1–2. The Day 3 VIP gave one anecdote: raising Michal's offer from $200 to $1,500 made sales easier, "you actually get easier clients" and buyers "are actually valuing the offer" (03a-vip ~00:38–00:39). The Day 4 VIP is to cover increasing price and value "where you actually don't have to drop the price to make more sales" (03a-vip ~00:38). It did not: the Episode 4 VIP was a Q&A with no pricing content (04a-vip).
+- Eileen Wilder's first ebook: **$7** (MOTIVATION, 04b-main ~04:12).
+- **No pricing method has been taught** in Episodes 1–2, and none in Episode 4 main either (only "people buy what they want the most", [buyer-psychology.md](buyer-psychology.md) §5b). The Day 3 VIP gave one anecdote: raising Michal's offer from $200 to $1,500 made sales easier, "you actually get easier clients" and buyers "are actually valuing the offer" (03a-vip ~00:38–00:39). The Day 4 VIP is to cover increasing price and value "where you actually don't have to drop the price to make more sales" (03a-vip ~00:38). It did not: the Episode 4 VIP was a Q&A with no pricing content (04a-vip).
 
 ## 6. Contradictions between sessions
 

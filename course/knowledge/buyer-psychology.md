@@ -1,7 +1,7 @@
 # Buyer psychology: how buyers decide
 
 Course content only (LESSON and EXAMPLE segments). Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md),
-`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md).
+`02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md), `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md), `03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04a-vip` = [Episode 4 VIP](../transcripts/04a-vip.md), `04b-main` = [Episode 4 main](../transcripts/04b-main.md).
 Times are Thailand time and approximate (±3–5 min). None of these principles was backed by data in the course.
 
 ---
@@ -61,6 +61,28 @@ Times are Thailand time and approximate (±3–5 min). None of these principles 
 - **A simple checkout:** a simple payment process "makes a huge, huge difference on the amount of sales" (03a-vip ~00:25).
 - **Price as a signal (EXAMPLE):** at $200 Michal's buyers "were asking too many questions"; at $1,500 "they were like, all right, it's fine. They paid." Andres: with a higher price "you actually get easier clients" and "they're actually valuing the offer" (03a-vip ~00:39). One anecdote, and the offer included 1:1 mentorship.
 
+## 5b. Price objections at a live sale (Eileen Wilder, 04b-main ~04:25–04:32)
+
+Taught as a framework for "money parties" (live sales events, yours or a partner's); value 1, no data.
+- **Four kinds of people in the marketplace** (names partly garbled in the transcript): **free people** ("Can I get a discount?
+  Can I get that for free?"), **cheap people**, **fee people** ("they'll pay a fee… for your products, your ebooks, your courses")
+  and a top tier "who will typically buy at your money parties and buy more and more". "It's going to be tough for free people and
+  cheap people to see your value… They're resistant to anybody offering them something" (the shopper who says "no" to any
+  salesperson).
+- **Projection of affordability:** "They're thinking that they can't afford it. And because they think that they can't afford it,
+  they think other people can't afford it."
+- **"People don't buy what they can afford… People buy what they want the most.** So it's never that people can't afford it… people
+  are right now already buying the things that they want the most."
+- **Swap the question:** not "what if this doesn't work?" but "**how great is this going to be when this works?**", asked to help
+  hesitant buyers picture the result (future pacing).
+- **Cost-of-inaction framing:** "your biggest expense is… not knowing how to get to that next level" ($100,000 minus last year's
+  income = what you "paid life"), used in emails and live events (~04:52–04:57; [distribute.md](distribute.md) §4c).
+
+> Our note: these are classic direct-response closing devices (objection reframing, future pacing, cost of inaction). They were used
+> on the audience minutes before the Monetize close, so treat them as a description of persuasion, not as evidence about buyers. Bit
+> 3's "cost" is an imagined income, not a real loss. For our own launches: use the honest parts (picture the result; say what not
+> acting costs only when it's real), never invent deadlines or pressure people who said they can't afford it.
+
 ## 6. Buying-trigger checklist
 
 Use when writing a product promise, title or sales page:
@@ -80,6 +102,7 @@ Use when writing a product promise, title or sales page:
 
 - **Search:** "Nobody wakes up and googles 'buy golf ebook'… digital products aren't hunted down by buyers" (01-opp ~02:20–02:21) **vs** pockets defined by what "people are already searching for" and AI that "can scan Google, Amazon" (02b-main ~01:19, ~01:33). Reconcilable as: people search for the *problem*, but buy where they're shown a product by someone they trust. The Day 3 VIP presenter, however, searched Google for a wedding expense tracker and bought one (03a-vip ~00:07), so search-led purchases of tools/templates clearly happen.
 - **Does trust outweigh the product?** "You can do pretty much everything wrong, and people will still buy" (03b-main ~01:23) **vs** the wrong product sells nothing even to 50,000 ready buyers (02b-main ~01:08).
+- **Can they afford it?** "People don't buy what they can afford… they buy what they want the most" (04b-main ~04:28) **vs** the seller's own "the average person who really needs this does not have the means to… pay that kind of fee" (PITCH, 04b-main ~02:29) and the course's low prices for beginner products ($7–$45) (04b-main ~04:12; 03b-main ~01:57).
 - **Does the solution matter?** Once you articulate the problem well, "it doesn't really matter what solution you propose" (02a-vip ~00:39) **vs** 150+ references are "what separates a digital product that actually delivers on its promise from the recycled garbage" (02b-main ~01:36), and "a painful problem… **and a good solution**" (02a-vip ~00:27).
 
 > Our note: these principles match standard direct-response copywriting (pain, specificity, "enter the conversation in their head"). The "2×" figure loosely borrows from loss aversion and is rhetoric, not a measured number. Not covered so far: objections, reviews or social proof for end buyers, refund behaviour. Price sensitivity: only Michal's anecdote (§5).

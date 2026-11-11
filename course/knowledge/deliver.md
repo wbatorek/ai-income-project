@@ -3,11 +3,12 @@
 > **Status: covered as far as the course goes.** The Episode 3 VIP listed what the hosting platform (Whop) does (§3.1); the
 > Episode 3 main session showed the publish steps and the automatic revenue split for creator partnerships (§3.2–§3.3).
 > **Never stated:** Whop fees, how the split is configured, refunds, customer service, tax.
+> **Episode 4 main (parts 2–4)** added nothing taught about delivery; only pitch facts and one testimonial on payment access (§3.5).
 
 Step 3 of the 3D system (see [frameworks.md](frameworks.md)). Course content only (LESSON and EXAMPLE segments).
 Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vip` = [Episode 2 VIP](../transcripts/02a-vip.md),
 `02b-main` = [Episode 2 main](../transcripts/02b-main.md), `03a-vip` = [Episode 3 VIP](../transcripts/03a-vip.md),
-`03b-main` = [Episode 3 main](../transcripts/03b-main.md). Times are Thailand time and approximate (±3–5 min).
+`03b-main` = [Episode 3 main](../transcripts/03b-main.md), `04b-main` = [Episode 4 main](../transcripts/04b-main.md). Times are Thailand time and approximate (±3–5 min).
 
 ---
 
@@ -82,6 +83,16 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 - "$150… on the low end of what these personalized digital products actually sell for" (EXAMPLE, ~01:38).
 - **No fees** were mentioned, and the split configuration (does the creator need a Whop account?) was not shown.
 
+### 3.5 Payment access and Whop as the record of sales (Episode 4 main; PROOF and PITCH only)
+
+> Our note: a client from Cape Verde: "I couldn't set up in Stripe or Payoneer, none of them. If I can't receive money, how am I going
+> to make a business?" before he used the course's route (PROOF, 04b-main ~05:48). Payout availability by country is a real blocker,
+> never covered in the course. Monetize's guarantee is checked through Whop: "Everything runs through Whop, our own platform. Every
+> sale, every customer, every dollar, verified in real time" (PITCH, ~02:31); its checkout takes card, bank, ACH, wire, crypto,
+> PayPal, UPI and regional methods (PITCH, ~02:30). Iman calls himself "a co-owner of Whop" and says "many businesses [are] doing
+> $50 million, $100 million a year in the digital product realm" there and that Whop is worth "$5.4 billion" (~03:07, ~03:16). Fees
+> were again not stated.
+
 ## 4. Contradictions
 
 - **Price level:** "$150" is "the low end" for personalised products (03b-main ~01:38) **vs** $45 in the publishing demo (03b-main ~01:57).
@@ -91,7 +102,7 @@ Citations: `01-opp` = [Episode 1](../transcripts/01-the-opportunity.md), `02a-vi
 
 ## 5. Open questions (not answered by Episode 3)
 
-- Fees (never stated in any session), payout times, refund and chargeback handling; account-freeze risk on Whop itself.
+- Fees (never stated in any session, including Episode 4 main), payout times and **payout availability by country** (04b-main ~05:48), refund and chargeback handling; account-freeze risk on Whop itself.
 - How the creator's share is set up on Whop (split rule, team member, affiliate link?) and who is the seller of record.
 - Customer service: what still needs a human ("a few more emails")?
 - Marketplace discovery and affiliate options on Whop.

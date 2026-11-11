@@ -47,5 +47,6 @@ hand-picked success stories. Anything we act on should be checked in [`../resear
 - [03a-vip.md](sessions/03a-vip.md): Day 3 VIP: intrinsic vs borrowed value, four faceless formats, Whop hosting (~70% useful, ~15–18 min new)
 - [03b-distribute-deliver.md](sessions/03b-distribute-deliver.md): Day 3 main: micro-creator partnerships, Whop delivery, demo (~33% useful, rated 2–3)
 - [04a-vip.md](sessions/04a-vip.md): Day 4 VIP Q&A: saturation, local-language markets, guest with 7 creator partners (~48% useful, ~10–12 min new)
+- [04b-main.md](sessions/04b-main.md): Day 4 main + after-hours: Mark Tilbury's five secrets, offer, launch story scripts, "9 months to first dollar" (~24% by label, ~5% solid)
 
 Workbooks: [1](workbooks/workbook-01-filled.pdf) (password `INTEREST`), [2](workbooks/workbook-02.pdf) (password `lever`, [notes](workbooks/workbook-02-notes.md)); [Workbook 3](workbooks/workbook-03-filled.pdf) (password `balance`, [notes](workbooks/workbook-03-notes.md)); [Workbook 4](workbooks/workbook-04-filled.pdf) ([notes](workbooks/workbook-04-notes.md))
